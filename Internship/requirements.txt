@@ -1,0 +1,7 @@
+pandas
+requests
+selenium
+webdriver-manager
+airtable-python-wrapper
+pyairtable
+pytest

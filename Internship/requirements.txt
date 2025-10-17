@@ -1,0 +1,7 @@
+pandas~=2.2.1
+requests~=2.31.0
+selenium~=4.19.0
+webdriver-manager
+airtable-python-wrapper
+pyairtable
+pytest~=8.1.1

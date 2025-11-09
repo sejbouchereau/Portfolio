@@ -31,5 +31,5 @@ EDA of mobile application data from the Google Play Store to identify trends in 
 
 
 
-Python, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook
+Python, Pandas, NumPy, Matplotlib, Seaborn
 

@@ -1,4 +1,4 @@
-\# 📊 Google Play Store EDA
+# 📊 Google Play Store EDA
 
 
 
@@ -6,7 +6,7 @@ EDA of mobile application data from the Google Play Store to identify trends in 
 
 
 
-\## Key Highlights
+## Key Highlights
 
 
 
@@ -17,7 +17,7 @@ EDA of mobile application data from the Google Play Store to identify trends in 
 
 
 
-\## Insights
+## Insights
 
 
 
@@ -27,7 +27,7 @@ EDA of mobile application data from the Google Play Store to identify trends in 
 
 
 
-\## 🧠 Technologies
+## 🧠 Technologies
 
 
 

@@ -1,0 +1,1351 @@
+Date,Day,Month,Year,Calls,Day 1,Day 2,Day 3,Day 4,Day 5,Day 6,Day 7,Total Repeat Calls,Type,Market
+04-02-2022,4,2,2022,199,21,6,11,7,14,5,6,70,Internet & Wi-Fi,Market 1
+30-01-2022,30,1,2022,19,2,0,2,1,0,0,0,5,Account management,Market 1
+14-02-2022,14,2,2022,29,0,2,2,0,1,0,1,6,Account management,Market 1
+16-01-2022,16,1,2022,120,6,6,5,4,7,4,0,32,Technician troubleshooting,Market 1
+03-02-2022,3,2,2022,182,27,13,0,14,4,3,2,63,Internet & Wi-Fi,Market 1
+08-03-2022,8,3,2022,3,0,0,0,0,0,0,1,1,Construction,Market 1
+05-03-2022,5,3,2022,2,1,0,1,0,0,0,0,2,Construction,Market 1
+01-02-2022,1,2,2022,262,14,8,7,3,2,3,8,45,Technician troubleshooting,Market 1
+04-01-2022,4,1,2022,15,2,3,1,0,0,1,2,9,Scheduling,Market 1
+10-02-2022,10,2,2022,258,11,10,4,7,7,7,5,51,Technician troubleshooting,Market 1
+11-01-2022,11,1,2022,263,28,9,13,8,5,12,8,83,Internet & Wi-Fi,Market 1
+22-01-2022,22,1,2022,6,0,0,1,3,2,0,1,7,Scheduling,Market 1
+02-02-2022,2,2,2022,2,0,0,0,0,0,0,0,0,Construction,Market 1
+26-03-2022,26,3,2022,206,24,11,20,11,7,5,7,85,Internet & Wi-Fi,Market 1
+13-02-2022,13,2,2022,26,0,0,0,1,0,0,0,1,Account management,Market 1
+10-01-2022,10,1,2022,44,3,1,1,2,0,4,0,11,Account management,Market 1
+14-03-2022,14,3,2022,23,4,5,1,0,0,0,3,13,Account management,Market 1
+26-02-2022,26,2,2022,18,2,1,1,0,3,0,0,7,Account management,Market 1
+10-02-2022,10,2,2022,21,0,1,0,0,1,2,1,5,Scheduling,Market 1
+17-02-2022,17,2,2022,9,3,0,1,2,0,0,0,6,Scheduling,Market 1
+30-01-2022,30,1,2022,133,12,6,10,5,8,4,3,48,Internet & Wi-Fi,Market 1
+04-01-2022,4,1,2022,44,4,4,3,0,1,3,2,17,Account management,Market 1
+05-01-2022,5,1,2022,4,0,0,0,0,0,0,0,0,Construction,Market 1
+21-03-2022,21,3,2022,211,29,27,9,13,9,11,10,108,Internet & Wi-Fi,Market 1
+29-01-2022,29,1,2022,130,5,10,5,10,8,3,6,47,Technician troubleshooting,Market 1
+11-02-2022,11,2,2022,37,0,0,1,0,2,0,0,3,Account management,Market 1
+20-01-2022,20,1,2022,22,2,6,3,1,0,0,0,12,Account management,Market 1
+22-03-2022,22,3,2022,503,23,25,13,11,3,18,14,107,Technician troubleshooting,Market 1
+18-03-2022,18,3,2022,19,2,1,4,0,2,2,0,11,Scheduling,Market 1
+09-03-2022,9,3,2022,306,19,12,8,4,7,7,9,66,Technician troubleshooting,Market 1
+04-02-2022,4,2,2022,24,1,0,0,2,2,0,4,9,Account management,Market 1
+14-01-2022,14,1,2022,5,0,0,0,0,0,0,0,0,Construction,Market 1
+08-01-2022,8,1,2022,112,5,8,4,3,6,4,5,35,Technician troubleshooting,Market 1
+15-01-2022,15,1,2022,32,3,2,0,1,2,0,0,8,Account management,Market 1
+17-02-2022,17,2,2022,157,10,3,6,3,4,5,8,39,Internet & Wi-Fi,Market 1
+05-01-2022,5,1,2022,17,3,1,0,1,0,1,0,6,Scheduling,Market 1
+10-01-2022,10,1,2022,240,7,8,13,7,2,4,2,43,Technician troubleshooting,Market 1
+13-03-2022,13,3,2022,145,21,8,7,2,5,7,5,55,Internet & Wi-Fi,Market 1
+27-01-2022,27,1,2022,23,4,1,1,1,0,0,0,7,Account management,Market 1
+17-03-2022,17,3,2022,32,3,1,0,0,0,0,1,5,Account management,Market 1
+19-02-2022,19,2,2022,8,3,1,2,0,1,0,0,7,Scheduling,Market 1
+26-01-2022,26,1,2022,21,2,2,1,4,4,0,1,14,Scheduling,Market 1
+11-01-2022,11,1,2022,2,0,0,0,0,1,0,0,1,Construction,Market 1
+21-01-2022,21,1,2022,11,3,1,3,3,0,0,1,11,Scheduling,Market 1
+23-02-2022,23,2,2022,295,3,11,5,7,14,4,6,50,Technician troubleshooting,Market 1
+19-02-2022,19,2,2022,0,1,0,0,0,0,0,0,1,Construction,Market 1
+26-01-2022,26,1,2022,249,19,7,3,1,9,5,4,48,Technician troubleshooting,Market 1
+25-01-2022,25,1,2022,2,0,0,0,0,0,0,0,0,Construction,Market 1
+23-01-2022,23,1,2022,20,1,2,0,1,1,1,2,8,Account management,Market 1
+03-03-2022,3,3,2022,213,25,13,11,9,7,4,9,78,Internet & Wi-Fi,Market 1
+02-02-2022,2,2,2022,28,1,0,0,3,2,1,0,7,Account management,Market 1
+14-02-2022,14,2,2022,196,20,13,4,4,1,6,4,52,Internet & Wi-Fi,Market 1
+12-03-2022,12,3,2022,1,0,1,1,1,0,0,0,3,Construction,Market 1
+27-03-2022,27,3,2022,2,0,1,0,1,0,0,0,2,Construction,Market 1
+08-02-2022,8,2,2022,31,3,1,2,1,0,1,0,8,Account management,Market 1
+28-02-2022,28,2,2022,250,29,19,15,4,14,10,9,100,Internet & Wi-Fi,Market 1
+20-01-2022,20,1,2022,11,4,2,0,2,1,1,0,10,Scheduling,Market 1
+20-02-2022,20,2,2022,12,2,1,0,0,1,0,1,5,Account management,Market 1
+11-03-2022,11,3,2022,346,11,7,8,6,6,7,3,48,Technician troubleshooting,Market 1
+23-01-2022,23,1,2022,95,2,7,2,4,7,4,2,28,Technician troubleshooting,Market 1
+25-02-2022,25,2,2022,3,0,0,0,0,0,0,0,0,Construction,Market 1
+20-01-2022,20,1,2022,216,27,8,2,11,3,7,6,64,Internet & Wi-Fi,Market 1
+25-01-2022,25,1,2022,24,0,2,5,1,2,0,1,11,Account management,Market 1
+11-02-2022,11,2,2022,5,0,0,0,0,1,0,0,1,Construction,Market 1
+28-03-2022,28,3,2022,5,0,0,0,1,0,0,0,1,Construction,Market 1
+31-03-2022,31,3,2022,391,11,5,10,15,8,6,3,58,Technician troubleshooting,Market 1
+12-02-2022,12,2,2022,0,0,0,0,0,0,0,0,0,Construction,Market 1
+22-02-2022,22,2,2022,9,0,0,0,1,0,1,1,3,Construction,Market 1
+15-01-2022,15,1,2022,3,0,0,0,1,0,0,0,1,Construction,Market 1
+18-03-2022,18,3,2022,266,13,10,12,16,10,6,5,72,Technician troubleshooting,Market 1
+21-01-2022,21,1,2022,226,8,6,6,7,4,4,3,38,Technician troubleshooting,Market 1
+19-01-2022,19,1,2022,25,4,0,3,1,1,0,0,9,Account management,Market 1
+08-02-2022,8,2,2022,6,0,0,0,0,0,0,0,0,Construction,Market 1
+13-03-2022,13,3,2022,2,2,0,1,0,0,0,0,3,Construction,Market 1
+29-01-2022,29,1,2022,172,9,13,8,6,7,3,7,53,Internet & Wi-Fi,Market 1
+11-01-2022,11,1,2022,28,6,0,1,3,0,0,3,13,Account management,Market 1
+02-01-2022,2,1,2022,39,2,2,2,0,2,2,2,12,Account management,Market 1
+13-03-2022,13,3,2022,36,3,0,2,0,0,1,0,6,Account management,Market 1
+01-03-2022,1,3,2022,19,0,4,0,2,1,0,2,9,Account management,Market 1
+07-01-2022,7,1,2022,45,6,3,2,4,2,2,0,19,Account management,Market 1
+22-02-2022,22,2,2022,15,4,1,0,1,2,1,1,10,Scheduling,Market 1
+10-02-2022,10,2,2022,31,8,0,0,1,1,2,2,14,Account management,Market 1
+05-01-2022,5,1,2022,280,5,9,2,6,7,3,7,39,Technician troubleshooting,Market 1
+21-01-2022,21,1,2022,227,18,7,13,6,12,7,5,68,Internet & Wi-Fi,Market 1
+15-03-2022,15,3,2022,24,7,1,1,0,0,0,1,10,Account management,Market 1
+07-02-2022,7,2,2022,208,26,11,8,7,10,6,12,80,Internet & Wi-Fi,Market 1
+12-02-2022,12,2,2022,178,17,13,5,3,2,1,2,43,Internet & Wi-Fi,Market 1
+19-03-2022,19,3,2022,152,17,9,11,11,7,3,1,59,Internet & Wi-Fi,Market 1
+24-02-2022,24,2,2022,181,20,10,4,8,9,13,3,67,Internet & Wi-Fi,Market 1
+24-02-2022,24,2,2022,276,19,4,6,6,9,2,7,53,Technician troubleshooting,Market 1
+05-02-2022,5,2,2022,164,8,7,1,2,4,7,3,32,Technician troubleshooting,Market 1
+02-01-2022,2,1,2022,1,0,0,0,0,0,0,0,0,Construction,Market 1
+26-02-2022,26,2,2022,1,1,0,0,0,0,0,0,1,Construction,Market 1
+19-02-2022,19,2,2022,150,15,13,6,1,7,9,3,54,Internet & Wi-Fi,Market 1
+28-03-2022,28,3,2022,190,27,10,12,6,7,3,3,68,Internet & Wi-Fi,Market 1
+27-03-2022,27,3,2022,22,1,2,0,0,0,3,2,8,Account management,Market 1
+05-02-2022,5,2,2022,152,16,10,9,7,7,4,7,60,Internet & Wi-Fi,Market 1
+30-01-2022,30,1,2022,9,4,4,0,0,0,0,0,8,Scheduling,Market 1
+08-02-2022,8,2,2022,217,12,10,4,3,5,13,4,51,Technician troubleshooting,Market 1
+06-01-2022,6,1,2022,214,27,16,12,15,12,6,6,94,Internet & Wi-Fi,Market 1
+25-02-2022,25,2,2022,278,17,12,15,9,4,5,5,67,Technician troubleshooting,Market 1
+12-03-2022,12,3,2022,232,9,12,3,5,1,5,3,38,Technician troubleshooting,Market 1
+16-02-2022,16,2,2022,18,0,4,2,1,1,0,0,8,Scheduling,Market 1
+18-02-2022,18,2,2022,2,0,0,0,1,0,0,0,1,Construction,Market 1
+12-01-2022,12,1,2022,19,3,1,0,0,0,1,3,8,Scheduling,Market 1
+02-03-2022,2,3,2022,16,4,0,2,1,0,2,0,9,Account management,Market 1
+11-01-2022,11,1,2022,261,13,12,6,4,2,13,5,55,Technician troubleshooting,Market 1
+19-02-2022,19,2,2022,150,8,6,7,3,3,3,2,32,Technician troubleshooting,Market 1
+29-01-2022,29,1,2022,0,0,0,0,0,0,0,0,0,Construction,Market 1
+18-01-2022,18,1,2022,15,1,1,3,1,0,3,0,9,Scheduling,Market 1
+26-02-2022,26,2,2022,198,9,6,12,5,11,6,7,56,Technician troubleshooting,Market 1
+27-02-2022,27,2,2022,141,13,3,2,3,1,3,4,29,Technician troubleshooting,Market 1
+25-02-2022,25,2,2022,183,22,14,12,8,14,4,1,75,Internet & Wi-Fi,Market 1
+07-03-2022,7,3,2022,16,2,1,2,2,2,0,1,10,Account management,Market 1
+18-02-2022,18,2,2022,20,3,0,1,1,1,1,0,7,Account management,Market 1
+25-01-2022,25,1,2022,18,6,0,3,1,0,2,1,13,Scheduling,Market 1
+06-03-2022,6,3,2022,141,7,10,8,3,3,5,4,40,Internet & Wi-Fi,Market 1
+09-01-2022,9,1,2022,165,24,13,4,7,2,6,4,60,Internet & Wi-Fi,Market 1
+10-02-2022,10,2,2022,155,16,8,7,9,7,11,8,66,Internet & Wi-Fi,Market 1
+03-01-2022,3,1,2022,395,18,23,9,7,6,7,9,79,Technician troubleshooting,Market 1
+12-01-2022,12,1,2022,280,18,17,2,3,6,7,6,59,Technician troubleshooting,Market 1
+10-02-2022,10,2,2022,1,0,0,0,0,0,1,0,1,Construction,Market 1
+12-02-2022,12,2,2022,17,4,1,0,3,0,1,3,12,Account management,Market 1
+31-01-2022,31,1,2022,3,0,0,0,0,0,0,1,1,Construction,Market 1
+09-01-2022,9,1,2022,107,3,7,8,5,1,3,3,30,Technician troubleshooting,Market 1
+09-03-2022,9,3,2022,15,0,3,2,0,1,4,1,11,Scheduling,Market 1
+08-01-2022,8,1,2022,9,1,1,0,3,1,2,0,8,Scheduling,Market 1
+17-01-2022,17,1,2022,224,17,9,7,10,6,5,6,60,Technician troubleshooting,Market 1
+08-01-2022,8,1,2022,1,0,0,0,0,0,0,0,0,Construction,Market 1
+15-01-2022,15,1,2022,146,8,8,8,6,7,3,4,44,Technician troubleshooting,Market 1
+16-02-2022,16,2,2022,174,6,8,8,6,9,7,2,46,Internet & Wi-Fi,Market 1
+22-03-2022,22,3,2022,14,0,0,1,0,0,1,2,4,Scheduling,Market 1
+04-02-2022,4,2,2022,16,0,2,1,3,1,2,1,10,Scheduling,Market 1
+12-03-2022,12,3,2022,11,0,5,3,0,0,1,0,9,Scheduling,Market 1
+26-03-2022,26,3,2022,1,1,0,0,0,0,0,0,1,Construction,Market 1
+14-03-2022,14,3,2022,28,3,2,1,1,2,0,3,12,Scheduling,Market 1
+31-03-2022,31,3,2022,235,21,15,8,19,6,8,11,88,Internet & Wi-Fi,Market 1
+28-02-2022,28,2,2022,35,3,0,3,0,3,0,0,9,Account management,Market 1
+05-01-2022,5,1,2022,52,3,1,1,6,3,0,2,16,Account management,Market 1
+02-03-2022,2,3,2022,22,3,1,3,0,2,0,1,10,Scheduling,Market 1
+14-03-2022,14,3,2022,370,10,12,9,10,5,5,20,71,Technician troubleshooting,Market 1
+20-01-2022,20,1,2022,1,0,1,1,0,0,0,0,2,Construction,Market 1
+06-03-2022,6,3,2022,169,12,8,8,6,7,7,4,52,Technician troubleshooting,Market 1
+20-03-2022,20,3,2022,142,15,6,3,4,6,2,1,37,Technician troubleshooting,Market 1
+02-02-2022,2,2,2022,12,1,1,0,0,3,1,0,6,Scheduling,Market 1
+22-02-2022,22,2,2022,45,1,2,0,1,0,1,0,5,Account management,Market 1
+01-01-2022,1,1,2022,30,6,0,1,2,0,1,0,10,Account management,Market 1
+30-03-2022,30,3,2022,3,0,0,0,0,0,0,0,0,Construction,Market 1
+31-03-2022,31,3,2022,3,0,0,0,0,0,0,0,0,Construction,Market 1
+19-02-2022,19,2,2022,24,2,2,1,0,2,1,1,9,Account management,Market 1
+03-01-2022,3,1,2022,18,1,2,1,0,1,0,0,5,Scheduling,Market 1
+16-03-2022,16,3,2022,28,3,3,1,1,0,3,4,15,Scheduling,Market 1
+02-03-2022,2,3,2022,1,0,1,1,0,0,1,0,3,Construction,Market 1
+31-03-2022,31,3,2022,15,2,1,1,3,0,2,0,9,Scheduling,Market 1
+09-03-2022,9,3,2022,202,21,7,6,2,14,6,3,59,Internet & Wi-Fi,Market 1
+16-02-2022,16,2,2022,236,8,8,6,4,6,4,7,43,Technician troubleshooting,Market 1
+20-02-2022,20,2,2022,2,1,0,0,0,0,0,0,1,Construction,Market 1
+19-01-2022,19,1,2022,2,0,1,1,1,0,0,0,3,Construction,Market 1
+25-03-2022,25,3,2022,280,46,13,8,12,15,7,7,108,Internet & Wi-Fi,Market 1
+22-02-2022,22,2,2022,254,20,11,8,7,7,10,8,71,Internet & Wi-Fi,Market 1
+05-03-2022,5,3,2022,182,9,16,3,5,8,2,4,47,Internet & Wi-Fi,Market 1
+10-03-2022,10,3,2022,361,10,7,4,13,5,12,4,55,Technician troubleshooting,Market 1
+07-02-2022,7,2,2022,2,0,1,0,0,0,0,0,1,Construction,Market 1
+17-03-2022,17,3,2022,170,9,9,5,10,7,10,9,59,Internet & Wi-Fi,Market 1
+07-01-2022,7,1,2022,7,0,0,0,0,0,0,1,1,Construction,Market 1
+03-03-2022,3,3,2022,15,0,1,1,4,1,1,1,9,Scheduling,Market 1
+06-01-2022,6,1,2022,43,4,2,2,3,0,4,0,15,Account management,Market 1
+03-03-2022,3,3,2022,368,22,15,5,13,12,7,7,81,Technician troubleshooting,Market 1
+24-01-2022,24,1,2022,4,1,0,0,0,0,0,0,1,Construction,Market 1
+25-03-2022,25,3,2022,17,4,1,6,2,2,2,2,19,Scheduling,Market 1
+10-01-2022,10,1,2022,14,0,0,1,0,0,0,0,1,Scheduling,Market 1
+03-01-2022,3,1,2022,259,25,16,11,6,8,4,11,81,Internet & Wi-Fi,Market 1
+25-03-2022,25,3,2022,344,18,6,13,13,14,11,2,77,Technician troubleshooting,Market 1
+01-03-2022,1,3,2022,3,0,0,0,0,1,0,0,1,Construction,Market 1
+18-02-2022,18,2,2022,157,14,6,7,4,4,4,4,43,Internet & Wi-Fi,Market 1
+21-03-2022,21,3,2022,26,0,3,2,0,4,0,0,9,Scheduling,Market 1
+31-03-2022,31,3,2022,33,2,5,0,3,3,1,0,14,Account management,Market 1
+18-03-2022,18,3,2022,178,13,7,5,3,5,5,7,45,Internet & Wi-Fi,Market 1
+18-02-2022,18,2,2022,263,11,3,9,5,7,4,4,43,Technician troubleshooting,Market 1
+12-01-2022,12,1,2022,2,1,0,0,0,0,0,0,1,Construction,Market 1
+02-01-2022,2,1,2022,111,8,5,5,1,5,2,2,28,Technician troubleshooting,Market 1
+30-01-2022,30,1,2022,0,0,0,0,0,0,0,0,0,Construction,Market 1
+05-03-2022,5,3,2022,19,0,1,0,0,0,2,1,4,Scheduling,Market 1
+04-03-2022,4,3,2022,18,0,0,1,2,1,1,1,6,Account management,Market 1
+23-02-2022,23,2,2022,15,1,3,0,2,1,0,3,10,Scheduling,Market 1
+26-01-2022,26,1,2022,1,0,0,0,0,0,1,0,1,Construction,Market 1
+07-01-2022,7,1,2022,228,12,7,4,8,6,5,4,46,Technician troubleshooting,Market 1
+06-03-2022,6,3,2022,20,1,2,0,0,1,0,3,7,Account management,Market 1
+01-03-2022,1,3,2022,25,1,1,0,2,1,2,1,8,Scheduling,Market 1
+27-03-2022,27,3,2022,167,16,8,10,4,4,3,1,46,Technician troubleshooting,Market 1
+28-01-2022,28,1,2022,11,1,2,2,0,1,1,0,7,Scheduling,Market 1
+07-03-2022,7,3,2022,6,1,0,0,0,0,0,0,1,Construction,Market 1
+02-03-2022,2,3,2022,342,11,8,5,7,9,8,15,63,Technician troubleshooting,Market 1
+14-01-2022,14,1,2022,219,3,1,10,10,8,6,7,45,Technician troubleshooting,Market 1
+04-01-2022,4,1,2022,207,27,10,12,18,13,5,8,93,Internet & Wi-Fi,Market 1
+23-03-2022,23,3,2022,275,35,25,13,4,6,20,11,114,Internet & Wi-Fi,Market 1
+06-03-2022,6,3,2022,5,1,0,0,0,0,0,0,1,Scheduling,Market 1
+28-02-2022,28,2,2022,6,0,0,0,0,1,1,1,3,Construction,Market 1
+21-02-2022,21,2,2022,198,16,16,8,6,7,2,14,69,Internet & Wi-Fi,Market 1
+29-03-2022,29,3,2022,38,2,1,2,1,2,2,1,11,Account management,Market 1
+17-03-2022,17,3,2022,3,0,0,0,0,0,0,0,0,Construction,Market 1
+21-02-2022,21,2,2022,241,9,15,5,7,7,5,9,57,Technician troubleshooting,Market 1
+21-01-2022,21,1,2022,5,2,0,0,1,0,0,0,3,Construction,Market 1
+26-02-2022,26,2,2022,180,19,9,9,7,8,4,3,59,Internet & Wi-Fi,Market 1
+28-02-2022,28,2,2022,29,5,4,4,1,0,0,2,16,Scheduling,Market 1
+17-02-2022,17,2,2022,242,7,4,2,2,14,8,3,40,Technician troubleshooting,Market 1
+11-02-2022,11,2,2022,173,20,5,11,3,10,3,2,54,Internet & Wi-Fi,Market 1
+18-01-2022,18,1,2022,288,19,7,7,10,6,9,8,66,Technician troubleshooting,Market 1
+28-01-2022,28,1,2022,32,2,3,2,0,3,2,0,12,Account management,Market 1
+28-02-2022,28,2,2022,433,25,16,11,12,7,7,11,89,Technician troubleshooting,Market 1
+08-03-2022,8,3,2022,17,1,1,4,0,0,0,2,8,Scheduling,Market 1
+18-01-2022,18,1,2022,249,31,22,9,14,4,7,1,88,Internet & Wi-Fi,Market 1
+03-03-2022,3,3,2022,2,1,1,1,0,1,0,0,4,Construction,Market 1
+25-03-2022,25,3,2022,2,1,1,0,0,0,0,0,2,Construction,Market 1
+21-03-2022,21,3,2022,28,6,1,3,0,5,0,4,19,Account management,Market 1
+30-03-2022,30,3,2022,242,29,14,6,7,21,8,15,100,Internet & Wi-Fi,Market 1
+14-02-2022,14,2,2022,2,0,1,0,0,0,0,0,1,Construction,Market 1
+12-03-2022,12,3,2022,145,14,12,5,6,3,2,6,48,Internet & Wi-Fi,Market 1
+12-02-2022,12,2,2022,9,1,1,1,2,1,2,0,8,Scheduling,Market 1
+01-01-2022,1,1,2022,0,0,0,0,0,0,0,0,0,Construction,Market 1
+07-03-2022,7,3,2022,18,2,2,2,1,0,0,1,8,Scheduling,Market 1
+01-01-2022,1,1,2022,166,12,13,7,8,2,1,5,48,Internet & Wi-Fi,Market 1
+01-02-2022,1,2,2022,1,0,0,0,0,0,0,0,0,Construction,Market 1
+01-02-2022,1,2,2022,16,3,0,1,0,0,1,3,8,Account management,Market 1
+30-03-2022,30,3,2022,22,1,1,0,1,2,1,1,7,Scheduling,Market 1
+23-02-2022,23,2,2022,189,17,16,5,6,12,8,4,68,Internet & Wi-Fi,Market 1
+17-01-2022,17,1,2022,193,22,19,15,11,7,3,5,82,Internet & Wi-Fi,Market 1
+06-02-2022,6,2,2022,97,11,0,4,2,4,3,1,25,Internet & Wi-Fi,Market 1
+09-02-2022,9,2,2022,2,0,0,0,0,0,0,0,0,Construction,Market 1
+15-01-2022,15,1,2022,7,2,0,1,0,0,0,1,4,Scheduling,Market 1
+08-02-2022,8,2,2022,24,3,3,2,0,0,0,1,9,Scheduling,Market 1
+15-02-2022,15,2,2022,16,2,3,4,0,0,1,0,10,Scheduling,Market 1
+15-02-2022,15,2,2022,0,0,0,0,0,0,0,0,0,Construction,Market 1
+08-03-2022,8,3,2022,25,2,1,1,2,1,0,0,7,Account management,Market 1
+23-01-2022,23,1,2022,137,9,2,3,2,3,5,1,25,Internet & Wi-Fi,Market 1
+17-02-2022,17,2,2022,3,0,0,1,0,1,0,0,2,Construction,Market 1
+20-03-2022,20,3,2022,161,12,11,7,10,3,4,3,50,Internet & Wi-Fi,Market 1
+23-03-2022,23,3,2022,9,0,1,2,0,2,1,0,6,Scheduling,Market 1
+18-01-2022,18,1,2022,31,5,1,1,3,0,2,1,13,Account management,Market 1
+21-01-2022,21,1,2022,29,7,2,1,4,0,0,1,15,Account management,Market 1
+06-02-2022,6,2,2022,23,1,2,0,1,0,0,0,4,Account management,Market 1
+19-01-2022,19,1,2022,18,1,1,0,0,0,1,2,5,Scheduling,Market 1
+28-01-2022,28,1,2022,248,17,13,14,9,8,7,6,74,Internet & Wi-Fi,Market 1
+13-02-2022,13,2,2022,1,2,0,1,0,0,1,0,4,Scheduling,Market 1
+06-01-2022,6,1,2022,11,1,1,1,0,0,2,0,5,Scheduling,Market 1
+20-03-2022,20,3,2022,9,2,3,0,0,1,0,0,6,Scheduling,Market 1
+23-03-2022,23,3,2022,24,6,1,4,2,0,3,4,20,Account management,Market 1
+02-02-2022,2,2,2022,296,11,10,10,6,14,8,9,68,Technician troubleshooting,Market 1
+04-01-2022,4,1,2022,4,1,0,1,0,0,0,0,2,Construction,Market 1
+12-03-2022,12,3,2022,15,0,2,0,3,1,1,1,8,Account management,Market 1
+24-03-2022,24,3,2022,320,13,8,6,6,14,12,9,68,Technician troubleshooting,Market 1
+29-01-2022,29,1,2022,7,6,3,2,0,0,0,0,11,Scheduling,Market 1
+28-03-2022,28,3,2022,35,3,1,1,0,1,0,3,9,Account management,Market 1
+26-03-2022,26,3,2022,48,3,1,2,1,2,2,0,11,Account management,Market 1
+26-01-2022,26,1,2022,16,2,2,1,2,0,0,0,7,Account management,Market 1
+03-02-2022,3,2,2022,12,2,0,0,0,2,1,2,7,Scheduling,Market 1
+14-02-2022,14,2,2022,21,1,1,2,2,0,0,1,7,Scheduling,Market 1
+29-03-2022,29,3,2022,28,2,1,0,0,0,0,1,4,Scheduling,Market 1
+27-02-2022,27,2,2022,143,14,14,5,2,2,3,5,45,Internet & Wi-Fi,Market 1
+27-03-2022,27,3,2022,158,12,9,7,6,10,4,2,50,Internet & Wi-Fi,Market 1
+28-01-2022,28,1,2022,5,0,0,1,0,0,0,1,2,Construction,Market 1
+08-03-2022,8,3,2022,352,10,7,12,5,5,13,8,60,Technician troubleshooting,Market 1
+20-01-2022,20,1,2022,254,8,12,5,11,6,10,3,55,Technician troubleshooting,Market 1
+05-02-2022,5,2,2022,11,3,1,1,0,2,4,1,12,Account management,Market 1
+15-03-2022,15,3,2022,26,3,4,2,1,1,2,0,13,Scheduling,Market 1
+20-03-2022,20,3,2022,24,0,2,0,3,0,1,0,6,Account management,Market 1
+07-02-2022,7,2,2022,24,6,1,0,8,1,2,2,20,Account management,Market 1
+26-03-2022,26,3,2022,231,12,14,11,11,12,4,2,66,Technician troubleshooting,Market 1
+05-03-2022,5,3,2022,31,1,2,1,0,0,1,0,5,Account management,Market 1
+25-03-2022,25,3,2022,32,6,3,2,2,0,2,2,17,Account management,Market 1
+29-03-2022,29,3,2022,413,39,15,8,5,1,9,8,85,Technician troubleshooting,Market 1
+05-01-2022,5,1,2022,210,26,18,9,8,17,7,5,90,Internet & Wi-Fi,Market 1
+04-03-2022,4,3,2022,15,0,0,1,0,0,1,1,3,Scheduling,Market 1
+30-03-2022,30,3,2022,599,30,20,8,4,15,6,1,84,Technician troubleshooting,Market 1
+14-01-2022,14,1,2022,250,13,8,7,5,2,6,8,49,Internet & Wi-Fi,Market 1
+19-01-2022,19,1,2022,310,10,14,12,3,8,5,4,56,Technician troubleshooting,Market 1
+04-02-2022,4,2,2022,248,16,3,11,8,9,10,2,59,Technician troubleshooting,Market 1
+24-03-2022,24,3,2022,34,0,3,0,0,3,2,1,9,Account management,Market 1
+01-01-2022,1,1,2022,97,3,5,3,2,3,1,2,19,Technician troubleshooting,Market 1
+10-03-2022,10,3,2022,27,5,1,1,0,0,4,4,15,Account management,Market 1
+10-03-2022,10,3,2022,10,1,0,0,0,2,0,2,5,Scheduling,Market 1
+26-03-2022,26,3,2022,15,2,1,2,0,0,1,0,6,Scheduling,Market 1
+20-02-2022,20,2,2022,132,13,11,7,3,7,5,9,55,Internet & Wi-Fi,Market 1
+27-02-2022,27,2,2022,5,0,1,0,0,0,0,0,1,Construction,Market 1
+08-02-2022,8,2,2022,190,25,7,4,4,5,4,0,49,Internet & Wi-Fi,Market 1
+17-03-2022,17,3,2022,24,2,1,1,2,2,0,0,8,Scheduling,Market 1
+07-01-2022,7,1,2022,13,0,0,0,1,2,0,1,4,Scheduling,Market 1
+13-02-2022,13,2,2022,134,11,9,8,2,4,4,1,39,Internet & Wi-Fi,Market 1
+20-02-2022,20,2,2022,122,7,3,3,3,2,1,2,21,Technician troubleshooting,Market 1
+21-03-2022,21,3,2022,5,1,0,1,0,0,0,0,2,Construction,Market 1
+24-01-2022,24,1,2022,26,1,0,0,3,0,1,1,6,Account management,Market 1
+17-01-2022,17,1,2022,2,0,1,0,1,0,1,1,4,Construction,Market 1
+01-03-2022,1,3,2022,242,31,6,11,6,5,6,5,70,Internet & Wi-Fi,Market 1
+25-02-2022,25,2,2022,14,1,0,4,2,1,1,1,10,Scheduling,Market 1
+12-01-2022,12,1,2022,49,1,4,0,0,1,1,1,8,Account management,Market 1
+27-02-2022,27,2,2022,17,0,0,0,0,0,1,0,1,Account management,Market 1
+13-01-2022,13,1,2022,299,13,4,2,7,6,3,4,39,Technician troubleshooting,Market 1
+11-03-2022,11,3,2022,14,3,1,2,1,2,1,1,11,Scheduling,Market 1
+15-03-2022,15,3,2022,4,1,2,0,0,0,0,0,3,Construction,Market 1
+31-01-2022,31,1,2022,290,11,14,7,4,9,4,5,54,Technician troubleshooting,Market 1
+15-02-2022,15,2,2022,15,1,1,1,3,1,3,0,10,Account management,Market 1
+23-01-2022,23,1,2022,5,1,0,1,2,1,0,0,5,Scheduling,Market 1
+07-02-2022,7,2,2022,303,11,10,16,3,8,4,14,66,Technician troubleshooting,Market 1
+19-03-2022,19,3,2022,151,5,12,4,6,11,5,2,45,Technician troubleshooting,Market 1
+13-01-2022,13,1,2022,4,1,0,1,1,0,0,0,3,Construction,Market 1
+24-02-2022,24,2,2022,2,0,0,0,0,0,0,0,0,Construction,Market 1
+25-01-2022,25,1,2022,304,14,12,9,8,2,5,7,57,Technician troubleshooting,Market 1
+27-03-2022,27,3,2022,5,1,1,0,0,0,0,0,2,Scheduling,Market 1
+22-01-2022,22,1,2022,4,0,0,0,0,0,1,0,1,Construction,Market 1
+24-02-2022,24,2,2022,8,1,0,1,1,1,3,1,8,Scheduling,Market 1
+27-02-2022,27,2,2022,7,1,3,0,0,1,0,0,5,Scheduling,Market 1
+19-01-2022,19,1,2022,229,31,14,7,3,11,1,12,79,Internet & Wi-Fi,Market 1
+16-03-2022,16,3,2022,156,13,5,8,3,7,8,6,50,Internet & Wi-Fi,Market 1
+10-03-2022,10,3,2022,199,18,5,3,16,4,11,4,61,Internet & Wi-Fi,Market 1
+11-03-2022,11,3,2022,181,20,12,16,12,11,5,5,81,Internet & Wi-Fi,Market 1
+15-03-2022,15,3,2022,316,16,5,7,6,6,9,11,60,Technician troubleshooting,Market 1
+19-03-2022,19,3,2022,18,4,2,0,0,1,0,2,9,Scheduling,Market 1
+31-01-2022,31,1,2022,18,0,3,1,0,0,0,2,6,Account management,Market 1
+07-03-2022,7,3,2022,206,20,21,10,11,6,5,11,84,Internet & Wi-Fi,Market 1
+24-03-2022,24,3,2022,11,1,0,0,0,1,3,0,5,Scheduling,Market 1
+10-03-2022,10,3,2022,4,0,0,0,0,0,0,0,0,Construction,Market 1
+14-01-2022,14,1,2022,25,2,1,1,0,0,1,0,5,Account management,Market 1
+22-01-2022,22,1,2022,235,16,18,9,8,4,12,8,75,Internet & Wi-Fi,Market 1
+18-03-2022,18,3,2022,1,0,0,0,0,0,0,0,0,Construction,Market 1
+15-03-2022,15,3,2022,192,27,9,4,4,10,6,7,67,Internet & Wi-Fi,Market 1
+29-01-2022,29,1,2022,23,5,1,0,0,1,0,0,7,Account management,Market 1
+08-01-2022,8,1,2022,41,4,2,3,0,0,0,0,9,Account management,Market 1
+11-03-2022,11,3,2022,3,0,0,0,0,1,0,0,1,Construction,Market 1
+08-03-2022,8,3,2022,182,27,12,12,9,2,5,7,74,Internet & Wi-Fi,Market 1
+20-02-2022,20,2,2022,9,5,1,3,2,0,0,1,12,Scheduling,Market 1
+06-01-2022,6,1,2022,0,1,0,0,0,0,0,0,1,Construction,Market 1
+23-02-2022,23,2,2022,1,0,0,0,0,0,0,0,0,Construction,Market 1
+12-01-2022,12,1,2022,288,25,12,6,6,16,7,7,79,Internet & Wi-Fi,Market 1
+03-02-2022,3,2,2022,25,2,0,0,1,1,0,0,4,Account management,Market 1
+12-02-2022,12,2,2022,171,12,6,3,4,7,2,4,38,Technician troubleshooting,Market 1
+19-03-2022,19,3,2022,0,0,0,0,1,0,0,0,1,Construction,Market 1
+09-02-2022,9,2,2022,254,8,11,8,4,10,8,5,54,Technician troubleshooting,Market 1
+13-02-2022,13,2,2022,1,0,0,0,0,0,0,0,0,Construction,Market 1
+07-03-2022,7,3,2022,382,24,7,8,9,13,6,19,86,Technician troubleshooting,Market 1
+28-01-2022,28,1,2022,227,9,5,17,9,14,13,8,75,Technician troubleshooting,Market 1
+14-02-2022,14,2,2022,252,19,10,8,13,8,5,9,72,Technician troubleshooting,Market 1
+02-01-2022,2,1,2022,7,0,0,3,1,0,0,0,4,Scheduling,Market 1
+23-02-2022,23,2,2022,24,0,1,2,1,1,0,0,5,Account management,Market 1
+14-03-2022,14,3,2022,5,1,0,0,0,0,0,0,1,Construction,Market 1
+24-03-2022,24,3,2022,4,0,0,0,0,0,0,0,0,Construction,Market 1
+11-01-2022,11,1,2022,14,1,2,1,2,0,1,0,7,Scheduling,Market 1
+03-02-2022,3,2,2022,2,0,0,0,0,1,0,0,1,Construction,Market 1
+09-03-2022,9,3,2022,21,3,0,1,1,2,0,1,8,Account management,Market 1
+11-02-2022,11,2,2022,24,2,0,3,1,1,2,0,9,Scheduling,Market 1
+05-02-2022,5,2,2022,9,0,2,1,1,0,0,0,4,Scheduling,Market 1
+09-01-2022,9,1,2022,5,1,0,1,0,0,0,0,2,Scheduling,Market 1
+26-02-2022,26,2,2022,13,1,3,3,2,0,0,2,11,Scheduling,Market 1
+13-01-2022,13,1,2022,32,4,4,2,1,1,2,1,15,Account management,Market 1
+09-02-2022,9,2,2022,19,1,1,0,0,1,0,0,3,Scheduling,Market 1
+01-02-2022,1,2,2022,15,2,1,1,0,0,2,1,7,Scheduling,Market 1
+16-01-2022,16,1,2022,7,1,1,0,0,0,0,2,4,Scheduling,Market 1
+27-01-2022,27,1,2022,1,0,0,0,0,0,0,0,0,Construction,Market 1
+27-01-2022,27,1,2022,237,14,5,2,14,3,2,6,46,Technician troubleshooting,Market 1
+24-03-2022,24,3,2022,263,33,16,13,10,9,6,4,91,Internet & Wi-Fi,Market 1
+21-02-2022,21,2,2022,5,0,0,0,0,0,0,0,0,Construction,Market 1
+03-03-2022,3,3,2022,32,4,2,1,1,2,2,0,12,Account management,Market 1
+13-01-2022,13,1,2022,19,4,3,1,0,3,0,1,12,Scheduling,Market 1
+04-01-2022,4,1,2022,343,19,10,10,6,0,13,10,68,Technician troubleshooting,Market 1
+25-02-2022,25,2,2022,18,1,0,2,1,1,0,1,6,Account management,Market 1
+31-01-2022,31,1,2022,22,2,1,2,2,0,1,2,10,Scheduling,Market 1
+27-01-2022,27,1,2022,17,0,0,0,2,0,0,2,4,Scheduling,Market 1
+05-02-2022,5,2,2022,0,0,0,1,0,0,0,0,1,Construction,Market 1
+06-02-2022,6,2,2022,120,11,4,3,6,2,5,3,34,Technician troubleshooting,Market 1
+13-03-2022,13,3,2022,192,8,7,9,7,2,3,2,38,Technician troubleshooting,Market 1
+22-02-2022,22,2,2022,300,21,14,11,8,2,13,14,83,Technician troubleshooting,Market 1
+30-01-2022,30,1,2022,94,8,1,3,1,2,3,0,18,Technician troubleshooting,Market 1
+17-01-2022,17,1,2022,12,3,2,0,0,0,0,0,5,Scheduling,Market 1
+23-03-2022,23,3,2022,8,1,0,0,1,0,0,0,2,Construction,Market 1
+09-01-2022,9,1,2022,2,0,0,0,0,0,0,0,0,Construction,Market 1
+13-01-2022,13,1,2022,246,23,11,9,7,6,6,2,64,Internet & Wi-Fi,Market 1
+06-03-2022,6,3,2022,6,0,0,0,0,0,0,0,0,Construction,Market 1
+01-03-2022,1,3,2022,366,20,20,13,13,8,13,7,94,Technician troubleshooting,Market 1
+18-01-2022,18,1,2022,2,0,0,1,1,1,1,0,4,Construction,Market 1
+21-02-2022,21,2,2022,23,1,1,0,4,1,0,1,8,Scheduling,Market 1
+18-03-2022,18,3,2022,18,0,2,3,2,2,2,0,11,Account management,Market 1
+14-03-2022,14,3,2022,238,23,7,11,4,5,3,13,66,Internet & Wi-Fi,Market 1
+10-01-2022,10,1,2022,223,28,12,5,11,7,3,8,74,Internet & Wi-Fi,Market 1
+05-03-2022,5,3,2022,178,8,11,10,3,3,8,3,46,Technician troubleshooting,Market 1
+24-01-2022,24,1,2022,281,25,7,9,9,4,3,6,63,Technician troubleshooting,Market 1
+22-03-2022,22,3,2022,233,35,23,12,7,8,7,4,96,Internet & Wi-Fi,Market 1
+09-03-2022,9,3,2022,1,0,0,0,0,0,1,0,1,Construction,Market 1
+02-01-2022,2,1,2022,141,17,8,14,6,3,0,4,52,Internet & Wi-Fi,Market 1
+20-03-2022,20,3,2022,0,0,0,0,0,0,0,1,1,Construction,Market 1
+13-02-2022,13,2,2022,137,7,10,4,8,1,4,2,36,Technician troubleshooting,Market 1
+06-02-2022,6,2,2022,4,0,0,0,1,0,0,0,1,Scheduling,Market 1
+22-01-2022,22,1,2022,182,10,10,12,6,8,5,5,56,Technician troubleshooting,Market 1
+16-03-2022,16,3,2022,45,2,0,0,0,0,0,0,2,Construction,Market 1
+02-03-2022,2,3,2022,196,31,10,21,11,11,11,10,105,Internet & Wi-Fi,Market 1
+02-02-2022,2,2,2022,202,13,16,15,9,15,5,7,80,Internet & Wi-Fi,Market 1
+17-01-2022,17,1,2022,40,1,0,0,1,2,1,0,5,Account management,Market 1
+06-01-2022,6,1,2022,242,11,5,1,8,4,2,5,36,Technician troubleshooting,Market 1
+09-01-2022,9,1,2022,34,2,3,1,1,0,0,0,7,Account management,Market 1
+28-03-2022,28,3,2022,31,6,1,2,1,1,0,1,12,Scheduling,Market 1
+21-03-2022,21,3,2022,465,35,18,17,12,9,5,19,115,Technician troubleshooting,Market 1
+24-01-2022,24,1,2022,225,7,17,7,6,5,2,5,49,Internet & Wi-Fi,Market 1
+15-02-2022,15,2,2022,311,17,7,8,6,9,5,2,54,Technician troubleshooting,Market 1
+16-03-2022,16,3,2022,40,1,0,1,0,2,1,1,6,Account management,Market 1
+16-01-2022,16,1,2022,2,0,0,1,0,0,0,0,1,Construction,Market 1
+07-02-2022,7,2,2022,26,4,5,4,1,2,0,1,17,Scheduling,Market 1
+04-03-2022,4,3,2022,5,0,1,0,0,0,1,0,2,Construction,Market 1
+09-02-2022,9,2,2022,24,0,3,1,1,1,0,1,7,Account management,Market 1
+17-03-2022,17,3,2022,262,11,2,2,16,7,6,11,55,Technician troubleshooting,Market 1
+07-01-2022,7,1,2022,214,22,16,14,13,4,9,12,90,Internet & Wi-Fi,Market 1
+08-01-2022,8,1,2022,164,18,16,15,3,3,3,1,59,Internet & Wi-Fi,Market 1
+16-02-2022,16,2,2022,26,3,1,0,0,0,1,0,5,Account management,Market 1
+25-01-2022,25,1,2022,176,17,8,11,1,5,9,10,61,Internet & Wi-Fi,Market 1
+03-01-2022,3,1,2022,6,0,1,0,0,0,0,0,1,Construction,Market 1
+31-01-2022,31,1,2022,243,31,16,12,12,8,1,10,90,Internet & Wi-Fi,Market 1
+09-02-2022,9,2,2022,199,18,8,8,6,9,7,1,57,Internet & Wi-Fi,Market 1
+15-02-2022,15,2,2022,168,25,6,2,3,5,11,8,60,Internet & Wi-Fi,Market 1
+19-03-2022,19,3,2022,15,0,2,2,0,3,0,2,9,Account management,Market 1
+04-03-2022,4,3,2022,174,10,11,11,8,8,4,1,53,Internet & Wi-Fi,Market 1
+03-01-2022,3,1,2022,55,3,6,0,5,2,4,4,24,Account management,Market 1
+18-02-2022,18,2,2022,18,0,0,3,1,0,0,0,4,Scheduling,Market 1
+11-02-2022,11,2,2022,197,10,4,10,7,4,5,8,48,Technician troubleshooting,Market 1
+03-02-2022,3,2,2022,304,13,11,4,8,2,6,6,50,Technician troubleshooting,Market 1
+13-03-2022,13,3,2022,3,2,4,1,0,0,0,0,7,Scheduling,Market 1
+06-02-2022,6,2,2022,1,0,0,1,0,0,0,0,1,Construction,Market 1
+23-03-2022,23,3,2022,454,25,15,9,6,20,16,28,119,Technician troubleshooting,Market 1
+16-01-2022,16,1,2022,118,11,6,8,6,6,2,3,42,Internet & Wi-Fi,Market 1
+21-02-2022,21,2,2022,18,4,0,0,1,2,0,1,8,Account management,Market 1
+28-03-2022,28,3,2022,480,28,19,19,13,5,9,12,105,Technician troubleshooting,Market 1
+01-01-2022,1,1,2022,7,0,0,0,0,0,0,1,1,Scheduling,Market 1
+24-01-2022,24,1,2022,22,3,4,0,1,1,3,1,13,Scheduling,Market 1
+04-02-2022,4,2,2022,3,0,0,0,1,0,0,0,1,Construction,Market 1
+27-01-2022,27,1,2022,171,25,12,2,6,3,2,2,52,Internet & Wi-Fi,Market 1
+16-03-2022,16,3,2022,378,17,16,5,6,14,15,17,90,Technician troubleshooting,Market 1
+22-03-2022,22,3,2022,4,0,0,0,0,0,0,0,0,Construction,Market 1
+22-03-2022,22,3,2022,28,2,2,3,3,1,0,3,14,Account management,Market 1
+24-02-2022,24,2,2022,13,2,2,0,0,0,2,1,7,Account management,Market 1
+30-03-2022,30,3,2022,46,1,2,3,2,3,0,2,13,Account management,Market 1
+29-03-2022,29,3,2022,186,16,15,10,5,3,8,8,65,Internet & Wi-Fi,Market 1
+26-01-2022,26,1,2022,182,18,7,10,3,9,10,7,64,Internet & Wi-Fi,Market 1
+15-01-2022,15,1,2022,215,10,8,9,15,4,5,2,53,Internet & Wi-Fi,Market 1
+16-01-2022,16,1,2022,24,1,3,2,1,1,0,0,8,Account management,Market 1
+01-02-2022,1,2,2022,233,24,16,12,10,0,6,5,73,Internet & Wi-Fi,Market 1
+11-03-2022,11,3,2022,20,1,1,3,2,5,1,0,13,Account management,Market 1
+23-01-2022,23,1,2022,1,0,0,0,0,0,0,0,0,Construction,Market 1
+10-01-2022,10,1,2022,1,0,0,0,0,0,0,0,0,Construction,Market 1
+04-03-2022,4,3,2022,279,11,7,11,12,10,5,14,70,Technician troubleshooting,Market 1
+29-03-2022,29,3,2022,3,0,0,0,0,0,0,0,0,Construction,Market 1
+17-02-2022,17,2,2022,15,1,1,1,1,0,0,1,5,Account management,Market 1
+14-01-2022,14,1,2022,17,0,1,0,1,1,2,1,6,Scheduling,Market 1
+22-01-2022,22,1,2022,53,1,1,1,0,1,1,1,6,Account management,Market 1
+16-02-2022,16,2,2022,3,0,0,0,0,0,0,0,0,Construction,Market 1
+16-03-2022,16,3,2022,0,0,0,0,0,1,0,0,1,Construction,Market 2
+01-02-2022,1,2,2022,28,1,0,1,0,0,2,0,4,Technician troubleshooting,Market 2
+05-01-2022,5,1,2022,11,2,0,0,0,0,0,0,2,Account management,Market 2
+30-03-2022,30,3,2022,38,3,2,0,0,0,0,1,6,Internet & Wi-Fi,Market 2
+24-01-2022,24,1,2022,1,0,0,0,0,0,0,0,0,Account management,Market 2
+27-02-2022,27,2,2022,0,0,0,0,0,0,0,0,0,Construction,Market 2
+28-03-2022,28,3,2022,29,0,2,0,1,0,0,1,4,Technician troubleshooting,Market 2
+10-01-2022,10,1,2022,0,0,0,0,0,0,0,0,0,Construction,Market 2
+03-01-2022,3,1,2022,5,0,0,0,0,0,0,0,0,Scheduling,Market 2
+23-02-2022,23,2,2022,29,0,1,0,1,0,0,0,2,Technician troubleshooting,Market 2
+24-03-2022,24,3,2022,20,0,0,0,1,1,0,0,2,Technician troubleshooting,Market 2
+30-01-2022,30,1,2022,1,0,0,0,0,0,0,0,0,Account management,Market 2
+12-03-2022,12,3,2022,9,0,0,2,0,0,0,0,2,Technician troubleshooting,Market 2
+10-03-2022,10,3,2022,19,0,0,0,2,0,0,0,2,Technician troubleshooting,Market 2
+28-03-2022,28,3,2022,2,0,0,0,0,0,0,0,0,Scheduling,Market 2
+18-03-2022,18,3,2022,16,1,0,0,0,0,0,0,1,Technician troubleshooting,Market 2
+17-03-2022,17,3,2022,3,0,0,0,0,0,0,0,0,Account management,Market 2
+31-03-2022,31,3,2022,1,0,1,0,0,0,0,0,1,Account management,Market 2
+15-01-2022,15,1,2022,2,0,0,0,0,0,0,0,0,Account management,Market 2
+16-02-2022,16,2,2022,18,0,1,0,0,0,0,1,2,Technician troubleshooting,Market 2
+14-02-2022,14,2,2022,25,0,0,1,0,0,0,0,1,Technician troubleshooting,Market 2
+26-03-2022,26,3,2022,1,0,0,0,0,0,0,0,0,Construction,Market 2
+22-03-2022,22,3,2022,26,1,2,0,0,0,1,2,6,Internet & Wi-Fi,Market 2
+05-03-2022,5,3,2022,39,0,1,1,0,0,0,0,2,Internet & Wi-Fi,Market 2
+14-02-2022,14,2,2022,0,0,0,0,0,0,0,0,0,Construction,Market 2
+07-01-2022,7,1,2022,29,0,1,0,0,1,1,1,4,Technician troubleshooting,Market 2
+16-01-2022,16,1,2022,9,1,0,0,0,0,0,0,1,Technician troubleshooting,Market 2
+27-03-2022,27,3,2022,10,0,1,0,0,0,0,0,1,Internet & Wi-Fi,Market 2
+11-01-2022,11,1,2022,0,0,0,0,0,0,0,0,0,Scheduling,Market 2
+26-03-2022,26,3,2022,1,0,0,0,0,0,0,0,0,Scheduling,Market 2
+10-01-2022,10,1,2022,8,0,0,0,0,0,0,0,0,Account management,Market 2
+21-01-2022,21,1,2022,18,0,0,0,0,0,0,0,0,Technician troubleshooting,Market 2
+26-02-2022,26,2,2022,16,0,0,0,0,1,0,1,2,Internet & Wi-Fi,Market 2
+17-03-2022,17,3,2022,18,1,1,0,0,2,0,1,5,Internet & Wi-Fi,Market 2
+07-02-2022,7,2,2022,33,2,1,0,0,0,0,0,3,Internet & Wi-Fi,Market 2
+22-03-2022,22,3,2022,0,0,0,0,0,0,0,0,0,Scheduling,Market 2
+24-02-2022,24,2,2022,15,1,1,2,1,0,0,1,6,Technician troubleshooting,Market 2
+21-02-2022,21,2,2022,0,0,0,0,0,0,0,0,0,Scheduling,Market 2
+11-01-2022,11,1,2022,4,1,0,0,0,0,0,0,1,Account management,Market 2
+31-01-2022,31,1,2022,25,0,0,0,1,1,0,1,3,Internet & Wi-Fi,Market 2
+12-02-2022,12,2,2022,0,0,0,0,0,0,0,0,0,Construction,Market 2
+24-02-2022,24,2,2022,0,0,1,0,1,0,0,0,2,Account management,Market 2
+31-03-2022,31,3,2022,0,0,0,0,0,0,0,0,0,Construction,Market 2
+01-03-2022,1,3,2022,40,2,0,1,0,3,0,0,6,Technician troubleshooting,Market 2
+04-03-2022,4,3,2022,0,0,0,0,0,0,0,0,0,Construction,Market 2
+15-03-2022,15,3,2022,0,0,0,0,0,0,0,0,0,Construction,Market 2
+15-02-2022,15,2,2022,20,0,2,0,0,0,0,0,2,Technician troubleshooting,Market 2
+13-01-2022,13,1,2022,4,0,1,0,0,0,0,0,1,Account management,Market 2
+21-03-2022,21,3,2022,1,0,0,0,0,1,0,0,1,Construction,Market 2
+06-02-2022,6,2,2022,0,0,0,1,0,0,0,0,1,Construction,Market 2
+23-02-2022,23,2,2022,25,0,0,0,1,0,0,0,1,Internet & Wi-Fi,Market 2
+16-02-2022,16,2,2022,1,0,0,0,0,0,0,0,0,Construction,Market 2
+29-01-2022,29,1,2022,0,0,0,0,0,0,0,0,0,Construction,Market 2
+10-03-2022,10,3,2022,0,0,0,0,0,0,0,0,0,Construction,Market 2
+27-03-2022,27,3,2022,3,0,0,0,0,0,0,0,0,Account management,Market 2
+27-03-2022,27,3,2022,0,0,0,0,0,0,0,0,0,Scheduling,Market 2
+09-03-2022,9,3,2022,2,0,0,0,0,0,0,0,0,Scheduling,Market 2
+22-02-2022,22,2,2022,5,0,0,0,1,0,1,0,2,Account management,Market 2
+20-01-2022,20,1,2022,0,0,0,0,0,0,0,0,0,Construction,Market 2
+28-03-2022,28,3,2022,36,4,1,0,1,0,0,0,6,Internet & Wi-Fi,Market 2
+12-03-2022,12,3,2022,2,0,0,0,1,1,0,0,2,Account management,Market 2
+09-02-2022,9,2,2022,2,0,0,0,0,0,0,0,0,Construction,Market 2
+26-03-2022,26,3,2022,14,0,1,0,0,0,1,1,3,Internet & Wi-Fi,Market 2
+01-01-2022,1,1,2022,0,0,0,0,0,0,0,0,0,Construction,Market 2
+29-03-2022,29,3,2022,38,4,0,1,0,0,0,1,6,Internet & Wi-Fi,Market 2
+24-01-2022,24,1,2022,1,0,0,0,0,0,0,0,0,Construction,Market 2
+09-01-2022,9,1,2022,5,0,0,0,0,0,0,0,0,Account management,Market 2
+04-01-2022,4,1,2022,0,1,0,0,0,0,0,0,1,Construction,Market 2
+27-01-2022,27,1,2022,44,3,0,0,1,1,0,1,6,Technician troubleshooting,Market 2
+03-03-2022,3,3,2022,0,0,0,0,0,0,0,0,0,Construction,Market 2
+22-01-2022,22,1,2022,23,1,1,1,0,0,0,1,4,Internet & Wi-Fi,Market 2
+02-02-2022,2,2,2022,31,3,1,0,1,4,0,0,9,Internet & Wi-Fi,Market 2
+20-02-2022,20,2,2022,0,0,0,0,0,0,0,0,0,Construction,Market 2
+06-01-2022,6,1,2022,0,0,0,0,0,0,0,0,0,Scheduling,Market 2
+24-02-2022,24,2,2022,0,0,0,0,0,0,0,0,0,Construction,Market 2
+01-02-2022,1,2,2022,0,0,0,0,0,0,0,0,0,Construction,Market 2
+28-02-2022,28,2,2022,0,0,0,0,0,0,0,0,0,Scheduling,Market 2
+02-03-2022,2,3,2022,0,0,0,0,0,0,0,0,0,Construction,Market 2
+29-03-2022,29,3,2022,1,0,0,1,0,0,0,0,1,Scheduling,Market 2
+28-01-2022,28,1,2022,1,0,0,1,0,0,0,0,1,Construction,Market 2
+29-01-2022,29,1,2022,19,0,0,0,0,0,1,0,1,Internet & Wi-Fi,Market 2
+25-02-2022,25,2,2022,0,0,0,0,0,0,0,0,0,Construction,Market 2
+21-03-2022,21,3,2022,5,0,0,1,0,0,1,0,2,Account management,Market 2
+30-01-2022,30,1,2022,15,0,0,0,0,0,0,0,0,Technician troubleshooting,Market 2
+26-01-2022,26,1,2022,0,0,0,0,0,0,0,0,0,Construction,Market 2
+30-01-2022,30,1,2022,0,0,0,0,0,0,0,0,0,Scheduling,Market 2
+04-02-2022,4,2,2022,25,2,0,0,1,0,0,0,3,Internet & Wi-Fi,Market 2
+20-03-2022,20,3,2022,7,0,0,0,0,0,0,0,0,Technician troubleshooting,Market 2
+01-03-2022,1,3,2022,20,2,0,0,0,1,0,0,3,Internet & Wi-Fi,Market 2
+26-03-2022,26,3,2022,3,1,0,0,0,0,1,1,3,Account management,Market 2
+14-01-2022,14,1,2022,0,0,0,0,0,0,0,0,0,Scheduling,Market 2
+17-01-2022,17,1,2022,3,0,0,0,0,0,0,0,0,Scheduling,Market 2
+01-02-2022,1,2,2022,1,0,0,0,0,0,0,0,0,Scheduling,Market 2
+13-03-2022,13,3,2022,0,0,0,0,0,0,0,0,0,Scheduling,Market 2
+07-03-2022,7,3,2022,0,0,0,0,0,0,0,0,0,Construction,Market 2
+29-03-2022,29,3,2022,6,0,0,0,0,0,0,0,0,Account management,Market 2
+31-01-2022,31,1,2022,1,0,0,0,0,0,0,0,0,Scheduling,Market 2
+18-01-2022,18,1,2022,2,0,0,0,0,0,0,0,0,Scheduling,Market 2
+14-03-2022,14,3,2022,32,3,0,0,0,0,0,0,3,Technician troubleshooting,Market 2
+08-01-2022,8,1,2022,0,0,0,0,0,0,0,0,0,Scheduling,Market 2
+18-02-2022,18,2,2022,0,0,0,0,0,0,0,0,0,Construction,Market 2
+07-01-2022,7,1,2022,31,0,1,1,2,2,1,2,9,Internet & Wi-Fi,Market 2
+24-03-2022,24,3,2022,2,0,0,0,1,1,0,0,2,Scheduling,Market 2
+28-02-2022,28,2,2022,0,0,0,0,0,0,0,0,0,Construction,Market 2
+21-01-2022,21,1,2022,2,0,0,0,0,0,0,0,0,Scheduling,Market 2
+22-03-2022,22,3,2022,0,0,0,0,0,0,0,0,0,Construction,Market 2
+25-01-2022,25,1,2022,0,0,0,0,0,0,0,0,0,Construction,Market 2
+04-03-2022,4,3,2022,33,2,0,0,0,0,3,0,5,Technician troubleshooting,Market 2
+09-03-2022,9,3,2022,0,0,0,0,0,0,0,0,0,Construction,Market 2
+02-03-2022,2,3,2022,1,0,0,0,0,0,0,0,0,Account management,Market 2
+20-03-2022,20,3,2022,0,0,0,0,0,0,0,0,0,Scheduling,Market 2
+07-03-2022,7,3,2022,2,0,1,0,0,0,0,0,1,Account management,Market 2
+24-03-2022,24,3,2022,2,0,0,0,0,0,0,0,0,Account management,Market 2
+02-01-2022,2,1,2022,0,0,0,0,0,0,0,0,0,Construction,Market 2
+09-01-2022,9,1,2022,0,0,0,0,0,0,0,0,0,Construction,Market 2
+22-03-2022,22,3,2022,17,1,0,0,0,0,1,0,2,Technician troubleshooting,Market 2
+10-01-2022,10,1,2022,37,0,1,1,0,0,0,0,2,Technician troubleshooting,Market 2
+28-01-2022,28,1,2022,36,2,0,2,0,1,0,0,5,Technician troubleshooting,Market 2
+04-03-2022,4,3,2022,16,1,0,0,0,0,1,0,2,Internet & Wi-Fi,Market 2
+02-02-2022,2,2,2022,0,0,0,0,0,0,0,0,0,Construction,Market 2
+08-02-2022,8,2,2022,24,0,1,0,0,0,0,0,1,Internet & Wi-Fi,Market 2
+18-02-2022,18,2,2022,18,1,1,0,0,1,0,0,3,Internet & Wi-Fi,Market 2
+13-02-2022,13,2,2022,11,0,1,0,0,0,0,0,1,Technician troubleshooting,Market 2
+19-03-2022,19,3,2022,11,1,1,1,1,1,0,0,5,Internet & Wi-Fi,Market 2
+29-01-2022,29,1,2022,1,0,0,0,0,0,0,0,0,Account management,Market 2
+17-02-2022,17,2,2022,33,2,0,0,1,2,3,0,8,Technician troubleshooting,Market 2
+15-02-2022,15,2,2022,23,1,1,1,2,0,0,0,5,Internet & Wi-Fi,Market 2
+11-02-2022,11,2,2022,2,0,0,0,0,0,0,0,0,Account management,Market 2
+18-03-2022,18,3,2022,1,0,0,1,0,0,1,0,2,Scheduling,Market 2
+11-03-2022,11,3,2022,17,0,2,5,3,0,0,1,11,Internet & Wi-Fi,Market 2
+29-03-2022,29,3,2022,0,0,0,0,0,0,0,0,0,Construction,Market 2
+05-02-2022,5,2,2022,11,0,0,0,1,0,0,0,1,Technician troubleshooting,Market 2
+31-03-2022,31,3,2022,17,0,0,0,0,0,0,0,0,Internet & Wi-Fi,Market 2
+26-02-2022,26,2,2022,13,1,0,0,0,0,0,0,1,Technician troubleshooting,Market 2
+23-01-2022,23,1,2022,12,0,0,0,0,0,1,1,2,Internet & Wi-Fi,Market 2
+26-03-2022,26,3,2022,11,2,0,0,0,1,0,0,3,Technician troubleshooting,Market 2
+09-02-2022,9,2,2022,1,0,0,0,0,0,0,0,0,Account management,Market 2
+16-01-2022,16,1,2022,11,1,1,0,0,0,0,0,2,Internet & Wi-Fi,Market 2
+07-02-2022,7,2,2022,1,0,1,0,0,0,0,0,1,Construction,Market 2
+05-01-2022,5,1,2022,0,0,0,0,0,0,0,0,0,Scheduling,Market 2
+03-02-2022,3,2,2022,23,2,4,2,1,1,2,0,12,Internet & Wi-Fi,Market 2
+11-02-2022,11,2,2022,17,0,1,0,0,0,0,0,1,Technician troubleshooting,Market 2
+03-02-2022,3,2,2022,0,0,0,0,0,0,1,0,1,Construction,Market 2
+18-03-2022,18,3,2022,4,1,0,0,0,0,0,0,1,Account management,Market 2
+31-03-2022,31,3,2022,1,0,0,0,0,0,1,0,1,Scheduling,Market 2
+16-02-2022,16,2,2022,3,0,0,1,0,0,0,0,1,Account management,Market 2
+09-01-2022,9,1,2022,6,1,0,0,0,0,0,0,1,Technician troubleshooting,Market 2
+12-03-2022,12,3,2022,1,0,0,0,0,0,0,0,0,Scheduling,Market 2
+21-02-2022,21,2,2022,20,1,1,0,0,0,1,0,3,Internet & Wi-Fi,Market 2
+27-01-2022,27,1,2022,0,0,0,0,0,0,0,0,0,Scheduling,Market 2
+07-02-2022,7,2,2022,1,0,0,0,0,0,0,0,0,Scheduling,Market 2
+20-03-2022,20,3,2022,0,0,0,0,0,0,0,0,0,Construction,Market 2
+04-02-2022,4,2,2022,7,0,0,0,0,0,0,0,0,Account management,Market 2
+16-01-2022,16,1,2022,0,0,0,0,0,0,0,0,0,Construction,Market 2
+27-01-2022,27,1,2022,3,0,0,0,0,0,0,0,0,Account management,Market 2
+19-02-2022,19,2,2022,11,0,2,0,0,0,0,0,2,Internet & Wi-Fi,Market 2
+04-01-2022,4,1,2022,0,0,0,0,0,0,0,0,0,Scheduling,Market 2
+12-01-2022,12,1,2022,29,3,2,0,0,0,0,1,6,Technician troubleshooting,Market 2
+22-01-2022,22,1,2022,0,0,0,0,0,0,0,0,0,Construction,Market 2
+20-01-2022,20,1,2022,1,0,0,0,0,0,0,0,0,Scheduling,Market 2
+03-03-2022,3,3,2022,24,5,0,0,0,0,0,0,5,Technician troubleshooting,Market 2
+09-02-2022,9,2,2022,15,0,0,0,0,0,1,0,1,Technician troubleshooting,Market 2
+27-01-2022,27,1,2022,15,0,0,0,0,0,1,0,1,Internet & Wi-Fi,Market 2
+12-01-2022,12,1,2022,0,0,0,0,0,0,0,0,0,Construction,Market 2
+20-01-2022,20,1,2022,5,0,0,0,0,0,0,0,0,Account management,Market 2
+10-01-2022,10,1,2022,7,0,1,0,0,0,0,0,1,Scheduling,Market 2
+30-03-2022,30,3,2022,0,0,0,0,0,0,0,0,0,Scheduling,Market 2
+25-03-2022,25,3,2022,3,0,0,1,1,0,0,0,2,Account management,Market 2
+17-01-2022,17,1,2022,0,0,0,0,0,0,0,0,0,Construction,Market 2
+14-02-2022,14,2,2022,1,0,0,0,0,0,0,0,0,Scheduling,Market 2
+16-03-2022,16,3,2022,0,0,0,0,0,1,0,0,1,Scheduling,Market 2
+01-01-2022,1,1,2022,21,2,4,0,0,1,1,0,8,Technician troubleshooting,Market 2
+17-02-2022,17,2,2022,23,4,1,0,0,1,0,4,10,Internet & Wi-Fi,Market 2
+05-02-2022,5,2,2022,19,0,0,1,1,0,0,0,2,Internet & Wi-Fi,Market 2
+13-01-2022,13,1,2022,1,0,0,0,0,0,0,0,0,Scheduling,Market 2
+22-01-2022,22,1,2022,16,1,0,0,0,0,0,0,1,Technician troubleshooting,Market 2
+28-02-2022,28,2,2022,43,2,0,0,2,0,0,1,5,Technician troubleshooting,Market 2
+20-02-2022,20,2,2022,3,0,1,0,2,0,0,0,3,Technician troubleshooting,Market 2
+08-01-2022,8,1,2022,1,4,1,0,0,0,0,0,5,Account management,Market 2
+23-03-2022,23,3,2022,1,0,0,0,0,0,0,0,0,Scheduling,Market 2
+20-01-2022,20,1,2022,17,3,2,1,0,0,0,0,6,Internet & Wi-Fi,Market 2
+27-03-2022,27,3,2022,0,0,0,0,0,0,0,0,0,Construction,Market 2
+26-01-2022,26,1,2022,2,0,0,1,0,0,0,0,1,Account management,Market 2
+14-01-2022,14,1,2022,5,0,0,0,0,0,2,0,2,Account management,Market 2
+11-02-2022,11,2,2022,1,0,0,0,0,0,0,0,0,Scheduling,Market 2
+23-02-2022,23,2,2022,0,0,0,0,0,0,0,0,0,Construction,Market 2
+26-01-2022,26,1,2022,23,0,0,0,2,0,0,0,2,Technician troubleshooting,Market 2
+14-02-2022,14,2,2022,4,0,0,0,0,0,0,0,0,Account management,Market 2
+11-03-2022,11,3,2022,1,0,0,0,0,0,0,0,0,Construction,Market 2
+18-01-2022,18,1,2022,26,2,1,1,0,0,0,0,4,Technician troubleshooting,Market 2
+12-02-2022,12,2,2022,1,0,0,0,0,0,0,0,0,Scheduling,Market 2
+13-03-2022,13,3,2022,6,4,0,0,0,0,0,0,4,Internet & Wi-Fi,Market 2
+07-02-2022,7,2,2022,3,0,0,0,0,0,0,0,0,Account management,Market 2
+21-03-2022,21,3,2022,19,1,1,1,0,0,1,0,4,Internet & Wi-Fi,Market 2
+13-01-2022,13,1,2022,31,1,0,0,0,0,0,0,1,Technician troubleshooting,Market 2
+14-03-2022,14,3,2022,36,5,0,1,1,2,0,0,9,Internet & Wi-Fi,Market 2
+29-03-2022,29,3,2022,18,2,1,0,0,0,0,1,4,Technician troubleshooting,Market 2
+25-02-2022,25,2,2022,3,0,0,0,0,0,0,0,0,Account management,Market 2
+03-01-2022,3,1,2022,32,2,0,1,4,0,0,1,8,Internet & Wi-Fi,Market 2
+19-01-2022,19,1,2022,0,0,0,0,0,0,0,0,0,Construction,Market 2
+28-02-2022,28,2,2022,38,2,1,0,0,0,0,0,3,Internet & Wi-Fi,Market 2
+23-03-2022,23,3,2022,3,0,1,0,0,0,0,0,1,Account management,Market 2
+08-03-2022,8,3,2022,3,0,0,0,0,0,0,0,0,Account management,Market 2
+15-01-2022,15,1,2022,0,0,0,0,0,0,0,0,0,Construction,Market 2
+20-03-2022,20,3,2022,13,0,0,0,0,1,0,0,1,Internet & Wi-Fi,Market 2
+23-01-2022,23,1,2022,0,0,0,0,0,0,0,0,0,Construction,Market 2
+10-02-2022,10,2,2022,0,0,0,0,0,0,0,0,0,Construction,Market 2
+18-01-2022,18,1,2022,0,0,0,0,0,0,0,0,0,Construction,Market 2
+20-02-2022,20,2,2022,0,0,0,0,0,0,0,0,0,Scheduling,Market 2
+10-03-2022,10,3,2022,1,0,0,0,0,0,0,0,0,Scheduling,Market 2
+22-02-2022,22,2,2022,0,0,0,0,0,0,0,0,0,Scheduling,Market 2
+04-01-2022,4,1,2022,33,3,0,1,0,0,0,0,4,Internet & Wi-Fi,Market 2
+15-02-2022,15,2,2022,2,0,0,0,0,0,0,0,0,Scheduling,Market 2
+06-01-2022,6,1,2022,22,1,0,0,0,0,0,1,2,Internet & Wi-Fi,Market 2
+28-03-2022,28,3,2022,0,0,0,0,0,0,0,0,0,Construction,Market 2
+26-01-2022,26,1,2022,27,1,2,0,0,0,0,0,3,Internet & Wi-Fi,Market 2
+09-02-2022,9,2,2022,27,2,0,1,0,0,0,0,3,Internet & Wi-Fi,Market 2
+23-02-2022,23,2,2022,0,1,0,0,0,0,0,1,2,Scheduling,Market 2
+03-02-2022,3,2,2022,1,0,0,0,0,0,0,0,0,Scheduling,Market 2
+14-01-2022,14,1,2022,34,1,0,0,0,0,0,0,1,Internet & Wi-Fi,Market 2
+24-01-2022,24,1,2022,24,5,0,1,0,0,0,0,6,Internet & Wi-Fi,Market 2
+16-03-2022,16,3,2022,26,3,2,0,0,0,1,0,6,Internet & Wi-Fi,Market 2
+27-02-2022,27,2,2022,0,0,0,0,0,0,0,0,0,Scheduling,Market 2
+23-01-2022,23,1,2022,12,3,0,1,1,0,0,1,6,Technician troubleshooting,Market 2
+13-02-2022,13,2,2022,0,0,0,0,0,0,0,0,0,Scheduling,Market 2
+17-02-2022,17,2,2022,0,0,0,0,0,0,0,0,0,Construction,Market 2
+24-01-2022,24,1,2022,1,0,0,0,0,0,0,0,0,Scheduling,Market 2
+17-01-2022,17,1,2022,6,0,0,0,0,0,0,0,0,Account management,Market 2
+05-01-2022,5,1,2022,29,2,3,0,0,0,0,0,5,Internet & Wi-Fi,Market 2
+30-03-2022,30,3,2022,0,0,0,0,0,0,0,0,0,Construction,Market 2
+04-02-2022,4,2,2022,16,0,0,1,0,0,0,0,1,Technician troubleshooting,Market 2
+22-02-2022,22,2,2022,28,2,2,0,0,1,0,2,7,Technician troubleshooting,Market 2
+29-01-2022,29,1,2022,15,0,1,0,0,0,0,0,1,Technician troubleshooting,Market 2
+25-01-2022,25,1,2022,25,1,0,0,0,0,0,1,2,Technician troubleshooting,Market 2
+26-02-2022,26,2,2022,0,0,0,0,0,0,0,0,0,Construction,Market 2
+15-01-2022,15,1,2022,0,0,0,0,0,0,0,0,0,Scheduling,Market 2
+06-02-2022,6,2,2022,11,4,0,1,0,0,0,0,5,Internet & Wi-Fi,Market 2
+13-03-2022,13,3,2022,0,0,0,0,0,0,0,0,0,Construction,Market 2
+13-03-2022,13,3,2022,0,0,0,0,0,0,0,0,0,Account management,Market 2
+15-03-2022,15,3,2022,4,0,0,0,0,0,0,0,0,Scheduling,Market 2
+31-03-2022,31,3,2022,32,2,0,1,0,0,1,0,4,Technician troubleshooting,Market 2
+18-03-2022,18,3,2022,23,1,1,4,1,0,2,1,10,Internet & Wi-Fi,Market 2
+07-01-2022,7,1,2022,0,0,0,0,0,0,0,0,0,Construction,Market 2
+12-01-2022,12,1,2022,6,0,0,0,0,0,0,1,1,Account management,Market 2
+02-02-2022,2,2,2022,1,0,0,0,0,0,0,0,0,Scheduling,Market 2
+04-02-2022,4,2,2022,0,0,0,0,0,0,0,0,0,Construction,Market 2
+18-02-2022,18,2,2022,3,0,0,0,0,0,0,0,0,Account management,Market 2
+17-02-2022,17,2,2022,1,1,0,0,0,0,0,0,1,Scheduling,Market 2
+20-02-2022,20,2,2022,1,0,0,0,0,0,0,0,0,Account management,Market 2
+23-03-2022,23,3,2022,26,2,2,1,0,0,0,0,5,Internet & Wi-Fi,Market 2
+11-02-2022,11,2,2022,0,0,0,0,0,0,0,0,0,Construction,Market 2
+19-03-2022,19,3,2022,0,0,0,0,0,0,0,0,0,Construction,Market 2
+16-02-2022,16,2,2022,21,0,3,0,0,1,1,0,5,Internet & Wi-Fi,Market 2
+03-02-2022,3,2,2022,36,1,1,0,5,1,1,1,10,Technician troubleshooting,Market 2
+01-03-2022,1,3,2022,0,0,0,0,0,0,0,0,0,Scheduling,Market 2
+05-03-2022,5,3,2022,1,0,0,0,0,0,0,0,0,Account management,Market 2
+25-03-2022,25,3,2022,25,1,0,0,0,0,0,0,1,Internet & Wi-Fi,Market 2
+28-03-2022,28,3,2022,6,0,0,1,0,0,0,0,1,Account management,Market 2
+06-03-2022,6,3,2022,0,0,0,0,0,0,0,0,0,Account management,Market 2
+28-01-2022,28,1,2022,10,0,0,1,0,0,0,0,1,Internet & Wi-Fi,Market 2
+13-02-2022,13,2,2022,3,0,0,0,0,0,0,0,0,Account management,Market 2
+05-01-2022,5,1,2022,39,3,1,0,0,0,0,0,4,Technician troubleshooting,Market 2
+14-01-2022,14,1,2022,28,2,0,0,0,0,0,0,2,Technician troubleshooting,Market 2
+02-03-2022,2,3,2022,3,0,0,0,0,0,0,1,1,Scheduling,Market 2
+14-03-2022,14,3,2022,0,0,0,0,0,0,0,0,0,Construction,Market 2
+13-02-2022,13,2,2022,12,1,0,0,0,0,0,0,1,Internet & Wi-Fi,Market 2
+21-02-2022,21,2,2022,18,1,0,0,1,0,0,3,5,Technician troubleshooting,Market 2
+05-02-2022,5,2,2022,0,0,0,0,0,0,0,0,0,Scheduling,Market 2
+08-01-2022,8,1,2022,21,2,1,0,2,1,1,0,7,Internet & Wi-Fi,Market 2
+01-03-2022,1,3,2022,1,0,0,0,0,0,0,0,0,Account management,Market 2
+14-01-2022,14,1,2022,1,0,0,0,0,0,0,0,0,Construction,Market 2
+08-02-2022,8,2,2022,0,0,0,0,0,0,0,0,0,Construction,Market 2
+24-02-2022,24,2,2022,1,0,0,0,0,0,1,0,1,Scheduling,Market 2
+24-01-2022,24,1,2022,20,3,0,0,0,0,0,1,4,Technician troubleshooting,Market 2
+04-02-2022,4,2,2022,0,0,0,0,0,0,0,0,0,Scheduling,Market 2
+18-02-2022,18,2,2022,1,0,0,0,0,0,0,0,0,Scheduling,Market 2
+16-01-2022,16,1,2022,3,0,0,0,0,0,0,0,0,Account management,Market 2
+06-03-2022,6,3,2022,10,5,1,0,0,0,0,0,6,Internet & Wi-Fi,Market 2
+17-03-2022,17,3,2022,13,0,1,0,1,0,0,1,3,Technician troubleshooting,Market 2
+06-02-2022,6,2,2022,0,0,0,0,0,0,0,0,0,Scheduling,Market 2
+19-02-2022,19,2,2022,0,0,0,0,0,0,0,0,0,Construction,Market 2
+23-02-2022,23,2,2022,1,0,0,0,0,0,0,0,0,Account management,Market 2
+16-03-2022,16,3,2022,5,0,0,0,0,0,0,0,0,Account management,Market 2
+12-02-2022,12,2,2022,16,0,1,1,1,0,0,0,3,Internet & Wi-Fi,Market 2
+30-03-2022,30,3,2022,3,1,0,0,0,0,0,0,1,Account management,Market 2
+27-02-2022,27,2,2022,8,1,0,0,0,0,0,0,1,Internet & Wi-Fi,Market 2
+15-03-2022,15,3,2022,5,0,0,0,0,0,0,0,0,Account management,Market 2
+09-02-2022,9,2,2022,0,0,0,0,0,0,0,0,0,Scheduling,Market 2
+03-02-2022,3,2,2022,3,0,0,0,0,0,0,0,0,Account management,Market 2
+26-02-2022,26,2,2022,1,0,1,0,0,0,0,0,1,Account management,Market 2
+27-02-2022,27,2,2022,0,0,0,0,0,0,0,0,0,Account management,Market 2
+31-01-2022,31,1,2022,38,0,0,1,0,1,0,0,2,Technician troubleshooting,Market 2
+05-03-2022,5,3,2022,0,0,0,0,0,0,0,0,0,Scheduling,Market 2
+08-03-2022,8,3,2022,0,0,0,0,0,0,0,0,0,Scheduling,Market 2
+11-03-2022,11,3,2022,17,0,0,0,0,0,0,0,0,Technician troubleshooting,Market 2
+25-03-2022,25,3,2022,23,1,0,0,0,1,0,0,2,Technician troubleshooting,Market 2
+23-03-2022,23,3,2022,28,0,1,0,0,0,0,0,1,Technician troubleshooting,Market 2
+19-02-2022,19,2,2022,14,0,1,0,0,0,0,0,1,Technician troubleshooting,Market 2
+23-03-2022,23,3,2022,0,0,0,0,0,0,0,0,0,Construction,Market 2
+07-01-2022,7,1,2022,1,0,0,0,0,0,0,0,0,Scheduling,Market 2
+23-01-2022,23,1,2022,0,0,0,0,0,0,0,0,0,Scheduling,Market 2
+25-02-2022,25,2,2022,14,1,0,2,0,0,0,0,3,Internet & Wi-Fi,Market 2
+07-03-2022,7,3,2022,34,5,0,1,0,0,0,0,6,Internet & Wi-Fi,Market 2
+19-02-2022,19,2,2022,3,0,0,0,0,0,0,0,0,Account management,Market 2
+07-03-2022,7,3,2022,2,0,0,0,0,0,0,0,0,Scheduling,Market 2
+21-03-2022,21,3,2022,2,0,0,1,0,0,0,2,3,Scheduling,Market 2
+25-03-2022,25,3,2022,0,0,0,0,1,0,0,1,2,Scheduling,Market 2
+15-03-2022,15,3,2022,26,2,1,1,0,0,0,2,6,Internet & Wi-Fi,Market 2
+18-02-2022,18,2,2022,25,0,0,1,2,1,1,0,5,Technician troubleshooting,Market 2
+10-02-2022,10,2,2022,13,0,0,0,0,0,0,0,0,Internet & Wi-Fi,Market 2
+01-01-2022,1,1,2022,0,0,0,0,0,0,0,0,0,Scheduling,Market 2
+12-02-2022,12,2,2022,2,0,0,0,0,0,0,0,0,Account management,Market 2
+10-01-2022,10,1,2022,26,1,4,1,0,0,0,1,7,Internet & Wi-Fi,Market 2
+25-01-2022,25,1,2022,30,2,0,0,0,0,0,0,2,Internet & Wi-Fi,Market 2
+21-01-2022,21,1,2022,23,2,1,1,2,0,0,0,6,Internet & Wi-Fi,Market 2
+27-03-2022,27,3,2022,11,1,0,0,0,0,0,0,1,Technician troubleshooting,Market 2
+09-03-2022,9,3,2022,17,3,0,2,1,3,0,0,9,Internet & Wi-Fi,Market 2
+13-01-2022,13,1,2022,0,0,0,0,0,0,0,0,0,Construction,Market 2
+10-02-2022,10,2,2022,5,0,0,0,0,0,0,1,1,Account management,Market 2
+03-01-2022,3,1,2022,66,3,3,4,6,2,1,2,21,Technician troubleshooting,Market 2
+01-02-2022,1,2,2022,2,1,0,1,0,0,0,0,2,Account management,Market 2
+28-01-2022,28,1,2022,3,0,0,0,0,0,0,0,0,Account management,Market 2
+17-01-2022,17,1,2022,26,2,0,0,0,0,0,0,2,Technician troubleshooting,Market 2
+09-01-2022,9,1,2022,1,1,0,0,0,0,0,0,1,Scheduling,Market 2
+02-03-2022,2,3,2022,27,4,0,1,0,3,0,0,8,Internet & Wi-Fi,Market 2
+04-03-2022,4,3,2022,4,0,0,1,0,1,0,0,2,Scheduling,Market 2
+30-01-2022,30,1,2022,10,2,0,0,0,0,0,0,2,Internet & Wi-Fi,Market 2
+15-02-2022,15,2,2022,0,0,0,0,0,0,0,0,0,Construction,Market 2
+31-01-2022,31,1,2022,2,0,0,0,0,0,0,0,0,Construction,Market 2
+06-01-2022,6,1,2022,1,0,0,0,0,0,0,0,0,Construction,Market 2
+18-01-2022,18,1,2022,5,0,0,0,0,0,0,0,0,Account management,Market 2
+07-03-2022,7,3,2022,33,1,1,0,0,0,0,3,5,Technician troubleshooting,Market 2
+04-01-2022,4,1,2022,48,7,4,2,0,0,1,2,16,Technician troubleshooting,Market 2
+16-03-2022,16,3,2022,18,1,1,1,0,0,0,0,3,Technician troubleshooting,Market 2
+07-01-2022,7,1,2022,5,0,0,0,0,1,0,0,1,Account management,Market 2
+30-03-2022,30,3,2022,31,1,0,0,0,0,0,2,3,Technician troubleshooting,Market 2
+12-01-2022,12,1,2022,27,1,1,0,0,0,0,2,4,Internet & Wi-Fi,Market 2
+14-03-2022,14,3,2022,0,0,0,0,0,0,0,0,0,Scheduling,Market 2
+08-01-2022,8,1,2022,20,0,0,0,0,0,0,0,0,Technician troubleshooting,Market 2
+24-03-2022,24,3,2022,33,1,0,0,4,1,1,0,7,Internet & Wi-Fi,Market 2
+20-02-2022,20,2,2022,14,1,1,0,0,0,0,1,3,Internet & Wi-Fi,Market 2
+24-02-2022,24,2,2022,26,0,1,0,0,0,1,0,2,Internet & Wi-Fi,Market 2
+04-03-2022,4,3,2022,1,0,0,0,0,0,0,0,0,Account management,Market 2
+03-03-2022,3,3,2022,24,0,2,0,0,0,0,0,2,Internet & Wi-Fi,Market 2
+19-01-2022,19,1,2022,0,0,0,0,0,0,0,0,0,Scheduling,Market 2
+15-01-2022,15,1,2022,22,1,1,0,2,0,1,1,6,Internet & Wi-Fi,Market 2
+16-02-2022,16,2,2022,2,0,0,0,0,0,0,0,0,Scheduling,Market 2
+25-01-2022,25,1,2022,4,0,0,0,0,0,0,0,0,Account management,Market 2
+01-01-2022,1,1,2022,2,0,0,0,0,0,0,0,0,Account management,Market 2
+18-03-2022,18,3,2022,0,0,0,0,0,0,0,0,0,Construction,Market 2
+25-02-2022,25,2,2022,0,0,0,0,0,0,0,0,0,Scheduling,Market 2
+30-01-2022,30,1,2022,0,1,0,0,0,0,0,0,1,Construction,Market 2
+05-02-2022,5,2,2022,1,0,1,0,0,0,0,0,1,Account management,Market 2
+08-03-2022,8,3,2022,25,2,3,0,0,0,0,2,7,Internet & Wi-Fi,Market 2
+21-01-2022,21,1,2022,1,0,0,0,0,0,0,0,0,Construction,Market 2
+01-02-2022,1,2,2022,17,4,0,0,1,1,1,0,7,Internet & Wi-Fi,Market 2
+14-02-2022,14,2,2022,18,1,0,0,0,0,0,0,1,Internet & Wi-Fi,Market 2
+12-01-2022,12,1,2022,1,0,0,0,0,0,0,0,0,Scheduling,Market 2
+08-03-2022,8,3,2022,0,0,0,0,0,0,0,0,0,Construction,Market 2
+06-01-2022,6,1,2022,8,0,0,0,0,0,1,0,1,Account management,Market 2
+11-01-2022,11,1,2022,33,4,0,1,0,0,0,0,5,Internet & Wi-Fi,Market 2
+25-03-2022,25,3,2022,1,0,0,0,0,0,0,0,0,Construction,Market 2
+15-02-2022,15,2,2022,1,0,0,0,0,0,0,0,0,Account management,Market 2
+11-01-2022,11,1,2022,22,2,1,0,0,0,0,0,3,Technician troubleshooting,Market 2
+08-02-2022,8,2,2022,4,0,0,0,0,0,0,0,0,Account management,Market 2
+02-01-2022,2,1,2022,0,0,0,0,0,0,0,0,0,Scheduling,Market 2
+15-01-2022,15,1,2022,15,1,0,0,0,0,0,0,1,Technician troubleshooting,Market 2
+10-03-2022,10,3,2022,2,1,0,0,0,0,0,0,1,Account management,Market 2
+22-03-2022,22,3,2022,2,0,0,0,0,0,1,0,1,Account management,Market 2
+08-02-2022,8,2,2022,1,0,0,0,0,0,0,0,0,Scheduling,Market 2
+16-01-2022,16,1,2022,1,0,0,0,0,0,0,0,0,Scheduling,Market 2
+10-03-2022,10,3,2022,23,0,0,1,2,0,1,1,5,Internet & Wi-Fi,Market 2
+20-01-2022,20,1,2022,21,0,0,0,1,2,0,0,3,Technician troubleshooting,Market 2
+03-03-2022,3,3,2022,4,0,0,0,0,0,0,0,0,Account management,Market 2
+22-01-2022,22,1,2022,0,0,0,0,0,0,0,0,0,Scheduling,Market 2
+13-03-2022,13,3,2022,10,0,0,0,0,0,0,0,0,Technician troubleshooting,Market 2
+06-03-2022,6,3,2022,9,0,1,0,0,0,0,0,1,Technician troubleshooting,Market 2
+17-03-2022,17,3,2022,0,0,0,0,0,0,0,0,0,Construction,Market 2
+24-03-2022,24,3,2022,1,0,0,0,0,0,0,0,0,Construction,Market 2
+26-01-2022,26,1,2022,3,0,0,0,0,0,0,0,0,Scheduling,Market 2
+05-03-2022,5,3,2022,0,0,0,0,0,0,0,0,0,Construction,Market 2
+12-03-2022,12,3,2022,0,0,0,0,0,0,0,0,0,Construction,Market 2
+27-01-2022,27,1,2022,0,0,0,0,0,0,0,0,0,Construction,Market 2
+12-03-2022,12,3,2022,16,1,2,0,0,0,0,0,3,Internet & Wi-Fi,Market 2
+19-03-2022,19,3,2022,9,0,1,0,0,1,0,0,2,Technician troubleshooting,Market 2
+22-02-2022,22,2,2022,1,0,0,0,0,0,0,0,0,Construction,Market 2
+06-02-2022,6,2,2022,4,1,0,0,0,1,0,1,3,Technician troubleshooting,Market 2
+21-02-2022,21,2,2022,1,0,0,0,0,0,0,0,0,Construction,Market 2
+19-03-2022,19,3,2022,5,0,0,0,0,0,0,0,0,Account management,Market 2
+19-01-2022,19,1,2022,24,0,1,0,1,1,0,0,3,Technician troubleshooting,Market 2
+18-01-2022,18,1,2022,39,1,0,1,0,1,0,0,3,Internet & Wi-Fi,Market 2
+09-03-2022,9,3,2022,5,0,0,0,0,0,0,0,0,Account management,Market 2
+19-01-2022,19,1,2022,2,0,0,0,0,0,0,0,0,Account management,Market 2
+06-03-2022,6,3,2022,0,0,0,0,0,0,0,0,0,Construction,Market 2
+17-03-2022,17,3,2022,0,0,0,0,0,0,0,0,0,Scheduling,Market 2
+08-03-2022,8,3,2022,24,3,0,0,0,0,0,2,5,Technician troubleshooting,Market 2
+09-01-2022,9,1,2022,13,0,0,0,0,2,0,0,2,Internet & Wi-Fi,Market 2
+02-01-2022,2,1,2022,4,0,0,1,0,0,0,0,1,Account management,Market 2
+06-01-2022,6,1,2022,29,5,0,0,0,0,0,0,5,Technician troubleshooting,Market 2
+11-01-2022,11,1,2022,0,0,0,0,0,0,0,0,0,Construction,Market 2
+07-02-2022,7,2,2022,19,0,0,1,0,0,0,0,1,Technician troubleshooting,Market 2
+03-01-2022,3,1,2022,12,0,0,1,0,0,0,0,1,Account management,Market 2
+10-02-2022,10,2,2022,19,3,0,0,0,0,0,2,5,Technician troubleshooting,Market 2
+02-03-2022,2,3,2022,32,0,4,0,1,0,0,1,6,Technician troubleshooting,Market 2
+19-03-2022,19,3,2022,2,0,0,0,0,0,0,0,0,Scheduling,Market 2
+08-01-2022,8,1,2022,0,0,0,0,0,0,0,0,0,Construction,Market 2
+27-02-2022,27,2,2022,11,1,0,0,0,0,0,0,1,Technician troubleshooting,Market 2
+03-03-2022,3,3,2022,0,0,0,0,0,0,0,0,0,Scheduling,Market 2
+25-01-2022,25,1,2022,1,0,0,0,0,0,0,0,0,Scheduling,Market 2
+02-02-2022,2,2,2022,4,0,2,0,0,0,0,0,2,Account management,Market 2
+25-02-2022,25,2,2022,13,0,0,2,0,0,1,0,3,Technician troubleshooting,Market 2
+08-02-2022,8,2,2022,17,3,0,0,0,0,0,0,3,Technician troubleshooting,Market 2
+19-02-2022,19,2,2022,0,0,0,0,0,0,0,0,0,Scheduling,Market 2
+01-03-2022,1,3,2022,0,0,0,0,0,0,0,0,0,Construction,Market 2
+29-01-2022,29,1,2022,0,0,1,0,0,0,0,0,1,Scheduling,Market 2
+06-03-2022,6,3,2022,0,0,0,0,0,0,0,0,0,Scheduling,Market 2
+28-01-2022,28,1,2022,0,0,0,0,0,0,0,0,0,Scheduling,Market 2
+31-01-2022,31,1,2022,1,0,0,1,0,0,0,0,1,Account management,Market 2
+14-03-2022,14,3,2022,5,0,0,0,0,0,0,0,0,Account management,Market 2
+19-01-2022,19,1,2022,32,0,3,1,0,2,3,0,9,Internet & Wi-Fi,Market 2
+15-03-2022,15,3,2022,23,1,1,0,0,0,0,2,4,Technician troubleshooting,Market 2
+22-01-2022,22,1,2022,3,0,0,0,0,0,0,0,0,Account management,Market 2
+02-01-2022,2,1,2022,22,2,1,2,0,0,0,0,5,Internet & Wi-Fi,Market 2
+21-02-2022,21,2,2022,1,0,0,0,0,0,0,0,0,Account management,Market 2
+13-02-2022,13,2,2022,0,0,0,0,0,0,0,0,0,Construction,Market 2
+21-03-2022,21,3,2022,32,2,0,1,0,0,0,1,4,Technician troubleshooting,Market 2
+02-01-2022,2,1,2022,12,1,2,1,3,0,0,0,7,Technician troubleshooting,Market 2
+13-01-2022,13,1,2022,22,6,1,0,0,0,1,0,8,Internet & Wi-Fi,Market 2
+05-02-2022,5,2,2022,0,0,0,0,0,0,0,0,0,Construction,Market 2
+11-03-2022,11,3,2022,0,0,0,0,0,0,0,0,0,Scheduling,Market 2
+06-02-2022,6,2,2022,0,1,0,0,0,0,0,0,1,Account management,Market 2
+17-01-2022,17,1,2022,25,2,2,1,0,2,0,0,7,Internet & Wi-Fi,Market 2
+23-01-2022,23,1,2022,1,0,0,0,0,0,0,0,0,Account management,Market 2
+05-03-2022,5,3,2022,16,0,2,1,0,2,0,0,5,Technician troubleshooting,Market 2
+22-02-2022,22,2,2022,23,1,4,0,0,1,1,0,7,Internet & Wi-Fi,Market 2
+11-03-2022,11,3,2022,4,0,0,0,0,0,0,0,0,Account management,Market 2
+11-02-2022,11,2,2022,18,1,0,0,1,3,0,0,5,Internet & Wi-Fi,Market 2
+12-02-2022,12,2,2022,11,1,0,1,0,0,0,0,2,Technician troubleshooting,Market 2
+26-02-2022,26,2,2022,0,0,0,0,0,0,0,0,0,Scheduling,Market 2
+04-01-2022,4,1,2022,8,1,1,0,0,0,0,0,2,Account management,Market 2
+09-03-2022,9,3,2022,25,4,1,1,0,0,1,0,7,Technician troubleshooting,Market 2
+02-02-2022,2,2,2022,24,1,0,0,1,1,1,0,4,Technician troubleshooting,Market 2
+28-02-2022,28,2,2022,5,0,0,0,0,0,0,0,0,Account management,Market 2
+10-02-2022,10,2,2022,1,0,0,0,1,0,1,0,2,Scheduling,Market 2
+17-02-2022,17,2,2022,4,0,0,0,0,2,0,0,2,Account management,Market 2
+05-01-2022,5,1,2022,1,0,0,0,0,0,0,0,0,Construction,Market 2
+03-01-2022,3,1,2022,1,0,0,0,0,0,0,0,0,Construction,Market 2
+21-01-2022,21,1,2022,1,0,0,0,0,0,0,0,0,Account management,Market 2
+20-03-2022,20,3,2022,1,0,0,0,0,0,0,0,0,Account management,Market 2
+01-01-2022,1,1,2022,20,3,1,0,0,0,1,0,5,Internet & Wi-Fi,Market 2
+17-02-2022,17,2,2022,9,3,1,0,2,2,0,2,10,Scheduling,Market 3
+04-01-2022,4,1,2022,8,3,3,0,0,0,0,1,7,Scheduling,Market 3
+16-03-2022,16,3,2022,27,3,2,2,0,0,0,1,8,Technician troubleshooting,Market 3
+23-01-2022,23,1,2022,9,0,0,0,0,0,1,1,2,Technician troubleshooting,Market 3
+06-02-2022,6,2,2022,2,0,0,0,0,0,0,0,0,Construction,Market 3
+16-03-2022,16,3,2022,0,0,0,0,0,0,0,0,0,Construction,Market 3
+13-03-2022,13,3,2022,8,3,5,0,2,0,0,0,10,Scheduling,Market 3
+09-02-2022,9,2,2022,27,1,2,0,3,1,0,0,7,Technician troubleshooting,Market 3
+30-03-2022,30,3,2022,33,2,2,1,1,0,0,0,6,Technician troubleshooting,Market 3
+11-02-2022,11,2,2022,18,5,10,4,5,5,5,3,37,Account management,Market 3
+02-03-2022,2,3,2022,33,3,1,2,0,0,2,3,11,Technician troubleshooting,Market 3
+22-03-2022,22,3,2022,110,15,11,8,1,0,3,2,40,Internet & Wi-Fi,Market 3
+30-01-2022,30,1,2022,17,0,0,0,0,0,0,1,1,Technician troubleshooting,Market 3
+12-03-2022,12,3,2022,0,0,1,0,0,0,0,0,1,Construction,Market 3
+05-03-2022,5,3,2022,3,0,1,0,1,0,0,0,2,Scheduling,Market 3
+07-01-2022,7,1,2022,31,0,0,0,0,0,1,0,1,Technician troubleshooting,Market 3
+07-02-2022,7,2,2022,30,0,0,4,2,1,2,1,10,Technician troubleshooting,Market 3
+05-01-2022,5,1,2022,12,3,0,1,0,1,0,0,5,Account management,Market 3
+03-02-2022,3,2,2022,58,20,2,1,4,6,1,1,35,Internet & Wi-Fi,Market 3
+04-01-2022,4,1,2022,7,0,4,0,0,0,0,0,4,Account management,Market 3
+27-01-2022,27,1,2022,36,4,0,3,0,2,0,1,10,Technician troubleshooting,Market 3
+20-01-2022,20,1,2022,0,0,0,0,0,0,0,0,0,Construction,Market 3
+27-03-2022,27,3,2022,44,13,2,1,7,1,2,1,27,Internet & Wi-Fi,Market 3
+28-01-2022,28,1,2022,14,4,6,9,9,4,4,4,40,Account management,Market 3
+02-02-2022,2,2,2022,72,6,8,1,2,9,6,1,33,Internet & Wi-Fi,Market 3
+27-01-2022,27,1,2022,10,3,0,0,2,0,0,0,5,Scheduling,Market 3
+24-01-2022,24,1,2022,153,14,4,4,10,4,0,4,40,Internet & Wi-Fi,Market 3
+13-01-2022,13,1,2022,2,0,0,0,0,0,0,0,0,Construction,Market 3
+15-02-2022,15,2,2022,18,2,1,1,1,0,0,2,7,Scheduling,Market 3
+12-02-2022,12,2,2022,9,0,5,0,0,2,2,1,10,Scheduling,Market 3
+22-03-2022,22,3,2022,13,5,4,4,1,0,4,1,19,Scheduling,Market 3
+03-01-2022,3,1,2022,46,1,3,2,0,0,0,0,6,Technician troubleshooting,Market 3
+13-03-2022,13,3,2022,21,0,0,0,3,0,0,0,3,Technician troubleshooting,Market 3
+15-01-2022,15,1,2022,4,0,0,2,0,0,0,0,2,Scheduling,Market 3
+11-01-2022,11,1,2022,0,0,0,0,0,0,0,0,0,Construction,Market 3
+25-01-2022,25,1,2022,26,0,2,2,1,1,2,0,8,Technician troubleshooting,Market 3
+22-02-2022,22,2,2022,227,69,5,2,1,1,0,1,79,Internet & Wi-Fi,Market 3
+08-02-2022,8,2,2022,10,2,1,2,2,0,4,3,14,Scheduling,Market 3
+16-02-2022,16,2,2022,41,4,3,0,0,2,3,1,13,Technician troubleshooting,Market 3
+14-02-2022,14,2,2022,40,1,1,1,2,1,0,1,7,Technician troubleshooting,Market 3
+13-01-2022,13,1,2022,190,15,3,2,2,3,7,5,37,Internet & Wi-Fi,Market 3
+15-01-2022,15,1,2022,20,1,0,0,2,1,0,0,4,Technician troubleshooting,Market 3
+01-03-2022,1,3,2022,42,1,2,2,2,0,1,0,8,Technician troubleshooting,Market 3
+17-02-2022,17,2,2022,34,3,1,1,4,2,1,3,15,Technician troubleshooting,Market 3
+15-03-2022,15,3,2022,34,0,2,2,2,0,1,1,8,Technician troubleshooting,Market 3
+29-03-2022,29,3,2022,7,1,6,4,0,0,0,0,11,Account management,Market 3
+16-01-2022,16,1,2022,17,2,1,0,1,1,0,0,5,Technician troubleshooting,Market 3
+20-03-2022,20,3,2022,1,0,0,0,0,0,0,0,0,Construction,Market 3
+30-01-2022,30,1,2022,8,8,8,4,4,4,4,2,34,Account management,Market 3
+20-02-2022,20,2,2022,104,5,5,2,1,2,0,1,16,Internet & Wi-Fi,Market 3
+02-01-2022,2,1,2022,11,0,0,0,0,0,0,1,1,Account management,Market 3
+23-03-2022,23,3,2022,150,21,2,3,1,2,4,5,38,Internet & Wi-Fi,Market 3
+07-03-2022,7,3,2022,15,4,3,7,2,2,3,1,22,Scheduling,Market 3
+24-03-2022,24,3,2022,12,5,2,0,4,3,0,2,16,Scheduling,Market 3
+21-03-2022,21,3,2022,65,7,6,4,3,1,0,3,24,Internet & Wi-Fi,Market 3
+31-03-2022,31,3,2022,129,8,3,0,1,2,4,2,20,Internet & Wi-Fi,Market 3
+28-02-2022,28,2,2022,69,3,4,0,0,0,0,3,10,Internet & Wi-Fi,Market 3
+18-01-2022,18,1,2022,30,1,6,0,0,0,0,0,7,Technician troubleshooting,Market 3
+18-01-2022,18,1,2022,3,1,1,0,0,0,0,0,2,Account management,Market 3
+24-03-2022,24,3,2022,39,2,0,0,1,5,2,0,10,Technician troubleshooting,Market 3
+21-01-2022,21,1,2022,14,0,0,2,1,2,1,0,6,Scheduling,Market 3
+05-02-2022,5,2,2022,89,7,5,1,0,1,2,2,18,Internet & Wi-Fi,Market 3
+26-02-2022,26,2,2022,0,0,0,0,0,0,0,0,0,Construction,Market 3
+28-03-2022,28,3,2022,84,16,4,11,4,3,2,1,41,Internet & Wi-Fi,Market 3
+23-03-2022,23,3,2022,18,1,4,1,1,1,2,2,12,Scheduling,Market 3
+31-01-2022,31,1,2022,13,8,4,4,4,4,2,2,28,Account management,Market 3
+19-03-2022,19,3,2022,0,0,0,0,0,0,0,0,0,Construction,Market 3
+22-02-2022,22,2,2022,9,2,1,0,0,0,0,0,3,Scheduling,Market 3
+06-02-2022,6,2,2022,20,0,2,2,1,2,0,3,10,Technician troubleshooting,Market 3
+25-01-2022,25,1,2022,9,0,0,5,1,0,0,0,6,Scheduling,Market 3
+27-03-2022,27,3,2022,11,0,1,0,0,0,0,0,1,Technician troubleshooting,Market 3
+19-02-2022,19,2,2022,0,0,0,0,0,0,0,0,0,Construction,Market 3
+23-01-2022,23,1,2022,0,0,0,0,0,0,0,0,0,Construction,Market 3
+12-03-2022,12,3,2022,5,2,0,0,0,0,0,0,2,Account management,Market 3
+19-03-2022,19,3,2022,24,0,3,0,0,1,0,2,6,Technician troubleshooting,Market 3
+08-01-2022,8,1,2022,16,0,0,0,0,0,0,0,0,Technician troubleshooting,Market 3
+13-01-2022,13,1,2022,74,4,3,2,0,0,0,2,11,Technician troubleshooting,Market 3
+26-03-2022,26,3,2022,13,1,2,2,0,1,0,0,6,Technician troubleshooting,Market 3
+26-01-2022,26,1,2022,29,2,4,0,2,0,5,1,14,Technician troubleshooting,Market 3
+08-02-2022,8,2,2022,10,4,7,5,4,10,4,5,39,Account management,Market 3
+06-01-2022,6,1,2022,26,1,0,1,1,2,0,1,6,Account management,Market 3
+05-02-2022,5,2,2022,7,1,0,0,1,0,0,0,2,Scheduling,Market 3
+19-01-2022,19,1,2022,28,5,0,0,0,0,1,0,6,Technician troubleshooting,Market 3
+15-02-2022,15,2,2022,22,1,0,0,0,2,0,2,5,Technician troubleshooting,Market 3
+13-02-2022,13,2,2022,10,3,1,0,0,0,1,1,6,Scheduling,Market 3
+15-03-2022,15,3,2022,25,3,4,2,0,0,3,3,15,Scheduling,Market 3
+08-02-2022,8,2,2022,27,4,3,3,0,4,3,2,19,Technician troubleshooting,Market 3
+31-01-2022,31,1,2022,3,0,0,0,0,0,0,0,0,Construction,Market 3
+22-01-2022,22,1,2022,19,0,0,0,0,0,1,0,1,Technician troubleshooting,Market 3
+11-03-2022,11,3,2022,16,4,3,2,7,2,1,1,20,Scheduling,Market 3
+18-03-2022,18,3,2022,0,0,0,0,0,0,0,0,0,Construction,Market 3
+18-02-2022,18,2,2022,9,2,0,1,1,0,2,1,7,Scheduling,Market 3
+03-01-2022,3,1,2022,15,0,0,2,1,0,0,0,3,Account management,Market 3
+10-01-2022,10,1,2022,1,0,0,0,0,0,0,0,0,Construction,Market 3
+01-02-2022,1,2,2022,34,0,0,2,2,0,1,2,7,Technician troubleshooting,Market 3
+12-01-2022,12,1,2022,11,3,2,1,1,0,0,0,7,Scheduling,Market 3
+16-02-2022,16,2,2022,15,4,2,2,0,2,4,1,15,Scheduling,Market 3
+14-03-2022,14,3,2022,13,4,3,4,2,0,0,2,15,Scheduling,Market 3
+24-02-2022,24,2,2022,55,4,0,1,0,0,2,1,8,Internet & Wi-Fi,Market 3
+15-02-2022,15,2,2022,0,0,0,1,0,0,0,0,1,Construction,Market 3
+11-02-2022,11,2,2022,13,2,1,6,2,2,2,1,16,Scheduling,Market 3
+18-01-2022,18,1,2022,14,0,0,0,0,0,0,0,0,Scheduling,Market 3
+05-03-2022,5,3,2022,15,2,0,2,1,3,0,1,9,Technician troubleshooting,Market 3
+21-01-2022,21,1,2022,0,0,0,0,0,0,0,0,0,Construction,Market 3
+04-01-2022,4,1,2022,1,0,0,0,0,0,0,0,0,Construction,Market 3
+27-03-2022,27,3,2022,5,5,0,1,1,1,1,0,9,Scheduling,Market 3
+09-02-2022,9,2,2022,10,8,3,5,10,5,5,4,40,Account management,Market 3
+12-03-2022,12,3,2022,38,4,8,6,4,2,2,0,26,Internet & Wi-Fi,Market 3
+02-02-2022,2,2,2022,7,4,4,4,2,1,5,4,24,Account management,Market 3
+16-03-2022,16,3,2022,14,4,4,0,2,2,1,1,14,Scheduling,Market 3
+30-01-2022,30,1,2022,43,7,4,0,1,3,2,1,18,Internet & Wi-Fi,Market 3
+10-03-2022,10,3,2022,6,0,1,1,0,0,0,0,2,Account management,Market 3
+10-03-2022,10,3,2022,25,1,1,0,1,3,0,0,6,Technician troubleshooting,Market 3
+17-02-2022,17,2,2022,5,1,0,0,0,1,0,0,2,Construction,Market 3
+01-01-2022,1,1,2022,2,0,1,0,0,1,0,0,2,Account management,Market 3
+04-03-2022,4,3,2022,181,44,16,10,6,6,2,6,90,Internet & Wi-Fi,Market 3
+14-02-2022,14,2,2022,373,63,16,9,13,10,4,1,116,Internet & Wi-Fi,Market 3
+21-01-2022,21,1,2022,173,7,2,10,2,2,4,8,35,Internet & Wi-Fi,Market 3
+25-02-2022,25,2,2022,7,5,5,12,1,3,2,4,32,Account management,Market 3
+25-01-2022,25,1,2022,58,4,3,6,2,1,4,10,30,Internet & Wi-Fi,Market 3
+03-01-2022,3,1,2022,1,0,0,0,0,0,0,0,0,Construction,Market 3
+14-01-2022,14,1,2022,1,0,0,1,0,0,0,0,1,Construction,Market 3
+06-01-2022,6,1,2022,33,3,1,1,1,4,1,4,15,Technician troubleshooting,Market 3
+05-03-2022,5,3,2022,0,0,0,0,0,0,0,0,0,Construction,Market 3
+03-01-2022,3,1,2022,62,7,6,8,5,4,0,1,31,Internet & Wi-Fi,Market 3
+09-02-2022,9,2,2022,70,4,10,3,3,15,5,2,42,Internet & Wi-Fi,Market 3
+08-03-2022,8,3,2022,28,2,0,0,0,1,2,1,6,Technician troubleshooting,Market 3
+22-03-2022,22,3,2022,5,0,0,0,0,0,0,1,1,Account management,Market 3
+23-03-2022,23,3,2022,1,0,0,0,0,0,0,0,0,Construction,Market 3
+24-02-2022,24,2,2022,4,6,3,5,13,1,3,2,33,Account management,Market 3
+05-02-2022,5,2,2022,8,2,1,4,4,7,3,4,25,Account management,Market 3
+12-01-2022,12,1,2022,0,1,0,0,0,0,0,0,1,Construction,Market 3
+06-03-2022,6,3,2022,60,5,4,2,0,8,0,0,19,Internet & Wi-Fi,Market 3
+10-03-2022,10,3,2022,105,16,3,7,11,3,10,5,55,Internet & Wi-Fi,Market 3
+31-03-2022,31,3,2022,11,5,1,0,0,0,0,2,8,Account management,Market 3
+11-03-2022,11,3,2022,3,2,0,2,0,2,0,0,6,Account management,Market 3
+09-01-2022,9,1,2022,11,0,1,0,1,0,1,2,5,Technician troubleshooting,Market 3
+21-02-2022,21,2,2022,4,7,2,0,6,3,5,13,36,Account management,Market 3
+26-02-2022,26,2,2022,7,0,2,0,0,0,0,0,2,Scheduling,Market 3
+06-02-2022,6,2,2022,2,1,5,5,7,3,4,10,35,Account management,Market 3
+25-01-2022,25,1,2022,2,0,0,0,0,0,0,0,0,Construction,Market 3
+24-01-2022,24,1,2022,0,1,0,0,0,0,0,0,1,Construction,Market 3
+02-01-2022,2,1,2022,2,0,0,0,0,0,0,0,0,Scheduling,Market 3
+21-02-2022,21,2,2022,131,10,3,1,3,0,2,1,20,Internet & Wi-Fi,Market 3
+26-01-2022,26,1,2022,16,7,5,4,6,8,8,4,42,Account management,Market 3
+10-01-2022,10,1,2022,4,0,0,1,1,0,1,0,3,Account management,Market 3
+01-03-2022,1,3,2022,51,11,8,20,9,3,4,3,58,Internet & Wi-Fi,Market 3
+30-03-2022,30,3,2022,2,0,0,0,0,0,0,0,0,Construction,Market 3
+18-03-2022,18,3,2022,84,6,1,5,5,11,2,4,34,Internet & Wi-Fi,Market 3
+28-02-2022,28,2,2022,22,2,4,2,4,1,0,0,13,Account management,Market 3
+17-03-2022,17,3,2022,12,3,0,1,2,2,1,2,11,Scheduling,Market 3
+15-02-2022,15,2,2022,158,17,15,15,6,2,9,4,68,Internet & Wi-Fi,Market 3
+11-01-2022,11,1,2022,7,2,1,2,0,0,0,0,5,Scheduling,Market 3
+12-02-2022,12,2,2022,11,12,5,5,4,5,3,6,40,Account management,Market 3
+25-03-2022,25,3,2022,18,4,2,6,1,1,6,4,24,Account management,Market 3
+01-01-2022,1,1,2022,2,0,1,1,1,0,0,0,3,Scheduling,Market 3
+07-03-2022,7,3,2022,0,0,0,0,0,0,0,0,0,Construction,Market 3
+29-01-2022,29,1,2022,12,6,8,8,4,4,4,4,38,Account management,Market 3
+02-03-2022,2,3,2022,16,1,1,2,0,1,0,3,8,Scheduling,Market 3
+27-01-2022,27,1,2022,0,0,0,0,0,0,0,0,0,Construction,Market 3
+13-01-2022,13,1,2022,9,3,0,1,0,0,0,0,4,Account management,Market 3
+17-01-2022,17,1,2022,5,3,0,1,2,0,0,0,6,Scheduling,Market 3
+29-03-2022,29,3,2022,38,5,1,4,0,1,0,0,11,Technician troubleshooting,Market 3
+27-03-2022,27,3,2022,0,0,0,0,0,0,0,0,0,Construction,Market 3
+01-02-2022,1,2,2022,1,0,0,0,0,0,0,0,0,Construction,Market 3
+12-01-2022,12,1,2022,54,7,9,2,3,3,1,3,28,Internet & Wi-Fi,Market 3
+09-03-2022,9,3,2022,105,26,16,1,6,7,5,12,73,Internet & Wi-Fi,Market 3
+06-03-2022,6,3,2022,15,0,1,1,0,0,0,0,2,Technician troubleshooting,Market 3
+07-01-2022,7,1,2022,0,0,0,1,0,0,0,0,1,Construction,Market 3
+12-03-2022,12,3,2022,22,2,1,1,1,1,1,1,8,Technician troubleshooting,Market 3
+20-01-2022,20,1,2022,64,8,3,0,1,5,1,1,19,Internet & Wi-Fi,Market 3
+18-03-2022,18,3,2022,14,1,0,3,0,0,2,0,6,Scheduling,Market 3
+20-01-2022,20,1,2022,37,2,1,0,0,1,1,1,6,Technician troubleshooting,Market 3
+17-03-2022,17,3,2022,0,0,0,0,0,0,0,0,0,Construction,Market 3
+04-03-2022,4,3,2022,2,0,0,0,0,0,0,0,0,Construction,Market 3
+15-03-2022,15,3,2022,0,0,0,0,0,0,0,0,0,Construction,Market 3
+24-03-2022,24,3,2022,18,4,4,2,5,2,0,6,23,Account management,Market 3
+22-03-2022,22,3,2022,0,0,1,0,0,0,0,0,1,Construction,Market 3
+12-01-2022,12,1,2022,50,1,1,2,0,0,0,1,5,Technician troubleshooting,Market 3
+08-01-2022,8,1,2022,36,3,7,6,3,3,3,1,26,Internet & Wi-Fi,Market 3
+25-02-2022,25,2,2022,35,0,0,1,1,1,0,0,3,Technician troubleshooting,Market 3
+13-02-2022,13,2,2022,17,5,4,4,5,3,6,2,29,Account management,Market 3
+21-02-2022,21,2,2022,0,0,0,0,0,0,0,0,0,Construction,Market 3
+02-03-2022,2,3,2022,7,3,6,0,0,0,1,0,10,Account management,Market 3
+19-02-2022,19,2,2022,11,2,3,7,2,0,6,3,23,Account management,Market 3
+25-02-2022,25,2,2022,1,0,0,0,0,0,0,0,0,Construction,Market 3
+07-02-2022,7,2,2022,19,4,0,3,3,0,0,5,15,Scheduling,Market 3
+23-03-2022,23,3,2022,5,3,4,4,2,6,2,0,21,Account management,Market 3
+09-01-2022,9,1,2022,36,8,7,3,5,3,3,1,30,Internet & Wi-Fi,Market 3
+03-01-2022,3,1,2022,10,2,2,0,0,0,1,0,5,Scheduling,Market 3
+27-01-2022,27,1,2022,68,11,8,3,8,4,4,2,40,Internet & Wi-Fi,Market 3
+14-01-2022,14,1,2022,197,11,3,1,2,4,2,7,30,Internet & Wi-Fi,Market 3
+04-01-2022,4,1,2022,60,4,11,6,2,1,1,2,27,Internet & Wi-Fi,Market 3
+01-03-2022,1,3,2022,14,2,2,0,1,1,3,3,12,Scheduling,Market 3
+09-03-2022,9,3,2022,4,2,1,0,0,1,0,0,4,Account management,Market 3
+23-02-2022,23,2,2022,32,2,1,2,1,0,1,1,8,Technician troubleshooting,Market 3
+01-03-2022,1,3,2022,5,3,3,6,0,0,0,0,12,Account management,Market 3
+14-01-2022,14,1,2022,34,2,0,2,0,0,0,1,5,Technician troubleshooting,Market 3
+09-01-2022,9,1,2022,4,0,1,0,1,1,0,0,3,Account management,Market 3
+04-03-2022,4,3,2022,17,3,0,0,1,0,1,0,5,Account management,Market 3
+07-01-2022,7,1,2022,13,0,0,1,0,1,1,1,4,Account management,Market 3
+02-01-2022,2,1,2022,32,1,0,7,2,0,0,0,10,Internet & Wi-Fi,Market 3
+14-03-2022,14,3,2022,48,3,1,1,0,1,1,1,8,Technician troubleshooting,Market 3
+24-03-2022,24,3,2022,380,25,7,2,4,2,1,2,43,Internet & Wi-Fi,Market 3
+05-02-2022,5,2,2022,18,2,3,2,2,3,2,1,15,Technician troubleshooting,Market 3
+12-02-2022,12,2,2022,18,2,2,2,0,0,0,3,9,Technician troubleshooting,Market 3
+31-03-2022,31,3,2022,1,0,0,0,0,0,0,0,0,Construction,Market 3
+14-01-2022,14,1,2022,23,2,0,0,4,0,0,0,6,Scheduling,Market 3
+18-02-2022,18,2,2022,454,29,4,15,14,10,7,3,82,Internet & Wi-Fi,Market 3
+27-02-2022,27,2,2022,9,13,1,3,2,4,0,0,23,Account management,Market 3
+08-02-2022,8,2,2022,68,6,15,2,0,2,2,4,31,Internet & Wi-Fi,Market 3
+21-03-2022,21,3,2022,29,1,0,1,1,0,1,0,4,Technician troubleshooting,Market 3
+24-02-2022,24,2,2022,11,1,1,0,2,3,0,1,8,Scheduling,Market 3
+21-01-2022,21,1,2022,6,0,0,0,0,0,0,1,1,Account management,Market 3
+27-03-2022,27,3,2022,5,6,1,0,7,4,0,0,18,Account management,Market 3
+09-03-2022,9,3,2022,0,0,0,0,0,0,0,0,0,Construction,Market 3
+08-01-2022,8,1,2022,5,0,0,0,1,1,1,0,3,Account management,Market 3
+19-01-2022,19,1,2022,72,10,9,5,0,4,1,1,30,Internet & Wi-Fi,Market 3
+11-03-2022,11,3,2022,73,7,6,8,7,11,12,12,63,Internet & Wi-Fi,Market 3
+07-02-2022,7,2,2022,1,0,0,0,0,0,0,0,0,Construction,Market 3
+05-01-2022,5,1,2022,32,1,0,1,0,0,0,0,2,Technician troubleshooting,Market 3
+19-02-2022,19,2,2022,7,1,3,3,4,1,0,0,12,Scheduling,Market 3
+16-02-2022,16,2,2022,8,5,3,6,2,3,7,3,29,Account management,Market 3
+01-02-2022,1,2,2022,10,1,2,0,0,0,1,0,4,Scheduling,Market 3
+18-02-2022,18,2,2022,3,0,0,0,0,0,0,1,1,Construction,Market 3
+25-03-2022,25,3,2022,1,0,0,0,0,0,1,0,1,Construction,Market 3
+13-03-2022,13,3,2022,1,0,0,0,0,0,0,0,0,Construction,Market 3
+15-03-2022,15,3,2022,10,0,0,0,0,0,0,0,0,Account management,Market 3
+17-03-2022,17,3,2022,26,5,2,0,0,0,1,1,9,Technician troubleshooting,Market 3
+12-02-2022,12,2,2022,4,0,0,0,0,0,1,0,1,Construction,Market 3
+27-02-2022,27,2,2022,6,0,0,0,0,0,0,0,0,Scheduling,Market 3
+11-02-2022,11,2,2022,136,8,5,5,9,18,10,5,60,Internet & Wi-Fi,Market 3
+10-03-2022,10,3,2022,0,0,0,0,0,0,0,0,0,Construction,Market 3
+08-03-2022,8,3,2022,18,3,8,3,2,2,2,2,22,Scheduling,Market 3
+29-01-2022,29,1,2022,0,0,0,0,0,0,0,0,0,Construction,Market 3
+25-03-2022,25,3,2022,28,2,1,3,2,3,1,0,12,Technician troubleshooting,Market 3
+19-01-2022,19,1,2022,4,0,2,0,0,0,0,0,2,Scheduling,Market 3
+17-01-2022,17,1,2022,1,0,0,0,0,0,0,0,0,Construction,Market 3
+14-02-2022,14,2,2022,9,5,4,5,4,6,2,3,29,Account management,Market 3
+19-02-2022,19,2,2022,19,0,0,0,0,0,0,2,2,Technician troubleshooting,Market 3
+15-02-2022,15,2,2022,8,4,5,3,6,2,3,7,30,Account management,Market 3
+12-02-2022,12,2,2022,131,43,7,5,6,8,13,3,85,Internet & Wi-Fi,Market 3
+05-01-2022,5,1,2022,1,0,0,0,0,0,0,0,0,Construction,Market 3
+30-01-2022,30,1,2022,4,3,0,0,0,0,1,1,5,Scheduling,Market 3
+18-02-2022,18,2,2022,5,6,2,4,7,2,0,6,27,Account management,Market 3
+07-02-2022,7,2,2022,11,5,4,7,3,5,10,4,38,Account management,Market 3
+03-02-2022,3,2,2022,7,4,5,2,1,4,4,7,27,Account management,Market 3
+22-01-2022,22,1,2022,67,5,9,2,4,0,5,4,29,Internet & Wi-Fi,Market 3
+02-02-2022,2,2,2022,0,0,0,0,0,0,0,1,1,Construction,Market 3
+16-02-2022,16,2,2022,98,9,16,17,3,1,17,20,83,Internet & Wi-Fi,Market 3
+20-03-2022,20,3,2022,6,1,0,0,0,0,0,0,1,Account management,Market 3
+20-03-2022,20,3,2022,15,1,0,1,0,0,0,0,2,Technician troubleshooting,Market 3
+10-02-2022,10,2,2022,38,2,4,6,2,2,1,2,19,Technician troubleshooting,Market 3
+11-02-2022,11,2,2022,22,2,3,2,1,3,1,3,15,Technician troubleshooting,Market 3
+11-03-2022,11,3,2022,23,0,1,2,2,1,1,0,7,Technician troubleshooting,Market 3
+10-02-2022,10,2,2022,182,22,6,3,5,0,2,9,47,Internet & Wi-Fi,Market 3
+14-03-2022,14,3,2022,2,0,0,0,0,0,0,0,0,Construction,Market 3
+28-03-2022,28,3,2022,12,1,3,6,4,0,0,0,14,Account management,Market 3
+20-03-2022,20,3,2022,46,8,3,0,1,3,0,1,16,Internet & Wi-Fi,Market 3
+17-03-2022,17,3,2022,71,29,5,2,4,3,6,5,54,Internet & Wi-Fi,Market 3
+11-01-2022,11,1,2022,64,9,9,8,4,4,1,1,36,Internet & Wi-Fi,Market 3
+20-01-2022,20,1,2022,10,4,0,0,3,1,0,0,8,Scheduling,Market 3
+23-03-2022,23,3,2022,28,1,0,1,1,3,0,2,8,Technician troubleshooting,Market 3
+25-02-2022,25,2,2022,54,4,1,4,3,1,2,5,20,Internet & Wi-Fi,Market 3
+14-03-2022,14,3,2022,153,27,15,9,5,0,2,2,60,Internet & Wi-Fi,Market 3
+03-03-2022,3,3,2022,1,0,0,0,0,0,0,0,0,Construction,Market 3
+07-02-2022,7,2,2022,200,14,6,11,1,2,1,3,38,Internet & Wi-Fi,Market 3
+10-02-2022,10,2,2022,5,0,0,0,0,0,0,0,0,Construction,Market 3
+25-02-2022,25,2,2022,8,3,0,0,1,1,1,1,7,Scheduling,Market 3
+07-03-2022,7,3,2022,171,21,20,18,15,3,4,5,86,Internet & Wi-Fi,Market 3
+27-01-2022,27,1,2022,13,3,4,6,8,9,4,4,38,Account management,Market 3
+23-01-2022,23,1,2022,1,0,0,0,0,1,1,0,2,Scheduling,Market 3
+30-03-2022,30,3,2022,49,6,4,2,2,2,2,4,22,Internet & Wi-Fi,Market 3
+13-01-2022,13,1,2022,24,4,0,0,0,1,0,1,6,Scheduling,Market 3
+13-03-2022,13,3,2022,42,21,6,6,4,3,1,0,41,Internet & Wi-Fi,Market 3
+07-03-2022,7,3,2022,7,3,0,0,1,0,0,0,4,Account management,Market 3
+26-01-2022,26,1,2022,1,0,0,0,0,0,0,0,0,Construction,Market 3
+19-03-2022,19,3,2022,45,1,2,3,0,3,2,2,13,Internet & Wi-Fi,Market 3
+19-01-2022,19,1,2022,0,0,0,0,0,0,0,0,0,Construction,Market 3
+30-03-2022,30,3,2022,14,2,1,1,0,2,2,1,9,Scheduling,Market 3
+04-02-2022,4,2,2022,33,0,0,5,0,0,1,3,9,Technician troubleshooting,Market 3
+29-01-2022,29,1,2022,20,2,0,1,0,0,0,0,3,Technician troubleshooting,Market 3
+09-02-2022,9,2,2022,2,0,0,0,0,0,0,0,0,Construction,Market 3
+29-03-2022,29,3,2022,63,7,5,1,2,0,0,1,16,Internet & Wi-Fi,Market 3
+27-02-2022,27,2,2022,21,1,1,0,1,0,0,1,4,Technician troubleshooting,Market 3
+04-02-2022,4,2,2022,1,0,0,0,0,0,0,0,0,Construction,Market 3
+02-02-2022,2,2,2022,10,3,2,0,1,0,1,0,7,Scheduling,Market 3
+08-03-2022,8,3,2022,0,0,0,0,0,0,1,0,1,Construction,Market 3
+06-03-2022,6,3,2022,3,0,0,0,1,0,0,0,1,Account management,Market 3
+28-02-2022,28,2,2022,3,0,1,0,1,0,0,0,2,Scheduling,Market 3
+10-01-2022,10,1,2022,21,1,0,0,0,0,1,1,3,Technician troubleshooting,Market 3
+15-01-2022,15,1,2022,44,4,1,3,3,1,1,0,13,Internet & Wi-Fi,Market 3
+06-01-2022,6,1,2022,2,0,0,0,1,0,0,0,1,Construction,Market 3
+10-01-2022,10,1,2022,66,13,4,10,6,5,3,1,42,Internet & Wi-Fi,Market 3
+26-01-2022,26,1,2022,240,13,108,5,2,7,12,8,155,Internet & Wi-Fi,Market 3
+05-02-2022,5,2,2022,0,1,0,0,0,0,0,0,1,Construction,Market 3
+08-01-2022,8,1,2022,7,0,1,0,2,0,2,1,6,Scheduling,Market 3
+01-03-2022,1,3,2022,1,0,0,0,0,0,0,0,0,Construction,Market 3
+02-03-2022,2,3,2022,0,0,0,0,0,0,0,0,0,Construction,Market 3
+06-01-2022,6,1,2022,344,11,10,1,4,12,5,5,48,Internet & Wi-Fi,Market 3
+03-03-2022,3,3,2022,10,4,1,0,1,2,1,0,9,Account management,Market 3
+05-03-2022,5,3,2022,4,0,1,0,0,0,0,0,1,Account management,Market 3
+29-01-2022,29,1,2022,3,0,1,0,0,0,0,0,1,Scheduling,Market 3
+17-02-2022,17,2,2022,10,3,6,2,3,7,2,0,23,Account management,Market 3
+19-01-2022,19,1,2022,3,1,0,1,0,0,0,0,2,Account management,Market 3
+31-01-2022,31,1,2022,29,1,1,1,1,1,1,1,7,Technician troubleshooting,Market 3
+19-03-2022,19,3,2022,4,0,0,0,0,0,0,0,0,Scheduling,Market 3
+28-01-2022,28,1,2022,38,2,2,1,2,2,1,1,11,Technician troubleshooting,Market 3
+09-02-2022,9,2,2022,11,0,3,1,1,3,0,0,8,Scheduling,Market 3
+05-01-2022,5,1,2022,25,1,2,0,0,1,1,1,6,Scheduling,Market 3
+16-01-2022,16,1,2022,34,3,2,3,1,3,1,2,15,Internet & Wi-Fi,Market 3
+01-01-2022,1,1,2022,31,2,0,1,3,0,2,0,8,Internet & Wi-Fi,Market 3
+03-02-2022,3,2,2022,0,0,0,0,0,0,0,0,0,Construction,Market 3
+21-03-2022,21,3,2022,0,0,0,0,0,0,0,0,0,Construction,Market 3
+30-03-2022,30,3,2022,4,6,4,0,0,0,0,0,10,Account management,Market 3
+23-02-2022,23,2,2022,3,0,0,0,0,0,0,0,0,Construction,Market 3
+08-03-2022,8,3,2022,94,19,25,15,2,3,8,2,74,Internet & Wi-Fi,Market 3
+27-02-2022,27,2,2022,39,6,1,3,0,2,7,2,21,Internet & Wi-Fi,Market 3
+07-01-2022,7,1,2022,75,6,3,11,7,6,6,4,43,Internet & Wi-Fi,Market 3
+21-03-2022,21,3,2022,4,0,0,0,0,1,0,0,1,Account management,Market 3
+01-02-2022,1,2,2022,129,15,5,8,4,2,4,6,44,Internet & Wi-Fi,Market 3
+17-01-2022,17,1,2022,9,0,0,0,0,0,0,0,0,Account management,Market 3
+16-03-2022,16,3,2022,186,33,20,6,4,4,7,8,82,Internet & Wi-Fi,Market 3
+21-01-2022,21,1,2022,17,0,0,1,2,1,1,0,5,Technician troubleshooting,Market 3
+15-01-2022,15,1,2022,0,0,0,0,0,0,0,0,0,Construction,Market 3
+02-03-2022,2,3,2022,87,28,20,9,3,24,3,0,87,Internet & Wi-Fi,Market 3
+28-03-2022,28,3,2022,40,4,1,2,2,0,0,2,11,Technician troubleshooting,Market 3
+12-01-2022,12,1,2022,11,1,2,0,1,0,0,0,4,Account management,Market 3
+23-01-2022,23,1,2022,6,6,4,9,6,3,4,6,38,Account management,Market 3
+13-02-2022,13,2,2022,29,3,3,3,1,0,2,0,12,Technician troubleshooting,Market 3
+21-02-2022,21,2,2022,38,2,1,1,1,0,0,0,5,Technician troubleshooting,Market 3
+29-03-2022,29,3,2022,13,2,2,0,0,0,0,2,6,Scheduling,Market 3
+26-03-2022,26,3,2022,11,3,6,2,0,7,4,0,22,Account management,Market 3
+05-03-2022,5,3,2022,127,16,7,6,5,0,6,0,40,Internet & Wi-Fi,Market 3
+09-03-2022,9,3,2022,13,8,4,4,2,4,8,4,34,Scheduling,Market 3
+21-02-2022,21,2,2022,14,0,5,2,1,1,0,2,11,Scheduling,Market 3
+26-02-2022,26,2,2022,25,0,2,1,0,0,0,0,3,Technician troubleshooting,Market 3
+07-03-2022,7,3,2022,33,4,2,1,0,1,0,2,10,Technician troubleshooting,Market 3
+03-02-2022,3,2,2022,30,3,2,1,2,0,1,4,13,Technician troubleshooting,Market 3
+14-02-2022,14,2,2022,7,0,0,0,1,0,0,0,1,Construction,Market 3
+09-01-2022,9,1,2022,0,1,0,0,0,0,0,0,1,Construction,Market 3
+16-01-2022,16,1,2022,0,0,0,0,0,0,0,0,0,Construction,Market 3
+26-01-2022,26,1,2022,12,1,0,0,0,0,0,0,1,Scheduling,Market 3
+04-01-2022,4,1,2022,28,1,0,0,0,0,1,2,4,Technician troubleshooting,Market 3
+20-02-2022,20,2,2022,6,3,0,6,2,0,1,0,12,Scheduling,Market 3
+06-01-2022,6,1,2022,14,1,1,0,1,0,2,3,8,Scheduling,Market 3
+04-03-2022,4,3,2022,24,1,1,2,0,0,2,2,8,Technician troubleshooting,Market 3
+06-02-2022,6,2,2022,5,2,1,0,2,1,0,0,6,Scheduling,Market 3
+14-02-2022,14,2,2022,21,3,0,1,1,0,1,0,6,Scheduling,Market 3
+28-02-2022,28,2,2022,0,0,0,0,0,0,0,0,0,Construction,Market 3
+16-01-2022,16,1,2022,5,0,0,0,0,0,0,0,0,Account management,Market 3
+31-03-2022,31,3,2022,29,3,2,1,1,0,0,0,7,Technician troubleshooting,Market 3
+22-01-2022,22,1,2022,8,5,5,4,9,6,4,4,37,Account management,Market 3
+22-01-2022,22,1,2022,7,0,1,0,0,2,0,1,4,Scheduling,Market 3
+23-02-2022,23,2,2022,259,4,2,3,2,3,7,11,32,Internet & Wi-Fi,Market 3
+09-03-2022,9,3,2022,33,2,0,0,1,2,2,3,10,Technician troubleshooting,Market 3
+18-03-2022,18,3,2022,27,2,0,3,0,2,1,0,8,Technician troubleshooting,Market 3
+11-02-2022,11,2,2022,3,0,0,0,0,0,0,1,1,Construction,Market 3
+20-02-2022,20,2,2022,27,1,0,1,1,0,1,0,4,Technician troubleshooting,Market 3
+02-02-2022,2,2,2022,28,0,2,1,1,1,0,1,6,Technician troubleshooting,Market 3
+28-01-2022,28,1,2022,17,0,1,1,1,2,1,1,7,Scheduling,Market 3
+11-03-2022,11,3,2022,0,0,1,1,0,0,0,0,2,Construction,Market 3
+04-02-2022,4,2,2022,8,4,2,2,4,4,7,3,26,Account management,Market 3
+10-02-2022,10,2,2022,15,5,4,10,4,4,4,5,36,Account management,Market 3
+16-02-2022,16,2,2022,0,0,1,0,0,0,0,0,1,Construction,Market 3
+28-03-2022,28,3,2022,0,0,0,0,0,0,0,0,0,Construction,Market 3
+25-01-2022,25,1,2022,6,9,6,3,4,6,9,8,45,Account management,Market 3
+20-01-2022,20,1,2022,5,0,0,0,0,0,0,0,0,Account management,Market 3
+08-01-2022,8,1,2022,0,0,1,0,0,0,0,0,1,Construction,Market 3
+13-03-2022,13,3,2022,4,0,0,0,0,0,0,0,0,Account management,Market 3
+22-02-2022,22,2,2022,14,5,0,6,3,5,12,1,32,Account management,Market 3
+14-03-2022,14,3,2022,5,0,1,0,0,0,0,1,2,Account management,Market 3
+03-02-2022,3,2,2022,12,1,0,0,0,1,0,0,2,Scheduling,Market 3
+01-01-2022,1,1,2022,1,0,0,0,0,0,0,0,0,Construction,Market 3
+24-02-2022,24,2,2022,23,2,1,0,0,1,1,0,5,Technician troubleshooting,Market 3
+20-03-2022,20,3,2022,5,0,1,1,0,0,0,0,2,Scheduling,Market 3
+02-01-2022,2,1,2022,0,0,0,0,0,0,0,0,0,Construction,Market 3
+11-01-2022,11,1,2022,3,2,1,2,0,1,0,0,6,Account management,Market 3
+17-01-2022,17,1,2022,40,4,1,3,0,2,0,0,10,Technician troubleshooting,Market 3
+03-03-2022,3,3,2022,46,0,1,0,2,3,1,0,7,Technician troubleshooting,Market 3
+22-01-2022,22,1,2022,0,0,0,0,0,0,0,0,0,Construction,Market 3
+26-02-2022,26,2,2022,63,7,7,2,0,3,5,5,29,Internet & Wi-Fi,Market 3
+17-03-2022,17,3,2022,4,1,0,0,0,0,0,1,2,Account management,Market 3
+29-01-2022,29,1,2022,112,10,6,4,0,1,2,1,24,Internet & Wi-Fi,Market 3
+09-01-2022,9,1,2022,2,1,0,2,0,1,0,0,4,Scheduling,Market 3
+17-02-2022,17,2,2022,285,138,12,0,2,7,3,3,165,Internet & Wi-Fi,Market 3
+23-02-2022,23,2,2022,14,1,0,0,0,0,0,2,3,Scheduling,Market 3
+18-01-2022,18,1,2022,0,0,0,0,0,0,0,0,0,Construction,Market 3
+06-03-2022,6,3,2022,5,3,0,0,1,1,3,2,10,Scheduling,Market 3
+31-01-2022,31,1,2022,87,13,1,0,3,1,0,2,20,Internet & Wi-Fi,Market 3
+26-03-2022,26,3,2022,0,0,0,0,0,0,0,0,0,Construction,Market 3
+05-01-2022,5,1,2022,131,25,3,1,0,3,3,2,37,Internet & Wi-Fi,Market 3
+20-02-2022,20,2,2022,5,3,8,3,0,6,3,5,28,Account management,Market 3
+03-03-2022,3,3,2022,168,25,11,11,27,4,4,1,83,Internet & Wi-Fi,Market 3
+17-01-2022,17,1,2022,58,5,5,1,7,2,0,3,23,Internet & Wi-Fi,Market 3
+16-01-2022,16,1,2022,7,1,0,0,0,0,0,0,1,Scheduling,Market 3
+24-01-2022,24,1,2022,32,0,0,1,0,0,3,1,5,Technician troubleshooting,Market 3
+02-01-2022,2,1,2022,14,0,0,2,0,0,0,0,2,Technician troubleshooting,Market 3
+10-02-2022,10,2,2022,8,1,0,0,3,1,3,1,9,Scheduling,Market 3
+13-02-2022,13,2,2022,189,60,24,10,5,5,7,1,112,Internet & Wi-Fi,Market 3
+27-02-2022,27,2,2022,0,0,0,0,0,0,0,0,0,Construction,Market 3
+04-02-2022,4,2,2022,12,3,2,1,0,1,0,0,7,Scheduling,Market 3
+07-01-2022,7,1,2022,9,2,0,3,1,0,2,0,8,Scheduling,Market 3
+14-01-2022,14,1,2022,11,0,0,0,0,0,0,0,0,Account management,Market 3
+03-03-2022,3,3,2022,10,1,0,1,1,1,1,4,9,Scheduling,Market 3
+22-03-2022,22,3,2022,19,0,1,0,0,1,1,0,3,Technician troubleshooting,Market 3
+24-01-2022,24,1,2022,8,4,9,6,4,4,7,8,42,Account management,Market 3
+04-02-2022,4,2,2022,104,7,4,8,7,4,4,5,39,Internet & Wi-Fi,Market 3
+13-02-2022,13,2,2022,1,1,0,0,0,1,0,0,2,Construction,Market 3
+11-01-2022,11,1,2022,24,2,0,0,1,1,0,1,5,Technician troubleshooting,Market 3
+26-02-2022,26,2,2022,7,5,14,1,3,2,5,0,30,Account management,Market 3
+28-01-2022,28,1,2022,3,0,0,0,0,0,0,0,0,Construction,Market 3
+01-02-2022,1,2,2022,14,5,5,5,4,2,1,4,26,Account management,Market 3
+06-02-2022,6,2,2022,39,4,2,2,1,1,3,2,15,Internet & Wi-Fi,Market 3
+26-03-2022,26,3,2022,55,9,12,10,2,5,2,2,42,Internet & Wi-Fi,Market 3
+24-02-2022,24,2,2022,3,0,0,0,0,0,0,0,0,Construction,Market 3
+25-03-2022,25,3,2022,16,3,1,4,1,1,1,0,11,Scheduling,Market 3
+18-03-2022,18,3,2022,3,0,0,0,1,0,0,0,1,Account management,Market 3
+28-02-2022,28,2,2022,37,3,1,1,0,1,0,0,6,Technician troubleshooting,Market 3
+18-02-2022,18,2,2022,27,1,1,3,2,0,2,0,9,Technician troubleshooting,Market 3
+20-02-2022,20,2,2022,0,0,0,0,0,0,0,0,0,Construction,Market 3
+21-03-2022,21,3,2022,12,1,0,1,1,1,0,0,4,Scheduling,Market 3
+19-03-2022,19,3,2022,0,1,0,0,0,0,0,0,1,Account management,Market 3
+01-01-2022,1,1,2022,7,0,0,1,0,0,0,0,1,Technician troubleshooting,Market 3
+25-03-2022,25,3,2022,525,13,5,9,8,2,15,1,53,Internet & Wi-Fi,Market 3
+24-03-2022,24,3,2022,1,0,0,0,0,0,0,0,0,Construction,Market 3
+22-02-2022,22,2,2022,41,1,1,0,1,1,1,0,5,Technician troubleshooting,Market 3
+23-02-2022,23,2,2022,8,0,6,3,5,12,1,3,30,Account management,Market 3
+12-03-2022,12,3,2022,11,4,4,5,1,0,0,0,14,Scheduling,Market 3
+24-01-2022,24,1,2022,12,1,1,2,2,1,1,2,10,Scheduling,Market 3
+22-02-2022,22,2,2022,2,1,0,0,0,0,0,1,2,Construction,Market 3
+16-03-2022,16,3,2022,11,2,0,0,0,0,0,0,2,Account management,Market 3
+18-01-2022,18,1,2022,68,5,4,2,2,2,7,1,23,Internet & Wi-Fi,Market 3
+29-03-2022,29,3,2022,0,1,0,0,0,0,0,0,1,Construction,Market 3
+08-03-2022,8,3,2022,6,0,1,1,1,0,0,1,4,Account management,Market 3
+23-01-2022,23,1,2022,43,4,3,2,0,2,4,0,15,Internet & Wi-Fi,Market 3
+04-03-2022,4,3,2022,14,2,1,1,0,5,5,5,19,Scheduling,Market 3
+28-01-2022,28,1,2022,474,12,4,13,11,6,3,6,55,Internet & Wi-Fi,Market 3
+28-03-2022,28,3,2022,24,3,4,3,1,1,0,0,12,Scheduling,Market 3
+26-03-2022,26,3,2022,10,1,3,1,2,2,1,2,12,Scheduling,Market 3
+31-03-2022,31,3,2022,22,1,1,0,1,0,0,1,4,Scheduling,Market 3
+15-01-2022,15,1,2022,2,0,0,0,0,0,1,0,1,Account management,Market 3
+10-03-2022,10,3,2022,14,8,3,2,2,7,3,2,27,Scheduling,Market 3
+10-01-2022,10,1,2022,12,1,4,4,1,1,1,0,12,Scheduling,Market 3
+06-03-2022,6,3,2022,0,0,0,0,0,0,0,0,0,Construction,Market 3
+19-02-2022,19,2,2022,81,6,8,7,6,2,1,1,31,Internet & Wi-Fi,Market 3
+30-01-2022,30,1,2022,0,0,0,0,0,0,0,0,0,Construction,Market 3
+15-03-2022,15,3,2022,141,29,12,10,4,7,5,5,72,Internet & Wi-Fi,Market 3
+08-02-2022,8,2,2022,2,0,0,0,0,0,0,0,0,Construction,Market 3
+31-01-2022,31,1,2022,9,3,1,1,1,0,1,1,8,Scheduling,Market 3

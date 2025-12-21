@@ -19,6 +19,11 @@ This project is part of the Google Professional Certificate in Business Intellig
 * Helps identify operational improvements and reduce call volume.
 
 
+## Insights
+
+* **Market 1** has the highest volume of calls and repeat calls.
+* **Internet & Wi-Fi** and **Technical Troubleshooting** account for **81% of repeat calls**, highlighting key areas to improve first-contact resolution.
+
 ## 🧠 Key Technologies
 
 Python, SQL, Tableau, Data cleaning, Data storytelling

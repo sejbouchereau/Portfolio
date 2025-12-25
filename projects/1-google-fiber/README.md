@@ -1,4 +1,9 @@
-# 📊 Google Fiber
+# 📊 Google Fiber Call Center
+
+
+* **Course**: Google Professional Certificate in Business Intelligence
+* **Project**: Repeat Caller Analysis (Call Center Data)
+* **Date**: November 2025
 
 
 ## [🔗 Dashboard v1](https://public.tableau.com/app/profile/samuel.bouchereau/viz/GoogleFiberCallCenterRepeatCallsAnalysis/TypeView)
@@ -21,14 +26,9 @@ This project is part of the Google Professional Certificate in Business Intellig
 
 ## Insights
 
-<<<<<<< HEAD
-* Market 1 has the highest volume of calls and repeat calls.
-* Internet & Wi-Fi and Technical Troubleshooting account for 81% of repeat calls, highlighting key areas to improve first-contact resolution.
-
-=======
 * **Market 1** has the highest volume of calls and repeat calls.
 * **Internet & Wi-Fi** and **Technical Troubleshooting** account for **81% of repeat calls**, highlighting key areas to improve first-contact resolution.
->>>>>>> e34dcbf12ee8fc35b0fa9fe2a2b97d51921512cf
+
 
 ## 🧠 Key Technologies
 

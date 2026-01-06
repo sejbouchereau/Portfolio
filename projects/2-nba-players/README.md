@@ -2,7 +2,7 @@
 
 This project analyzes NBA player data across multiple seasons to understand how the league has evolved in terms of **international representation**, **talent development pipelines**, and **on-court playstyle**.
 
-## [🔗 Dashboard](https://public.tableau.com/app/profile/samuel.bouchereau/viz/GoogleFiberCallCenterRepeatCallsAnalysis/TypeView)
+## [🔗 Dashboard](https://public.tableau.com/app/profile/samuel.bouchereau/viz/NBAPlayersTrendsPerformanceandPlaystyleAnalysis/League)
 
 ### League Preview
 <img src="medias/league_preview.png" alt="League Preview">

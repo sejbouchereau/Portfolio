@@ -46,6 +46,9 @@ This section explores league-wide patterns and long-term evolution in player dis
   - Assist Percentage (`ast_pct`)
   - True Shooting Percentage (`ts_pct`)
   - Usage Percentage (`usg_pct`)
+- **Interactive Filters**
+  - **Season** — Explore trends year by year  
+  - **Team** — Analyze playstyle trends for a selected team in the line charts 
 
 ### Single Player Analysis
 This section provides a detailed view of individual players, combining context, performance trends, and playstyle indicators.
@@ -64,12 +67,14 @@ This section provides a detailed view of individual players, combining context, 
   - Assists per game and assist percentage (`ast`, `ast_pct`)
   - Usage Percentage (`usg_pct`)
   - True Shooting Percentage (`ts_pct`)
+- **Interactive Filter**
+  - **Player Filter** — Select an individual player to update all views across the dashboard
 
 ## 🔍 Insights
 
 - **International Representation:** There has been a steady increase in the number of international players in the NBA, with a particularly sharp rise since 2000.  
 - **Top Countries:** The United States remains the leading contributor of NBA players by a wide margin, followed by Canada, France, and Australia.
-- **High-Efficiency Scorers (2020–2022):** Cameroon, Lithuania, and Greece produced the highest number of high-efficiency scorers relative to other countries during these seasons.  
+- **High-Efficiency Scorers (2020–2022):** Cameroon, Lithuania, and Greece averaged the highest number of high-efficiency scorers compared with other countries during this period.  
 - **College Dominance:** A small group of colleges dominates NBA player production, with Kentucky leading, followed closely by Duke.  
 - **Playstyle Evolution:** NBA offenses have shifted toward greater ball movement, more distributed offensive responsibility, and improved scoring efficiency.
 

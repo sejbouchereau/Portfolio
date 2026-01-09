@@ -1,19 +1,15 @@
 # 📊 Google Fiber Call Center
 
-
 * **Course**: Google Professional Certificate in Business Intelligence
 * **Project**: Repeat Caller Analysis (Call Center Data)
 * **Date**: November 2025
 
+This project, part of the Google Professional Certificate in BI, analyzes **repeat calls** to the Google Fiber call center to identify trends and generate insights that improve first-contact resolution and customer satisfaction.
 
 ## [🔗 Dashboard v1](https://public.tableau.com/app/profile/samuel.bouchereau/viz/GoogleFiberCallCenterRepeatCallsAnalysis/TypeView)
 
-
-<img src="medias/preview.png">
-
-
-This project is part of the Google Professional Certificate in Business Intelligence. The goal is to build a dashboard to analyze **repeat customer calls** to the Google Fiber call center, identify trends, and provide actionable insights to improve first-contact resolution and customer satisfaction.
-
+### Preview
+<img src="medias/preview.png" alt="Preview">
 
 ## Features
 
@@ -23,12 +19,10 @@ This project is part of the Google Professional Certificate in Business Intellig
 * Supports accessibility, including large print and text-to-speech alternatives.
 * Helps identify operational improvements and reduce call volume.
 
-
 ## Insights
 
 * **Market 1** has the highest volume of calls and repeat calls.
 * **Internet & Wi-Fi** and **Technical Troubleshooting** account for **81% of repeat calls**, highlighting key areas to improve first-contact resolution.
-
 
 ## 🧠 Key Technologies
 

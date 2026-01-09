@@ -1,41 +1,49 @@
-# 🏀 NBA Players
+# NBA Players
 
 This project analyzes NBA player data across multiple seasons to understand how the league has evolved in terms of **international representation**, **talent development pipelines**, and **on-court playstyle**.
 
-## [🔗 Dashboard](https://public.tableau.com/app/profile/samuel.bouchereau/viz/NBAPlayersTrendsPerformanceandPlaystyleAnalysis/League)
+## [Dashboard](https://public.tableau.com/app/profile/samuel.bouchereau/viz/NBAPlayersTrendsPerformanceandPlaystyleAnalysis/League) | [Data Cleaning](./data/cleaning.ipynb)
 
-### League Preview
-<img src="medias/league_preview.png" alt="League Preview">
+## Preview
 
-### Player Preview
-<img src="medias/player_preview.png" alt="Player Preview">
+<details>
+  <summary>League View</summary>
+  <img src="medias/league_view.png" alt="League View">
+</details>
 
-## 🗂️ Dataset
+<details>
+  <summary>Player View</summary>
+  <img src="medias/player_view.png" alt="Player View">
+</details>
 
-The dataset contains NBA player-level statistics covering **seasons from 1996 to 2022**. Each row represents a **player’s performance for a given season**, combining biographical information, draft details, playing time, and both traditional and advanced performance metrics. A complete and detailed list of all available data fields, along with data cleaning and preprocessing steps, can be found in the `cleaning.ipynb` notebook.
+## Dataset
 
-### Notes & Limitations
-- Advanced metrics may be less reliable for players with **limited games played**; minimum game thresholds are applied in selected visualizations.  
-- Extreme values in metrics such as **Net Rating** can occur due to small sample sizes.  
-- Country and college fields reflect reported player background and may not account for changes over time.
+The dataset contains NBA player-level statistics covering **seasons from 1996 to 2022**. Each row represents a **player’s performance for a given season**, combining biographical information, draft details, playing time, and both traditional and advanced performance metrics. A complete and detailed list of all available data fields, along with data cleaning and preprocessing steps, can be found in the [`cleaning.ipynb`](./data/cleaning.ipynb) notebook.
 
-## 👥 Stakeholders
+> [!NOTE]  
+> Advanced metrics may be less reliable for players with **limited games played**; minimum game thresholds are applied in selected visualizations.  
+> Extreme values in metrics such as **Net Rating** can occur due to small sample sizes.  
+> Country and college fields reflect reported player background and may not account for changes over time.
 
-- **League & Media Analysts** — Tracking long-term NBA trends  
-- **Front Office & Analytics Teams** — Evaluating global and collegiate talent pipelines  
-- **Executives & Decision-Makers** — High-level performance and efficiency insights  
-- **Fans & Content Creators** — Understanding how the game has evolved
+## Stakeholders
 
-## ❓ Key Questions
+| Group                          | Interest                                                   | Viewer |
+|--------------------------------|------------------------------------------------------------|--------|
+| League & Media Analysts        | Tracking long-term league and player trends                | ✅      |
+| Front Office & Analytics Teams | Evaluating global talent and college development pipelines | ✅      |
+| Executives & Decision-Makers   | High-level performance, efficiency, and strategic insights | ✅      |
+| Fans & Content Creators        | Understanding player impact and NBA evolution              | ✅      |
 
-- How has **international representation** in the NBA changed over time?  
-- Which **countries** produce the most **efficient scorers**?  
-- Which **colleges** contribute the most players to the NBA?  
-- How has **NBA playstyle** evolved in terms of usage, assists, and efficiency?
+## Key Questions
 
-## 🎨 Visualization
+1. How has **international representation** in the NBA changed over time?  
+2. Which **countries** produce the most **efficient scorers**?  
+3. Which **colleges** contribute the most players to the NBA?  
+4. How has **NBA playstyle** evolved in terms of usage, assists, and efficiency?
 
-### Overall NBA Trends Analysis
+## Visualization
+
+### 1. Overall NBA Trends Analysis
 This section explores league-wide patterns and long-term evolution in player distribution, scoring, and playstyle.
 
 - **Map** — Geographic distribution of NBA players by country over time  
@@ -50,7 +58,7 @@ This section explores league-wide patterns and long-term evolution in player dis
   - **Season** — Explore trends year by year  
   - **Team** — Analyze playstyle trends for a selected team in the line charts 
 
-### Single Player Analysis
+### 2. Single Player Analysis
 This section provides a detailed view of individual players, combining context, performance trends, and playstyle indicators.
 
 - **Player Card** — Key player information from the most recent season played  
@@ -70,18 +78,23 @@ This section provides a detailed view of individual players, combining context, 
 - **Interactive Filter**
   - **Player Filter** — Select an individual player to update all views across the dashboard
 
-## 🔍 Insights
+## Insights
 
 - **International Representation:** There has been a steady increase in the number of international players in the NBA, with a particularly sharp rise since 2000.  
-- **Top Countries:** The United States remains the leading contributor of NBA players by a wide margin, followed by Canada, France, and Australia.
+- **Top Countries:** The United States remains the leading contributor of NBA players by a wide margin, followed by Canada, France, and Australia.  
 - **High-Efficiency Scorers (2020–2022):** Cameroon, Lithuania, and Greece averaged the highest number of high-efficiency scorers compared with other countries during this period.  
 - **College Dominance:** A small group of colleges dominates NBA player production, with Kentucky leading, followed closely by Duke.  
 - **Playstyle Evolution:** NBA offenses have shifted toward greater ball movement, more distributed offensive responsibility, and improved scoring efficiency.
 
-## 🛠️ Tools
+## Tools
 
 - **Python** — Data cleaning  
 - **SQL Server** — Data exploration and transformation  
 - **Tableau** — Data visualization and dashboard development  
 - **Git & GitHub** — Version control  
 - **Figma** — Dashboard layout and design planning
+
+## License
+
+This project is licensed under the MIT License.  
+You are free to use, modify, and distribute this project with proper attribution.

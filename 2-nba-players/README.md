@@ -75,7 +75,7 @@ This section provides a detailed view of individual players, combining context, 
   - Assists per game and assist percentage (`ast`, `ast_pct`)
   - Usage Percentage (`usg_pct`)
   - True Shooting Percentage (`ts_pct`)
-- **Interactive Filter**
+- **Interactive Filter**:
   - **Player Filter** — Select an individual player to update all views across the dashboard
 
 ## Insights

@@ -4,20 +4,20 @@
 > **Project**: Repeat Caller Analysis (Call Center Data)  
 > **Date**: November 2025
 
-This project, part of the Google Professional Certificate in BI, analyzes **repeat calls** to the Google Fiber call center to identify trends and generate insights that improve **first-contact resolution** and **customer satisfaction**.
+This first project, part of the Google Professional Certificate in BI, analyzes **repeat calls** to the Google Fiber call center to identify trends and generate insights that improve **first-contact resolution** and **customer satisfaction**.
 
-## [Dashboard](https://public.tableau.com/app/profile/samuel.bouchereau/viz/GoogleFiberCallCenterRepeatCallsAnalysis/TypeView) | [Data Cleaning](./data/cleaning.ipynb) | [Documentation](./documentation)
+## [Dashboard](https://public.tableau.com/app/profile/samuel.bouchereau/viz/GoogleFiberCallCenterRepeatCallsAnalysis/Type) | [Data Cleaning](./data/cleaning.ipynb) | [Documentation](./documentation)
 
 ## Preview
 
 <details>
-  <summary>Type View</summary>
-  <img src="medias/type_view.png" alt="Type View">
+  <summary>Market View</summary>
+  <img src="medias/market_view.png" alt="Market View">
 </details>
 
 <details>
-  <summary>Market View</summary>
-  <img src="medias/market_view.png" alt="Market View">
+  <summary>Type View</summary>
+  <img src="medias/type_view.png" alt="Type View">
 </details>
 
 ## Dataset
@@ -29,7 +29,7 @@ The dataset contains call center interaction records used to analyze repeat cust
 > Repeat call indicators reflect follow-up contacts within defined time windows.  
 > Call types are high-level categories and may not capture all underlying issue complexity.
 
-## 👥 Stakeholders
+## Stakeholders
 
 | Name              | Role            | Interest                   | Viewer |
 |-------------------|-----------------|----------------------------|--------|
@@ -61,6 +61,7 @@ The dataset contains call center interaction records used to analyze repeat cust
 - **SQL Server** — Data exploration and transformation  
 - **Tableau** — Data visualization and dashboard development  
 - **Git & GitHub** — Version control
+- **Figma** — Dashboard layout and design planning
 
 ## License
 

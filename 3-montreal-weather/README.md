@@ -17,10 +17,10 @@ The dataset is sourced from **OpenWeather One Call 3.0** and **Forecast API** th
 > All metrics are specific to **Montreal** and are intended for city-level analysis only.
 > Forecast values may vary based on API refresh timing and data provider updates.
 
-## Key Questions
+## Analytical Questions
 
 1. What are the **current weather conditions** in Montreal?  
-2. How will **temperature evolve** over the next 7 days?  
+2. How will **temperature evolve** over the next 5 days?  
 3. Is **rain** or **snow** expected in the short term?  
 4. What are the current **atmospheric conditions** (wind, humidity, pressure, visibility)?
 
@@ -36,7 +36,7 @@ The dashboard design was inspired by the **Apple iOS Weather app**, prioritizing
   - Daily high & low temperatures  
   - Short textual weather summary  
 - **Bar Chart** — 24-hour rain forecast  
-- **Line Chart** — Weekly temperature forecast:
+- **Line Chart** — 5-day temperature forecast:
   - Temperature  
   - Feels-like temperature  
 - **Cards**:
@@ -69,7 +69,7 @@ The dashboard design was inspired by the **Apple iOS Weather app**, prioritizing
 - Historical weather analysis and year-over-year comparisons  
 - Performance optimization for larger datasets  
 - Deployment through Power BI Service with scheduled refreshes  
-- Mobile-optimized dashboard layout
+- Mobile-optimized dashboard layout for improved accessibility on smaller screens
 
 ## Tools
 

@@ -22,22 +22,12 @@ This first project, part of the Google Professional Certificate in BI, analyzes 
 
 ## Dataset
 
-The dataset contains call center interaction records used to analyze repeat customer calls and service efficiency. Each row represents a **customer contact event**, including call volume, repeat interactions, call category, market location, and timing relative to the initial contact. A complete and detailed list of all available data fields, along with data cleaning and preprocessing steps, can be found in the `cleaning.ipynb` notebook.
+The dataset contains call center interaction records used to analyze repeat customer calls and service efficiency. Each row represents a **customer contact event**, including call volume, repeat interactions, call category, market location, and timing relative to the initial contact. All data cleaning, validation, and preprocessing steps are documented in the [`cleaning.ipynb`](./data/cleaning.ipynb) notebook.
 
 > [!NOTE]  
 > Market names and customer details are **anonymized** to protect privacy.  
 > Repeat call indicators reflect follow-up contacts within defined time windows.  
 > Call types are high-level categories and may not capture all underlying issue complexity.
-
-## Stakeholders
-
-| Name              | Role            | Interest                   | Viewer |
-|-------------------|-----------------|----------------------------|--------|
-| **Emma Santiago** | Hiring Manager  | Primary contact            | ✅      |
-| **Keith Portone** | Project Manager | Primary contact            | ✅      |
-| **Minna Rah**     | Lead BI Analyst | Accessibility requirements | ✅      |
-| **Ian Ortega**    | BI Analyst      |                            | ✅      |
-| **Sylvie Essa**   | BI Analyst      |                            | ✅      |
 
 ## Key questions
 1. How **often** does the customer service team receive repeat calls from customers?
@@ -46,9 +36,9 @@ The dataset contains call center interaction records used to analyze repeat cust
 
 ## Features
 
-* Analyzes repeat calls by market, problem type.
-* Provides trend analysis by week, month, quarter, and year.
-* Helps identify operational improvements and reduce call volume.
+- Analyzes repeat calls by market, problem type.
+- Provides trend analysis by week, month, quarter, and year.
+- Helps identify operational improvements and reduce call volume.
 
 ## Insights
 
@@ -57,13 +47,13 @@ The dataset contains call center interaction records used to analyze repeat cust
 
 ## Tools
 
-- **Python** — Data cleaning  
-- **SQL Server** — Data exploration and transformation  
-- **Tableau** — Data visualization and dashboard development  
-- **Git & GitHub** — Version control
-- **Figma** — Dashboard layout and design planning
+- **Python** | Data cleaning and preprocessing  
+- **SQL Server** | Data exploration and transformation  
+- **Tableau** | Data visualization and dashboard development  
+- **Figma** | Dashboard layout and design planning  
+- **Git & GitHub** | Version control and documentation
 
 ## License
 
-This project is licensed under the MIT License.  
+This project is licensed under the **MIT License**.  
 You are free to use, modify, and distribute this project with proper attribution.

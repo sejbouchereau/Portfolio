@@ -1,4 +1,4 @@
-# NBA Players
+# NBA Players: League Trends & Playstyle Analysis
 
 This project analyzes NBA player data across multiple seasons to understand how the league has evolved in terms of **international representation**, **talent development pipelines**, and **on-court playstyle**. The dashboard focuses on long-term trends at both the league and individual player levels, combining geographic, biographical, and advanced performance metrics.
 

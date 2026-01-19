@@ -1,4 +1,4 @@
-# Montreal Weather
+# Montreal Weather: Real-Time & Forecast Analysis
 
 This project is a Montreal weather dashboard built in **Power BI** using live data from the **OpenWeather One Call 3.0** and **Forecast API**. The objective was to design a clean, real-time dashboard that highlights the most relevant weather indicators while demonstrating API integration, data transformation, and dashboard design best practices.
 

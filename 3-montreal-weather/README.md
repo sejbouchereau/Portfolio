@@ -5,8 +5,8 @@ This project is a Montreal weather dashboard built in **Power BI** using live da
 ## Preview
 
 <details>
-  <summary>View</summary>
-  <img src="medias/view.png" alt="View">
+  <summary>Main View</summary>
+  <img src="medias/view.png" alt="Main View">
 </details>
 
 ## Dataset

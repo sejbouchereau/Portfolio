@@ -4,7 +4,7 @@
 > **Project**: Repeat Caller Analysis (Call Center Data)  
 > **Date**: November 2025
 
-This first project, part of the Google Professional Certificate in BI, analyzes **repeat calls** to the Google Fiber call center to identify trends and generate insights that improve **first-contact resolution** and **customer satisfaction**.
+This first project, part of the Google Professional Certificate in BI, analyzes **repeat calls** to the *Google Fiber* call center to identify trends and generate insights that improve **first-contact resolution** and **customer satisfaction**.
 
 ## [Dashboard](https://public.tableau.com/app/profile/samuel.bouchereau/viz/GoogleFiberCallCenterRepeatCallsAnalysis/Type) | [Data Cleaning](./data/cleaning.ipynb) | [Documentation](./documentation)
 
@@ -29,7 +29,7 @@ The dataset contains call center interaction records used to analyze repeat cust
 > Repeat call indicators reflect follow-up contacts within defined time windows.  
 > Call types are high-level categories and may not capture all underlying issue complexity.
 
-## Key questions
+## Analytical Questions
 1. How **often** does the customer service team receive repeat calls from customers?
 2. What **problem types** generate the most repeat calls?
 3. Which **market city’s** customer service team receives the most repeat calls?

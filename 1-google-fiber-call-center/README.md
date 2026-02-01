@@ -1,7 +1,6 @@
 # Google Fiber Call Center: Repeat Call Analysis
 
-> **Course**: Google Professional Certificate in Business Intelligence  
-> **Project**: Repeat Caller Analysis (Call Center Data)  
+> **Course**: Google Professional Certificate in Business Intelligence
 > **Date**: November 2025
 
 This first project, part of the Google Professional Certificate in BI, analyzes **repeat calls** to the *Google Fiber* call center to identify trends and generate insights that improve **first-contact resolution** and **customer satisfaction**.

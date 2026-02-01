@@ -28,25 +28,25 @@ The dataset is sourced from **OpenWeather One Call 3.0** and **Forecast API** th
 The dashboard design was inspired by the **Apple iOS Weather app**, prioritizing visual hierarchy, intuitive iconography, and fast information scanning.
 
 - **Current Weather** — Summary:
-  - Current date  
-  - Current temperature  
-  - Feels-like temperature  
-  - Weather icon  
-  - City name  
-  - Daily high & low temperatures  
-  - Short textual weather summary  
-- **Bar Chart** — 24-hour rain forecast  
+  - Current date
+  - Current temperature
+  - Feels-like temperature
+  - Weather icon
+  - City name
+  - Daily high & low temperatures
+  - Short textual weather summary
+- **Bar Chart** — 24-hour rain forecast
 - **Line Chart** — 5-day temperature forecast:
-  - Temperature  
-  - Feels-like temperature  
+  - Temperature
+  - Feels-like temperature
 - **Cards**:
-  - Current wind speed (km/h)  
-  - Current humidity (%)  
-  - Daily snowfall (cm)  
-  - Current visibility (km)  
-  - Daylight (sunrise & sunset time)  
+  - Current wind speed (km/h)
+  - Current humidity (%)
+  - Daily snowfall (cm)
+  - Current visibility (km)
+  - Daylight (sunrise & sunset time)
 - **Gauge Chart**:
-  - Atmospheric pressure (mb)
+  - Atmospheric pressure (hPa)
 
 ## Insights
 

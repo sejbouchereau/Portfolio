@@ -1,7 +1,6 @@
 # Apex Industrial Solutions: Production & Cost Performance Analysis
 
-> **Course**: Complete Data Analyst Bootcamp From Basics To Advanced  
-> **Project**: Apex Industrial Solutions: Production & Cost Performance Analysis  
+> **Course**: Complete Data Analyst Bootcamp From Basics To Advanced
 > **Date**: January 2026
 
 This project demonstrates how **Google Sheets** can be used to analyze **production operations** data for *Apex Industrial Solutions*, a fictitious manufacturing company operating across multiple regions and product categories.  
@@ -34,7 +33,7 @@ To resolve this issue, the following steps were performed:
 > [!NOTE]  
 > All steps, from data cleaning to dashboard creation, were performed exclusively in **Google Sheets**.
 
-## Key questions
+## Analytical Questions
 1. Which **product types** drive the highest production costs?
 2. How are **production tasks** distributed across managers?
 3. How does **production volume** change over time?
@@ -56,6 +55,23 @@ To resolve this issue, the following steps were performed:
 - **Highest Average Cost per Unit**: Furniture has the highest average cost per unit at $180.44, indicating lower cost efficiency compared to other product types.
 - **Regional Cost Concentration**: The West region has the highest total production cost at $1,644,662, nearly double that of the North, the second-highest region.
 - **Managerial Workload Distribution**: Nancy Grey completed the most production tasks with 37 tasks, followed by Jane Smith (18 tasks) and John Doe (13 tasks), highlighting concentrated managerial responsibility.
+
+## Skills Demonstrated
+
+- Data cleaning and preparation using Google Sheets formulas
+- Resolving data inconsistencies through business rule–driven logic
+- Data modeling with helper tables and structured datasets
+- Analysis using pivot tables and aggregated metrics
+- Time-series and categorical analysis for operational data
+- Dashboard design within Google Sheets visualization constraints
+
+## Potential Improvements
+
+- Migration to Excel or Power BI to unlock advanced slicers, richer data labels, and flexible chart formatting
+- Integration of additional historical data for stronger trend analysis
+- Regional and manager-level performance KPIs
+- Production volume and cost forecasting
+- Executive-ready dashboard layout optimized for presentation and reporting
 
 ## Tools
 

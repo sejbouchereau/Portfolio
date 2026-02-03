@@ -1,6 +1,6 @@
 # Apex Industrial Solutions: Production & Cost Performance Analysis
 
-> **Course**: Complete Data Analyst Bootcamp From Basics To Advanced
+> **Course**: Complete Data Analyst Bootcamp From Basics To Advanced  
 > **Date**: January 2026
 
 This project demonstrates how **Google Sheets** can be used to analyze **production operations** data for *Apex Industrial Solutions*, a fictitious manufacturing company operating across multiple regions and product categories.  

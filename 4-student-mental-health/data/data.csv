@@ -1,0 +1,502 @@
+﻿M,28,2,4,7-8 hours,Moderate,Yes,9,2,Yes,No,A2,1,7.5
+M,28,4,5,5-6 hours,Healthy,Yes,7,1,Yes,No,A2,2,5.5
+M,25,1,3,5-6 hours,Unhealthy,Yes,10,4,No,Yes,A2,3,5.5
+M,23,1,4,More than 8 hours,Unhealthy,Yes,7,2,Yes,No,A1,4,9
+F,31,1,5,More than 8 hours,Healthy,Yes,4,2,Yes,No,A3,5,9
+M,19,4,4,5-6 hours,Unhealthy,Yes,1,4,Yes,Yes,A1,6,5.5
+F,34,4,2,More than 8 hours,Moderate,Yes,6,2,No,Yes,A3,7,9
+F,20,4,1,More than 8 hours,Healthy,Yes,3,4,Yes,Yes,A1,8,9
+F,33,1,4,More than 8 hours,Moderate,No,10,3,No,No,A3,9,9
+M,33,4,3,Less than 5 hours,Unhealthy,Yes,10,1,No,Yes,A3,10,4
+F,31,5,4,5-6 hours,Healthy,Yes,6,4,No,Yes,A3,11,5.5
+M,24,2,1,7-8 hours,Unhealthy,Yes,11,5,No,Yes,A1,12,7.5
+F,23,5,5,Less than 5 hours,Unhealthy,Yes,2,1,Yes,Yes,A1,13,4
+M,25,1,1,5-6 hours,Moderate,Yes,12,3,Yes,Yes,A2,14,5.5
+M,21,5,1,More than 8 hours,Unhealthy,Yes,3,5,Yes,Yes,A1,15,9
+M,28,5,3,5-6 hours,Healthy,Yes,8,3,Yes,Yes,A2,16,5.5
+M,23,5,2,More than 8 hours,Moderate,No,10,4,No,Yes,A1,17,9
+F,23,1,3,Less than 5 hours,Healthy,Yes,0,3,No,No,A1,18,4
+F,20,5,5,More than 8 hours,Unhealthy,Yes,2,5,No,Yes,A1,19,9
+M,29,4,3,More than 8 hours,Unhealthy,Yes,1,3,No,Yes,A2,20,9
+M,31,2,3,More than 8 hours,Unhealthy,No,3,3,Yes,No,A3,21,9
+M,24,3,4,More than 8 hours,Healthy,Yes,1,3,No,No,A1,22,9
+M,31,2,4,More than 8 hours,Unhealthy,No,10,1,No,No,A3,23,9
+F,33,3,2,7-8 hours,Moderate,No,11,5,Yes,No,A3,24,7.5
+F,33,2,3,7-8 hours,Moderate,Yes,12,5,Yes,Yes,A3,25,7.5
+M,31,2,2,7-8 hours,Healthy,No,2,4,Yes,No,A3,26,7.5
+M,30,3,4,7-8 hours,Moderate,Yes,0,2,Yes,No,A2,27,7.5
+M,21,5,3,7-8 hours,Unhealthy,No,6,4,Yes,Yes,A1,28,7.5
+F,29,3,5,Less than 5 hours,Moderate,Yes,4,3,Yes,Yes,A2,29,4
+F,34,3,4,Less than 5 hours,Unhealthy,Yes,12,1,Yes,Yes,A3,30,4
+F,20,3,2,More than 8 hours,Healthy,No,2,2,No,No,A1,31,9
+F,33,2,5,Less than 5 hours,Moderate,Yes,3,3,Yes,No,A3,32,4
+M,32,5,2,5-6 hours,Moderate,Yes,12,3,No,Yes,A3,33,5.5
+F,21,5,3,7-8 hours,Moderate,No,9,2,No,Yes,A1,34,7.5
+M,26,5,1,Less than 5 hours,Unhealthy,Yes,10,5,No,Yes,A2,35,4
+M,26,5,4,7-8 hours,Unhealthy,No,3,2,Yes,No,A2,36,7.5
+F,22,1,1,Less than 5 hours,Healthy,No,2,2,No,No,A1,37,4
+M,26,4,5,Less than 5 hours,Unhealthy,No,4,1,Yes,No,A2,38,4
+M,25,1,3,7-8 hours,Unhealthy,No,8,1,Yes,No,A2,39,7.5
+F,21,3,3,7-8 hours,Moderate,Yes,8,5,Yes,Yes,A1,40,7.5
+M,29,1,1,7-8 hours,Healthy,No,6,1,Yes,No,A2,41,7.5
+M,22,1,3,7-8 hours,Unhealthy,No,6,4,No,No,A1,42,7.5
+M,21,3,2,7-8 hours,Unhealthy,Yes,1,5,No,Yes,A1,43,7.5
+M,31,5,4,5-6 hours,Healthy,No,12,3,No,No,A3,44,5.5
+F,24,1,3,5-6 hours,Moderate,No,3,5,No,No,A1,45,5.5
+M,20,3,5,More than 8 hours,Unhealthy,No,11,4,No,No,A1,46,9
+F,31,1,3,7-8 hours,Healthy,No,12,3,Yes,No,A3,47,7.5
+M,21,1,5,5-6 hours,Unhealthy,Yes,1,1,No,No,A1,48,5.5
+M,24,2,4,5-6 hours,Healthy,No,12,4,Yes,No,A1,49,5.5
+M,34,3,4,7-8 hours,Healthy,No,8,3,No,No,A3,50,7.5
+F,25,5,4,Less than 5 hours,Healthy,No,7,1,No,No,A2,51,4
+M,27,2,5,5-6 hours,Healthy,Yes,10,3,No,No,A2,52,5.5
+F,32,2,4,5-6 hours,Moderate,No,10,1,Yes,No,A3,53,5.5
+M,26,4,4,5-6 hours,Unhealthy,No,9,1,Yes,No,A2,54,5.5
+M,23,2,5,Less than 5 hours,Unhealthy,No,8,5,No,No,A1,55,4
+M,22,1,5,More than 8 hours,Moderate,No,12,4,No,No,A1,56,9
+M,29,3,1,More than 8 hours,Moderate,Yes,4,1,Yes,Yes,A2,57,9
+M,20,4,2,Less than 5 hours,Unhealthy,Yes,5,4,Yes,Yes,A1,58,4
+M,28,2,2,More than 8 hours,Unhealthy,Yes,1,1,No,No,A2,59,9
+F,30,5,3,More than 8 hours,Moderate,Yes,6,2,No,Yes,A2,60,9
+F,29,4,2,Less than 5 hours,Moderate,No,0,1,Yes,No,A2,61,4
+M,29,4,4,7-8 hours,Unhealthy,Yes,6,2,No,Yes,A2,62,7.5
+M,24,1,3,5-6 hours,Moderate,Yes,3,2,Yes,No,A1,63,5.5
+M,19,2,4,Less than 5 hours,Moderate,Yes,5,4,Yes,Yes,A1,64,4
+M,29,2,5,7-8 hours,Healthy,No,11,1,No,No,A2,65,7.5
+F,20,1,5,Less than 5 hours,Healthy,No,8,5,No,No,A1,66,4
+F,31,2,1,Less than 5 hours,Moderate,Yes,5,2,No,Yes,A3,67,4
+F,27,3,3,7-8 hours,Unhealthy,No,11,1,No,No,A2,68,7.5
+F,27,2,3,Less than 5 hours,Healthy,Yes,8,3,Yes,Yes,A2,69,4
+M,30,4,1,Less than 5 hours,Moderate,No,8,2,No,No,A2,70,4
+M,21,3,5,More than 8 hours,Healthy,Yes,5,1,Yes,No,A1,71,9
+F,27,4,2,7-8 hours,Unhealthy,Yes,0,2,No,Yes,A2,72,7.5
+M,28,1,1,More than 8 hours,Unhealthy,Yes,8,2,No,No,A2,73,9
+M,26,3,4,More than 8 hours,Unhealthy,Yes,11,5,No,Yes,A2,74,9
+M,33,3,2,7-8 hours,Healthy,No,8,2,Yes,No,A3,75,7.5
+F,31,1,3,7-8 hours,Unhealthy,No,10,1,Yes,No,A3,76,7.5
+F,32,4,4,5-6 hours,Healthy,No,2,2,No,No,A3,77,5.5
+M,28,3,4,5-6 hours,Moderate,Yes,10,2,No,Yes,A2,78,5.5
+M,24,4,3,More than 8 hours,Moderate,No,6,4,Yes,Yes,A1,79,9
+M,19,3,2,More than 8 hours,Unhealthy,Yes,3,1,No,Yes,A1,80,9
+M,31,1,2,7-8 hours,Unhealthy,No,8,3,No,No,A3,81,7.5
+F,22,3,3,7-8 hours,Moderate,Yes,7,4,No,Yes,A1,82,7.5
+F,24,5,2,5-6 hours,Healthy,No,3,5,No,Yes,A1,83,5.5
+F,33,2,4,Less than 5 hours,Moderate,Yes,10,3,Yes,Yes,A3,84,4
+F,34,3,2,7-8 hours,Unhealthy,Yes,0,4,Yes,Yes,A3,85,7.5
+M,18,3,4,7-8 hours,Unhealthy,Yes,9,3,Yes,Yes,A1,86,7.5
+F,32,5,3,7-8 hours,Healthy,Yes,3,3,No,Yes,A3,87,7.5
+F,18,2,4,7-8 hours,Healthy,No,9,2,No,No,A1,88,7.5
+M,30,1,4,Less than 5 hours,Healthy,No,10,1,Yes,No,A2,89,4
+M,25,3,2,More than 8 hours,Unhealthy,Yes,4,4,No,Yes,A2,90,9
+M,33,4,4,5-6 hours,Moderate,Yes,7,5,Yes,Yes,A3,91,5.5
+F,22,1,4,Less than 5 hours,Unhealthy,No,7,5,Yes,No,A1,92,4
+F,23,4,1,More than 8 hours,Healthy,No,8,4,No,Yes,A1,93,9
+F,26,3,3,More than 8 hours,Moderate,No,10,3,No,No,A2,94,9
+F,27,5,2,Less than 5 hours,Unhealthy,No,5,5,No,Yes,A2,95,4
+F,32,1,4,More than 8 hours,Unhealthy,Yes,0,2,No,No,A3,96,9
+M,26,1,2,Less than 5 hours,Moderate,No,7,5,Yes,No,A2,97,4
+M,33,4,4,7-8 hours,Healthy,Yes,11,1,Yes,No,A3,98,7.5
+M,21,3,5,5-6 hours,Healthy,No,5,2,No,No,A1,99,5.5
+M,30,5,2,5-6 hours,Unhealthy,Yes,0,2,No,Yes,A2,100,5.5
+F,24,5,1,7-8 hours,Healthy,No,8,5,No,Yes,A1,101,7.5
+F,26,4,5,More than 8 hours,Healthy,No,7,4,Yes,No,A2,102,9
+F,20,2,5,More than 8 hours,Unhealthy,Yes,4,2,No,No,A1,103,9
+F,29,3,3,7-8 hours,Healthy,Yes,5,5,Yes,Yes,A2,104,7.5
+M,19,2,5,5-6 hours,Healthy,No,9,1,Yes,No,A1,105,5.5
+F,19,1,1,5-6 hours,Healthy,Yes,10,3,No,Yes,A1,106,5.5
+F,25,2,2,More than 8 hours,Moderate,No,11,2,Yes,No,A2,107,9
+M,18,5,5,5-6 hours,Moderate,No,3,4,No,Yes,A1,108,5.5
+F,22,2,5,More than 8 hours,Unhealthy,Yes,7,5,No,Yes,A1,109,9
+M,18,3,4,Less than 5 hours,Moderate,Yes,9,1,No,Yes,A1,110,4
+F,20,1,3,7-8 hours,Healthy,Yes,0,5,No,No,A1,111,7.5
+M,28,2,5,5-6 hours,Healthy,No,4,1,Yes,No,A2,112,5.5
+F,21,1,4,7-8 hours,Healthy,No,8,5,Yes,No,A1,113,7.5
+F,20,1,3,7-8 hours,Unhealthy,No,2,2,Yes,No,A1,114,7.5
+F,30,4,3,More than 8 hours,Unhealthy,No,8,2,Yes,No,A2,115,9
+M,31,3,5,Less than 5 hours,Moderate,Yes,10,4,No,Yes,A3,116,4
+M,22,4,2,More than 8 hours,Unhealthy,No,10,1,Yes,Yes,A1,117,9
+M,25,3,5,7-8 hours,Unhealthy,Yes,2,1,No,No,A2,118,7.5
+M,30,5,1,Less than 5 hours,Unhealthy,No,2,5,Yes,Yes,A2,119,4
+M,30,1,5,Less than 5 hours,Moderate,Yes,0,1,No,No,A2,120,4
+F,26,4,1,5-6 hours,Unhealthy,Yes,0,1,No,Yes,A2,121,5.5
+M,28,3,3,More than 8 hours,Unhealthy,Yes,6,3,Yes,Yes,A2,122,9
+F,30,3,5,5-6 hours,Healthy,Yes,10,3,No,No,A2,123,5.5
+F,26,2,5,More than 8 hours,Moderate,Yes,10,4,Yes,Yes,A2,124,9
+F,29,5,5,7-8 hours,Moderate,Yes,6,2,Yes,Yes,A2,125,7.5
+F,28,1,2,5-6 hours,Healthy,Yes,3,4,Yes,No,A2,126,5.5
+M,20,4,1,Less than 5 hours,Unhealthy,No,4,4,Yes,Yes,A1,127,4
+M,34,5,3,Less than 5 hours,Moderate,Yes,11,5,No,Yes,A3,128,4
+F,33,4,1,5-6 hours,Healthy,Yes,12,1,No,Yes,A3,129,5.5
+F,19,4,3,5-6 hours,Healthy,No,5,2,Yes,Yes,A1,130,5.5
+M,27,4,2,More than 8 hours,Moderate,Yes,4,3,No,Yes,A2,131,9
+F,22,3,5,Less than 5 hours,Healthy,Yes,7,5,No,Yes,A1,132,4
+M,25,5,2,Less than 5 hours,Healthy,No,9,1,Yes,Yes,A2,133,4
+F,20,2,3,7-8 hours,Unhealthy,Yes,0,3,Yes,Yes,A1,134,7.5
+F,29,2,2,Less than 5 hours,Moderate,Yes,12,1,No,Yes,A2,135,4
+F,34,3,4,More than 8 hours,Healthy,Yes,6,3,No,No,A3,136,9
+M,27,5,2,5-6 hours,Unhealthy,Yes,12,3,Yes,Yes,A2,137,5.5
+F,26,3,2,Less than 5 hours,Unhealthy,No,6,5,Yes,Yes,A2,138,4
+M,34,1,4,7-8 hours,Healthy,Yes,12,3,No,No,A3,139,7.5
+F,24,2,2,5-6 hours,Moderate,Yes,5,3,No,Yes,A1,140,5.5
+M,18,3,4,5-6 hours,Healthy,Yes,9,1,No,Yes,A1,141,5.5
+F,28,2,4,7-8 hours,Healthy,Yes,2,4,Yes,No,A2,142,7.5
+M,18,5,2,7-8 hours,Unhealthy,Yes,8,2,Yes,Yes,A1,143,7.5
+M,19,5,1,More than 8 hours,Moderate,No,2,3,No,Yes,A1,144,9
+M,33,1,2,Less than 5 hours,Healthy,No,1,3,No,No,A3,145,4
+M,20,4,4,5-6 hours,Unhealthy,Yes,11,2,Yes,Yes,A1,146,5.5
+M,29,5,3,5-6 hours,Healthy,No,11,2,Yes,Yes,A2,147,5.5
+F,33,5,4,7-8 hours,Moderate,Yes,12,3,No,Yes,A3,148,7.5
+M,34,1,3,More than 8 hours,Moderate,Yes,8,1,No,No,A3,149,9
+F,24,2,3,More than 8 hours,Healthy,Yes,0,5,Yes,Yes,A1,150,9
+F,24,4,2,Less than 5 hours,Unhealthy,No,8,5,Yes,Yes,A1,151,4
+F,25,3,2,More than 8 hours,Moderate,No,0,4,Yes,No,A2,152,9
+F,28,4,5,5-6 hours,Unhealthy,No,3,4,No,No,A2,153,5.5
+M,30,1,5,5-6 hours,Moderate,Yes,10,3,No,No,A2,154,5.5
+F,28,4,3,More than 8 hours,Healthy,Yes,12,5,Yes,Yes,A2,155,9
+F,29,3,2,Less than 5 hours,Moderate,No,5,2,Yes,No,A2,156,4
+F,34,2,5,7-8 hours,Healthy,Yes,8,3,Yes,No,A3,157,7.5
+F,32,2,3,7-8 hours,Moderate,No,6,1,No,No,A3,158,7.5
+M,24,5,2,7-8 hours,Unhealthy,No,4,5,No,Yes,A1,159,7.5
+M,29,5,5,More than 8 hours,Moderate,Yes,4,1,Yes,No,A2,160,9
+F,26,2,3,5-6 hours,Healthy,No,12,5,No,No,A2,161,5.5
+M,29,4,5,More than 8 hours,Moderate,No,6,2,No,No,A2,162,9
+F,25,4,4,Less than 5 hours,Moderate,No,1,1,No,No,A2,163,4
+F,28,5,2,5-6 hours,Healthy,Yes,3,5,No,Yes,A2,164,5.5
+F,19,2,5,More than 8 hours,Moderate,No,1,3,Yes,No,A1,165,9
+M,24,2,5,7-8 hours,Unhealthy,Yes,5,4,No,Yes,A1,166,7.5
+F,20,3,2,5-6 hours,Unhealthy,Yes,10,5,No,Yes,A1,167,5.5
+M,33,2,5,Less than 5 hours,Moderate,Yes,0,1,Yes,No,A3,168,4
+M,27,3,1,5-6 hours,Moderate,Yes,9,5,Yes,Yes,A2,169,5.5
+M,24,4,2,5-6 hours,Unhealthy,No,12,2,No,Yes,A1,170,5.5
+M,32,3,4,Less than 5 hours,Healthy,Yes,7,1,No,No,A3,171,4
+M,33,2,4,Less than 5 hours,Unhealthy,Yes,12,4,Yes,Yes,A3,172,4
+M,27,1,2,7-8 hours,Unhealthy,Yes,12,1,No,No,A2,173,7.5
+M,25,5,2,More than 8 hours,Moderate,No,4,5,No,Yes,A2,174,9
+M,21,1,5,More than 8 hours,Unhealthy,No,2,2,Yes,No,A1,175,9
+M,20,2,3,More than 8 hours,Unhealthy,No,3,1,No,No,A1,176,9
+M,33,3,4,More than 8 hours,Moderate,No,7,3,No,No,A3,177,9
+M,27,2,5,Less than 5 hours,Moderate,No,2,5,Yes,No,A2,178,4
+F,31,1,2,7-8 hours,Moderate,Yes,9,4,No,No,A3,179,7.5
+M,26,2,1,5-6 hours,Moderate,No,8,3,Yes,No,A2,180,5.5
+F,33,5,4,Less than 5 hours,Moderate,No,6,3,Yes,No,A3,181,4
+F,18,5,2,Less than 5 hours,Moderate,No,2,3,Yes,Yes,A1,182,4
+M,22,5,2,7-8 hours,Unhealthy,Yes,12,4,No,Yes,A1,183,7.5
+F,19,3,4,7-8 hours,Healthy,Yes,10,2,No,Yes,A1,184,7.5
+M,22,2,4,Less than 5 hours,Healthy,No,3,3,No,No,A1,185,4
+M,34,4,5,Less than 5 hours,Moderate,Yes,3,2,Yes,No,A3,186,4
+M,33,5,4,5-6 hours,Moderate,Yes,0,5,No,Yes,A3,187,5.5
+M,20,2,3,More than 8 hours,Unhealthy,No,0,3,Yes,No,A1,188,9
+M,22,3,4,5-6 hours,Healthy,Yes,11,2,Yes,Yes,A1,189,5.5
+F,29,5,2,5-6 hours,Moderate,Yes,8,4,No,Yes,A2,190,5.5
+F,27,2,2,Less than 5 hours,Healthy,No,3,4,No,No,A2,191,4
+F,28,4,4,Less than 5 hours,Moderate,No,2,1,No,No,A2,192,4
+F,30,2,2,Less than 5 hours,Healthy,No,10,4,No,No,A2,193,4
+M,34,2,3,5-6 hours,Moderate,No,12,2,No,No,A3,194,5.5
+F,18,4,1,More than 8 hours,Healthy,No,10,1,Yes,Yes,A1,195,9
+M,20,3,4,Less than 5 hours,Healthy,No,3,3,Yes,No,A1,196,4
+M,19,5,1,Less than 5 hours,Healthy,Yes,7,3,No,Yes,A1,197,4
+M,26,4,3,7-8 hours,Healthy,No,5,4,Yes,No,A2,198,7.5
+F,25,3,5,7-8 hours,Unhealthy,No,9,5,No,No,A2,199,7.5
+M,32,5,1,More than 8 hours,Healthy,No,2,3,Yes,No,A3,200,9
+M,19,4,1,More than 8 hours,Moderate,Yes,2,2,No,Yes,A1,201,9
+M,27,2,4,More than 8 hours,Unhealthy,No,3,3,No,No,A2,202,9
+F,24,5,1,More than 8 hours,Moderate,Yes,6,5,No,Yes,A1,203,9
+M,32,5,3,More than 8 hours,Healthy,No,7,1,No,No,A3,204,9
+M,24,2,2,5-6 hours,Healthy,No,9,2,Yes,No,A1,205,5.5
+F,34,3,1,More than 8 hours,Healthy,Yes,5,4,No,Yes,A3,206,9
+F,29,3,4,More than 8 hours,Moderate,Yes,6,5,No,Yes,A2,207,9
+F,19,4,5,7-8 hours,Moderate,Yes,4,4,Yes,Yes,A1,208,7.5
+M,33,3,2,More than 8 hours,Moderate,No,5,1,No,No,A3,209,9
+M,22,2,1,Less than 5 hours,Unhealthy,Yes,12,2,No,Yes,A1,210,4
+M,24,1,2,More than 8 hours,Unhealthy,Yes,0,2,Yes,No,A1,211,9
+M,29,3,3,7-8 hours,Unhealthy,Yes,1,3,Yes,Yes,A2,212,7.5
+M,32,5,1,Less than 5 hours,Moderate,Yes,3,1,Yes,Yes,A3,213,4
+F,25,3,4,5-6 hours,Healthy,No,4,2,No,No,A2,214,5.5
+F,20,4,5,More than 8 hours,Healthy,Yes,6,4,Yes,Yes,A1,215,9
+F,23,5,1,5-6 hours,Healthy,No,12,3,No,Yes,A1,216,5.5
+M,27,1,5,Less than 5 hours,Healthy,No,5,2,Yes,No,A2,217,4
+F,29,1,2,Less than 5 hours,Unhealthy,Yes,4,5,No,Yes,A2,218,4
+F,20,4,1,5-6 hours,Unhealthy,No,4,5,No,Yes,A1,219,5.5
+M,34,3,5,7-8 hours,Moderate,Yes,4,5,No,No,A3,220,7.5
+M,32,3,3,5-6 hours,Healthy,Yes,8,4,Yes,Yes,A3,221,5.5
+M,33,5,1,Less than 5 hours,Healthy,No,10,2,No,Yes,A3,222,4
+F,28,5,2,Less than 5 hours,Unhealthy,Yes,4,1,No,Yes,A2,223,4
+F,20,4,5,5-6 hours,Moderate,Yes,11,4,No,Yes,A1,224,5.5
+F,29,3,5,5-6 hours,Healthy,No,9,1,No,No,A2,225,5.5
+F,25,2,2,More than 8 hours,Unhealthy,No,4,5,No,No,A2,226,9
+M,23,3,1,Less than 5 hours,Healthy,No,8,2,No,No,A1,227,4
+F,28,4,2,Less than 5 hours,Healthy,No,3,5,No,No,A2,228,4
+M,25,4,2,Less than 5 hours,Moderate,No,1,3,Yes,Yes,A2,229,4
+M,26,2,1,More than 8 hours,Unhealthy,Yes,3,3,No,Yes,A2,230,9
+M,33,4,3,7-8 hours,Unhealthy,Yes,6,3,No,Yes,A3,231,7.5
+M,27,5,2,7-8 hours,Healthy,Yes,8,1,No,Yes,A2,232,7.5
+M,23,3,2,5-6 hours,Moderate,No,8,5,No,Yes,A1,233,5.5
+M,19,2,5,Less than 5 hours,Moderate,No,1,4,No,No,A1,234,4
+F,25,4,4,5-6 hours,Healthy,No,5,2,No,No,A2,235,5.5
+M,27,2,4,Less than 5 hours,Healthy,Yes,5,4,Yes,Yes,A2,236,4
+F,18,1,5,Less than 5 hours,Unhealthy,No,11,5,Yes,Yes,A1,237,4
+M,32,2,5,Less than 5 hours,Unhealthy,Yes,9,5,No,Yes,A3,238,4
+M,28,2,5,5-6 hours,Moderate,Yes,2,4,No,No,A2,239,5.5
+F,24,4,3,Less than 5 hours,Healthy,Yes,3,5,Yes,Yes,A1,240,4
+M,28,5,5,More than 8 hours,Healthy,Yes,10,2,No,Yes,A2,241,9
+F,28,5,1,More than 8 hours,Moderate,No,8,3,Yes,Yes,A2,242,9
+F,20,5,4,More than 8 hours,Unhealthy,No,8,3,Yes,Yes,A1,243,9
+M,31,1,3,Less than 5 hours,Healthy,Yes,4,3,No,No,A3,244,4
+M,30,2,3,Less than 5 hours,Healthy,Yes,6,3,No,No,A2,245,4
+F,21,1,1,Less than 5 hours,Moderate,No,12,1,No,No,A1,246,4
+F,19,3,5,5-6 hours,Healthy,No,3,3,No,No,A1,247,5.5
+M,23,3,5,5-6 hours,Healthy,Yes,10,5,Yes,Yes,A1,248,5.5
+F,24,1,1,Less than 5 hours,Moderate,No,0,3,Yes,No,A1,249,4
+F,34,3,3,More than 8 hours,Moderate,No,12,5,No,No,A3,250,9
+M,20,3,3,More than 8 hours,Healthy,Yes,6,5,Yes,Yes,A1,251,9
+M,23,1,1,7-8 hours,Unhealthy,Yes,7,2,No,Yes,A1,252,7.5
+F,34,1,4,More than 8 hours,Moderate,No,11,3,No,No,A3,253,9
+M,33,4,5,More than 8 hours,Moderate,Yes,8,1,No,No,A3,254,9
+M,18,5,5,More than 8 hours,Healthy,No,7,1,Yes,No,A1,255,9
+M,18,5,5,7-8 hours,Healthy,Yes,6,2,No,Yes,A1,256,7.5
+M,34,3,1,7-8 hours,Moderate,No,7,3,No,No,A3,257,7.5
+M,34,1,1,5-6 hours,Healthy,No,7,1,No,No,A3,258,5.5
+F,20,4,3,7-8 hours,Healthy,Yes,12,3,Yes,Yes,A1,259,7.5
+M,34,3,2,5-6 hours,Moderate,No,4,3,Yes,No,A3,260,5.5
+M,29,1,3,More than 8 hours,Unhealthy,No,1,2,Yes,No,A2,261,9
+F,19,4,5,Less than 5 hours,Moderate,No,6,2,Yes,No,A1,262,4
+F,19,1,1,More than 8 hours,Unhealthy,No,6,2,Yes,No,A1,263,9
+M,28,1,3,7-8 hours,Moderate,Yes,10,5,No,Yes,A2,264,7.5
+M,34,4,3,More than 8 hours,Unhealthy,No,7,1,No,No,A3,265,9
+F,32,5,4,Less than 5 hours,Unhealthy,Yes,0,3,Yes,Yes,A3,266,4
+F,25,2,5,5-6 hours,Moderate,No,3,5,No,No,A2,267,5.5
+M,30,3,1,7-8 hours,Moderate,No,10,1,No,No,A2,268,7.5
+F,33,4,3,7-8 hours,Healthy,No,2,2,No,No,A3,269,7.5
+F,23,1,1,5-6 hours,Healthy,No,8,4,Yes,No,A1,270,5.5
+M,28,5,4,More than 8 hours,Moderate,Yes,6,4,No,Yes,A2,271,9
+M,33,5,5,More than 8 hours,Moderate,Yes,11,1,Yes,Yes,A3,272,9
+F,31,3,4,7-8 hours,Moderate,No,0,2,Yes,No,A3,273,7.5
+M,32,3,2,7-8 hours,Moderate,Yes,8,2,Yes,Yes,A3,274,7.5
+M,30,5,1,5-6 hours,Moderate,Yes,10,2,Yes,Yes,A2,275,5.5
+M,34,1,4,7-8 hours,Healthy,No,4,3,No,No,A3,276,7.5
+M,21,1,4,5-6 hours,Unhealthy,No,9,5,No,No,A1,277,5.5
+F,22,4,2,5-6 hours,Healthy,Yes,8,2,No,Yes,A1,278,5.5
+M,33,4,3,Less than 5 hours,Unhealthy,Yes,8,3,Yes,Yes,A3,279,4
+M,23,4,1,5-6 hours,Moderate,No,8,2,No,Yes,A1,280,5.5
+F,18,4,4,7-8 hours,Unhealthy,No,7,2,No,Yes,A1,281,7.5
+M,20,4,3,5-6 hours,Healthy,No,9,5,No,Yes,A1,282,5.5
+M,29,5,5,Less than 5 hours,Unhealthy,No,11,5,Yes,Yes,A2,283,4
+M,18,1,4,Less than 5 hours,Unhealthy,No,5,4,Yes,No,A1,284,4
+M,28,4,2,5-6 hours,Unhealthy,No,11,1,Yes,Yes,A2,285,5.5
+M,31,2,4,5-6 hours,Unhealthy,No,0,1,No,No,A3,286,5.5
+M,20,1,3,More than 8 hours,Moderate,No,7,2,No,No,A1,287,9
+F,24,3,1,More than 8 hours,Unhealthy,Yes,11,3,Yes,Yes,A1,288,9
+F,20,3,2,7-8 hours,Moderate,Yes,2,1,Yes,Yes,A1,289,7.5
+F,28,3,2,Less than 5 hours,Healthy,Yes,10,3,Yes,Yes,A2,290,4
+F,30,3,3,More than 8 hours,Moderate,Yes,10,1,No,No,A2,291,9
+M,33,3,5,5-6 hours,Healthy,Yes,1,4,No,No,A3,292,5.5
+F,24,4,4,7-8 hours,Moderate,No,0,4,Yes,No,A1,293,7.5
+F,33,4,1,Less than 5 hours,Healthy,Yes,10,3,Yes,Yes,A3,294,4
+F,31,1,4,More than 8 hours,Unhealthy,Yes,0,1,No,No,A3,295,9
+F,31,5,1,7-8 hours,Healthy,Yes,2,5,Yes,Yes,A3,296,7.5
+M,26,4,3,5-6 hours,Moderate,Yes,6,3,Yes,Yes,A2,297,5.5
+M,33,2,5,More than 8 hours,Unhealthy,Yes,6,5,Yes,No,A3,298,9
+F,33,4,5,7-8 hours,Healthy,No,12,4,Yes,No,A3,299,7.5
+M,21,1,4,Less than 5 hours,Moderate,No,2,2,No,No,A1,300,4
+M,24,1,4,Less than 5 hours,Unhealthy,No,9,5,No,No,A1,301,4
+F,32,4,3,Less than 5 hours,Healthy,Yes,11,4,No,Yes,A3,302,4
+M,33,3,1,5-6 hours,Moderate,No,12,2,No,No,A3,303,5.5
+F,23,4,4,More than 8 hours,Unhealthy,Yes,1,4,No,Yes,A1,304,9
+F,19,4,5,7-8 hours,Moderate,Yes,12,5,No,Yes,A1,305,7.5
+F,23,2,2,More than 8 hours,Healthy,No,1,1,Yes,No,A1,306,9
+F,21,1,3,5-6 hours,Unhealthy,No,11,1,No,No,A1,307,5.5
+M,34,1,3,More than 8 hours,Unhealthy,Yes,11,2,Yes,No,A3,308,9
+M,20,4,3,7-8 hours,Healthy,No,11,2,Yes,Yes,A1,309,7.5
+F,28,1,3,Less than 5 hours,Moderate,Yes,0,2,Yes,No,A2,310,4
+M,26,4,1,More than 8 hours,Moderate,Yes,4,5,No,Yes,A2,311,9
+M,27,1,2,7-8 hours,Healthy,Yes,10,1,No,No,A2,312,7.5
+M,31,5,5,Less than 5 hours,Healthy,Yes,12,2,Yes,Yes,A3,313,4
+M,25,2,3,More than 8 hours,Moderate,No,2,4,Yes,No,A2,314,9
+M,20,1,3,More than 8 hours,Healthy,Yes,0,1,No,No,A1,315,9
+M,33,3,3,Less than 5 hours,Healthy,No,12,1,Yes,No,A3,316,4
+F,25,3,3,5-6 hours,Unhealthy,Yes,12,4,Yes,Yes,A2,317,5.5
+M,19,5,2,5-6 hours,Healthy,Yes,11,3,Yes,Yes,A1,318,5.5
+F,21,5,1,More than 8 hours,Moderate,No,11,3,No,Yes,A1,319,9
+F,24,4,4,Less than 5 hours,Healthy,Yes,11,2,No,Yes,A1,320,4
+M,26,4,3,7-8 hours,Healthy,Yes,7,4,Yes,Yes,A2,321,7.5
+M,21,1,2,5-6 hours,Healthy,Yes,9,4,No,Yes,A1,322,5.5
+M,25,5,3,More than 8 hours,Unhealthy,No,7,3,No,Yes,A2,323,9
+M,33,4,1,Less than 5 hours,Moderate,No,4,5,No,Yes,A3,324,4
+F,23,5,1,7-8 hours,Healthy,No,3,4,Yes,Yes,A1,325,7.5
+F,18,5,4,7-8 hours,Moderate,Yes,9,1,No,Yes,A1,326,7.5
+F,27,5,5,Less than 5 hours,Unhealthy,No,9,2,No,No,A2,327,4
+F,20,3,4,Less than 5 hours,Moderate,No,12,3,Yes,Yes,A1,328,4
+F,21,5,1,More than 8 hours,Unhealthy,No,11,5,No,Yes,A1,329,9
+F,28,2,4,5-6 hours,Healthy,No,10,5,Yes,No,A2,330,5.5
+F,24,2,4,5-6 hours,Unhealthy,No,5,2,No,No,A1,331,5.5
+F,23,2,1,7-8 hours,Unhealthy,Yes,10,4,Yes,Yes,A1,332,7.5
+F,24,5,2,5-6 hours,Moderate,Yes,7,3,No,Yes,A1,333,5.5
+F,34,2,5,5-6 hours,Healthy,No,11,4,No,No,A3,334,5.5
+F,30,3,3,5-6 hours,Moderate,No,12,1,Yes,No,A2,335,5.5
+M,19,3,3,More than 8 hours,Unhealthy,Yes,8,1,No,Yes,A1,336,9
+F,30,5,2,7-8 hours,Moderate,Yes,9,2,No,Yes,A2,337,7.5
+M,22,3,4,Less than 5 hours,Healthy,Yes,5,4,No,Yes,A1,338,4
+F,18,4,3,5-6 hours,Unhealthy,Yes,12,5,Yes,Yes,A1,339,5.5
+M,32,5,5,More than 8 hours,Healthy,Yes,10,2,No,No,A3,340,9
+M,18,3,4,5-6 hours,Healthy,Yes,8,4,Yes,Yes,A1,341,5.5
+M,21,1,3,5-6 hours,Moderate,No,7,3,Yes,No,A1,342,5.5
+M,24,3,4,Less than 5 hours,Moderate,Yes,8,3,No,Yes,A1,343,4
+F,34,3,5,More than 8 hours,Moderate,Yes,4,5,No,No,A3,344,9
+M,34,1,2,Less than 5 hours,Moderate,No,7,4,Yes,No,A3,345,4
+M,19,5,3,7-8 hours,Healthy,Yes,5,2,Yes,Yes,A1,346,7.5
+M,23,1,5,Less than 5 hours,Moderate,No,11,2,Yes,No,A1,347,4
+M,25,2,2,More than 8 hours,Moderate,Yes,2,4,No,Yes,A2,348,9
+M,19,3,1,Less than 5 hours,Unhealthy,No,10,4,No,Yes,A1,349,4
+F,25,1,2,7-8 hours,Healthy,No,12,4,Yes,No,A2,350,7.5
+M,29,5,2,More than 8 hours,Unhealthy,No,1,4,Yes,Yes,A2,351,9
+M,30,3,2,5-6 hours,Moderate,No,0,4,No,No,A2,352,5.5
+M,29,2,3,7-8 hours,Moderate,No,1,2,No,No,A2,353,7.5
+M,31,4,1,More than 8 hours,Healthy,Yes,7,2,No,Yes,A3,354,9
+M,25,1,4,7-8 hours,Unhealthy,Yes,12,4,No,Yes,A2,355,7.5
+F,18,1,5,More than 8 hours,Moderate,Yes,7,5,No,Yes,A1,356,9
+M,33,3,4,More than 8 hours,Unhealthy,Yes,9,1,Yes,No,A3,357,9
+M,32,1,3,7-8 hours,Unhealthy,Yes,0,4,Yes,No,A3,358,7.5
+M,29,2,4,More than 8 hours,Unhealthy,No,10,5,No,No,A2,359,9
+M,28,5,3,Less than 5 hours,Healthy,No,1,2,No,No,A2,360,4
+F,21,5,4,More than 8 hours,Unhealthy,No,0,5,No,Yes,A1,361,9
+M,31,2,3,Less than 5 hours,Moderate,No,10,3,No,No,A3,362,4
+F,34,3,5,Less than 5 hours,Moderate,Yes,3,5,No,No,A3,363,4
+F,30,3,4,5-6 hours,Healthy,Yes,4,3,Yes,No,A2,364,5.5
+F,28,4,3,5-6 hours,Unhealthy,Yes,6,3,Yes,Yes,A2,365,5.5
+M,29,1,5,More than 8 hours,Unhealthy,No,2,1,No,No,A2,366,9
+F,30,2,3,7-8 hours,Unhealthy,Yes,2,3,No,No,A2,367,7.5
+F,30,5,4,More than 8 hours,Unhealthy,No,12,1,Yes,No,A2,368,9
+F,24,3,1,5-6 hours,Healthy,No,6,4,Yes,Yes,A1,369,5.5
+F,27,5,1,7-8 hours,Unhealthy,No,7,1,Yes,Yes,A2,370,7.5
+F,32,4,4,Less than 5 hours,Unhealthy,Yes,4,1,No,No,A3,371,4
+M,25,4,3,Less than 5 hours,Unhealthy,No,1,4,No,Yes,A2,372,4
+F,24,1,5,5-6 hours,Healthy,No,11,2,Yes,No,A1,373,5.5
+M,22,3,4,5-6 hours,Moderate,No,2,4,Yes,No,A1,374,5.5
+M,20,2,5,More than 8 hours,Unhealthy,Yes,8,5,Yes,Yes,A1,375,9
+F,18,3,5,7-8 hours,Moderate,No,4,1,Yes,No,A1,376,7.5
+M,20,3,3,5-6 hours,Moderate,Yes,8,5,No,Yes,A1,377,5.5
+M,20,3,1,More than 8 hours,Unhealthy,Yes,9,2,No,Yes,A1,378,9
+M,18,3,3,7-8 hours,Moderate,No,6,3,No,No,A1,379,7.5
+M,27,2,3,5-6 hours,Unhealthy,No,7,2,Yes,No,A2,380,5.5
+F,31,1,3,5-6 hours,Moderate,No,8,1,Yes,No,A3,381,5.5
+F,22,1,4,7-8 hours,Unhealthy,Yes,10,2,Yes,Yes,A1,382,7.5
+M,34,5,1,Less than 5 hours,Moderate,Yes,6,4,No,Yes,A3,383,4
+M,32,2,1,Less than 5 hours,Unhealthy,Yes,7,1,No,Yes,A3,384,4
+F,22,5,5,5-6 hours,Unhealthy,No,0,3,No,No,A1,385,5.5
+F,21,2,1,5-6 hours,Healthy,Yes,1,4,Yes,Yes,A1,386,5.5
+F,34,2,5,Less than 5 hours,Moderate,Yes,1,1,Yes,No,A3,387,4
+M,29,5,4,7-8 hours,Unhealthy,Yes,5,5,No,Yes,A2,388,7.5
+F,26,4,2,More than 8 hours,Healthy,No,4,2,Yes,No,A2,389,9
+F,27,4,2,5-6 hours,Healthy,No,1,4,No,No,A2,390,5.5
+M,30,3,2,7-8 hours,Moderate,Yes,10,5,Yes,Yes,A2,391,7.5
+M,24,3,5,Less than 5 hours,Healthy,No,6,1,Yes,No,A1,392,4
+M,27,3,4,5-6 hours,Healthy,No,11,1,No,No,A2,393,5.5
+M,31,5,2,More than 8 hours,Unhealthy,No,10,5,Yes,Yes,A3,394,9
+F,30,5,4,7-8 hours,Healthy,No,6,4,Yes,No,A2,395,7.5
+M,30,3,3,5-6 hours,Moderate,No,4,4,Yes,No,A2,396,5.5
+F,32,1,3,Less than 5 hours,Healthy,Yes,5,4,Yes,No,A3,397,4
+M,33,2,5,More than 8 hours,Unhealthy,No,9,3,Yes,No,A3,398,9
+F,30,5,1,Less than 5 hours,Unhealthy,No,9,1,No,Yes,A2,399,4
+M,19,2,4,More than 8 hours,Unhealthy,No,6,3,No,No,A1,400,9
+F,21,1,2,5-6 hours,Moderate,Yes,2,2,No,No,A1,401,5.5
+F,18,3,1,More than 8 hours,Moderate,No,3,1,Yes,No,A1,402,9
+M,34,3,4,7-8 hours,Unhealthy,Yes,1,2,No,No,A3,403,7.5
+F,31,5,2,Less than 5 hours,Healthy,Yes,8,5,Yes,Yes,A3,404,4
+M,23,4,5,5-6 hours,Moderate,No,4,1,No,No,A1,405,5.5
+F,21,1,1,7-8 hours,Moderate,No,11,3,No,No,A1,406,7.5
+M,23,3,3,7-8 hours,Unhealthy,Yes,11,1,Yes,Yes,A1,407,7.5
+M,28,4,3,Less than 5 hours,Healthy,Yes,7,5,No,Yes,A2,408,4
+F,28,3,5,7-8 hours,Unhealthy,Yes,5,1,Yes,No,A2,409,7.5
+F,33,1,4,More than 8 hours,Unhealthy,No,12,5,No,No,A3,410,9
+F,29,4,3,7-8 hours,Unhealthy,Yes,4,2,Yes,Yes,A2,411,7.5
+M,23,1,1,5-6 hours,Unhealthy,Yes,1,4,No,Yes,A1,412,5.5
+F,33,1,1,Less than 5 hours,Moderate,No,10,4,Yes,No,A3,413,4
+F,28,3,3,Less than 5 hours,Healthy,No,3,1,No,No,A2,414,4
+F,19,1,5,More than 8 hours,Moderate,No,2,1,Yes,No,A1,415,9
+M,24,4,5,7-8 hours,Moderate,No,4,1,No,No,A1,416,7.5
+F,28,1,1,7-8 hours,Healthy,No,2,3,Yes,No,A2,417,7.5
+M,34,3,4,5-6 hours,Healthy,No,4,2,Yes,No,A3,418,5.5
+M,29,1,3,5-6 hours,Unhealthy,Yes,2,5,Yes,Yes,A2,419,5.5
+F,24,4,5,7-8 hours,Unhealthy,Yes,4,5,Yes,Yes,A1,420,7.5
+F,29,5,3,7-8 hours,Moderate,No,12,5,No,Yes,A2,421,7.5
+F,18,2,5,7-8 hours,Moderate,No,8,2,No,No,A1,422,7.5
+F,21,3,2,7-8 hours,Unhealthy,Yes,6,1,Yes,Yes,A1,423,7.5
+F,28,4,2,More than 8 hours,Moderate,No,0,3,No,No,A2,424,9
+M,19,4,2,5-6 hours,Moderate,No,11,1,Yes,Yes,A1,425,5.5
+M,26,5,4,Less than 5 hours,Unhealthy,Yes,11,1,Yes,Yes,A2,426,4
+F,27,4,2,5-6 hours,Unhealthy,No,2,4,Yes,Yes,A2,427,5.5
+F,22,5,2,7-8 hours,Moderate,Yes,5,1,Yes,Yes,A1,428,7.5
+F,27,3,4,5-6 hours,Healthy,No,0,2,No,No,A2,429,5.5
+F,31,5,4,More than 8 hours,Healthy,No,6,2,No,No,A3,430,9
+M,28,3,2,More than 8 hours,Healthy,No,3,1,Yes,No,A2,431,9
+M,29,3,3,7-8 hours,Moderate,No,6,1,Yes,No,A2,432,7.5
+F,27,5,2,5-6 hours,Unhealthy,Yes,7,2,No,Yes,A2,433,5.5
+F,24,1,2,5-6 hours,Moderate,Yes,9,5,No,Yes,A1,434,5.5
+M,31,1,4,More than 8 hours,Healthy,No,4,4,Yes,No,A3,435,9
+F,32,3,1,7-8 hours,Moderate,Yes,7,3,Yes,Yes,A3,436,7.5
+F,24,1,5,7-8 hours,Unhealthy,Yes,10,5,Yes,Yes,A1,437,7.5
+F,25,5,5,7-8 hours,Unhealthy,No,9,4,No,Yes,A2,438,7.5
+F,31,4,5,7-8 hours,Moderate,Yes,10,4,Yes,Yes,A3,439,7.5
+F,34,2,4,7-8 hours,Moderate,No,10,1,No,No,A3,440,7.5
+F,32,3,4,5-6 hours,Moderate,Yes,12,1,No,No,A3,441,5.5
+F,22,1,2,More than 8 hours,Healthy,Yes,3,4,No,No,A1,442,9
+F,29,3,3,5-6 hours,Healthy,Yes,10,1,Yes,Yes,A2,443,5.5
+F,25,3,1,7-8 hours,Healthy,No,9,3,No,No,A2,444,7.5
+M,27,5,5,Less than 5 hours,Healthy,Yes,6,3,Yes,Yes,A2,445,4
+F,18,4,4,5-6 hours,Unhealthy,No,10,2,No,Yes,A1,446,5.5
+F,30,2,3,Less than 5 hours,Unhealthy,No,2,1,No,No,A2,447,4
+M,21,2,4,More than 8 hours,Unhealthy,Yes,3,3,Yes,Yes,A1,448,9
+M,20,3,1,7-8 hours,Moderate,Yes,4,4,Yes,Yes,A1,449,7.5
+M,28,3,5,5-6 hours,Moderate,Yes,10,4,Yes,Yes,A2,450,5.5
+F,20,3,2,7-8 hours,Moderate,Yes,5,4,Yes,Yes,A1,451,7.5
+M,30,3,2,7-8 hours,Unhealthy,Yes,2,4,Yes,Yes,A2,452,7.5
+F,21,3,1,Less than 5 hours,Healthy,Yes,9,3,Yes,Yes,A1,453,4
+M,18,5,2,Less than 5 hours,Moderate,Yes,12,1,Yes,Yes,A1,454,4
+F,29,2,4,7-8 hours,Healthy,Yes,0,1,No,No,A2,455,7.5
+F,29,3,5,5-6 hours,Healthy,No,10,1,Yes,No,A2,456,5.5
+M,32,5,1,5-6 hours,Moderate,Yes,12,5,No,Yes,A3,457,5.5
+F,29,2,4,Less than 5 hours,Unhealthy,No,11,2,Yes,No,A2,458,4
+M,25,5,3,More than 8 hours,Unhealthy,Yes,6,4,No,Yes,A2,459,9
+F,32,1,1,More than 8 hours,Moderate,Yes,6,2,No,No,A3,460,9
+F,28,3,1,More than 8 hours,Healthy,Yes,5,3,Yes,Yes,A2,461,9
+M,24,3,2,Less than 5 hours,Unhealthy,Yes,5,1,Yes,Yes,A1,462,4
+F,19,1,2,More than 8 hours,Healthy,No,7,5,No,No,A1,463,9
+M,30,3,2,Less than 5 hours,Healthy,Yes,1,1,No,No,A2,464,4
+M,32,3,1,7-8 hours,Unhealthy,Yes,1,4,No,Yes,A3,465,7.5
+M,21,1,5,5-6 hours,Healthy,Yes,10,2,Yes,No,A1,466,5.5
+F,20,3,4,More than 8 hours,Unhealthy,Yes,3,4,Yes,Yes,A1,467,9
+M,26,1,4,5-6 hours,Unhealthy,Yes,10,4,Yes,Yes,A2,468,5.5
+M,20,2,4,Less than 5 hours,Healthy,No,12,5,Yes,Yes,A1,469,4
+M,32,3,4,5-6 hours,Moderate,Yes,12,3,Yes,Yes,A3,470,5.5
+M,24,4,1,7-8 hours,Moderate,No,5,3,Yes,Yes,A1,471,7.5
+M,21,1,4,Less than 5 hours,Moderate,Yes,5,5,Yes,Yes,A1,472,4
+M,28,4,2,7-8 hours,Unhealthy,Yes,11,3,No,Yes,A2,473,7.5
+F,34,1,4,7-8 hours,Moderate,No,5,1,Yes,No,A3,474,7.5
+M,23,1,1,7-8 hours,Healthy,No,2,5,Yes,No,A1,475,7.5
+F,32,5,1,5-6 hours,Healthy,Yes,7,1,Yes,Yes,A3,476,5.5
+F,28,4,2,Less than 5 hours,Moderate,Yes,11,5,Yes,Yes,A2,477,4
+M,22,2,4,7-8 hours,Moderate,Yes,0,2,No,No,A1,478,7.5
+M,22,2,5,Less than 5 hours,Moderate,No,10,5,No,No,A1,479,4
+F,20,3,4,7-8 hours,Healthy,Yes,11,4,No,Yes,A1,480,7.5
+F,24,5,4,7-8 hours,Moderate,Yes,2,4,No,Yes,A1,481,7.5
+M,29,1,3,Less than 5 hours,Unhealthy,Yes,2,3,No,No,A2,482,4
+F,19,1,5,Less than 5 hours,Moderate,No,3,3,Yes,No,A1,483,4
+F,22,2,2,Less than 5 hours,Healthy,Yes,0,1,Yes,No,A1,484,4
+F,31,3,4,7-8 hours,Moderate,No,3,2,No,No,A3,485,7.5
+F,23,1,4,More than 8 hours,Moderate,Yes,4,1,No,No,A1,486,9
+F,22,1,2,7-8 hours,Unhealthy,No,1,2,No,No,A1,487,7.5
+M,25,3,2,More than 8 hours,Unhealthy,Yes,8,1,No,Yes,A2,488,9
+M,21,2,3,5-6 hours,Unhealthy,Yes,6,5,Yes,Yes,A1,489,5.5
+M,25,1,1,More than 8 hours,Healthy,No,9,2,No,No,A2,490,9
+M,28,5,1,Less than 5 hours,Unhealthy,No,12,3,No,Yes,A2,491,4
+M,20,3,4,Less than 5 hours,Moderate,No,9,5,Yes,Yes,A1,492,4
+F,27,2,3,5-6 hours,Unhealthy,No,11,2,Yes,No,A2,493,5.5
+F,21,5,1,5-6 hours,Moderate,No,12,3,No,Yes,A1,494,5.5
+M,34,4,1,7-8 hours,Unhealthy,Yes,11,5,No,Yes,A3,495,7.5
+F,28,3,4,7-8 hours,Moderate,No,3,1,No,No,A2,496,7.5
+M,29,3,1,7-8 hours,Unhealthy,Yes,9,3,Yes,Yes,A2,497,7.5
+M,26,5,2,More than 8 hours,Unhealthy,No,8,3,No,Yes,A2,498,9
+M,24,2,1,Less than 5 hours,Unhealthy,Yes,8,5,No,Yes,A1,499,4
+F,23,3,5,5-6 hours,Healthy,No,1,5,Yes,No,A1,500,5.5
+M,33,4,4,More than 8 hours,Healthy,No,8,1,Yes,No,A3,501,9
+M,18,5,3,More than 8 hours,Unhealthy,No,6,2,Yes,Yes,A1,502,9

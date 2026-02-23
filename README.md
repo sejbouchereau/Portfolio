@@ -1,6 +1,6 @@
 ## Samuel Bouchereau
 
-#### Business Intelligence Analyst | Data & Automation  
+#### Business Intelligence | Data Analytics | AI & Automation  
 
 📍 Montreal, QC  
 📧 [sejbouchereau@gmail.com](mailto:sejbouchereau@gmail.com)  
@@ -10,7 +10,7 @@
 
 ### Profile
 
-Business Intelligence Analyst with a foundation in **IoT** and **AI**, specializing in designing clear, user-focused dashboards that drive informed decision-making. I structure and model data to surface meaningful insights quickly and effectively.  
+BI Analyst with a foundation in **IoT** and **AI**, specializing in designing clear, user-focused dashboards that drive informed decision-making. I structure and model data to surface meaningful insights quickly and effectively.  
 
 Versatile, highly adaptable, and efficient in execution, I deliver reliable BI solutions with precision and clarity.
 
@@ -47,4 +47,4 @@ Software Developer — Private Client (2025–2026)
 
 - Google Business Intelligence — Professional Certificate, Coursera (2025)
 - Advanced Data Analytics — Professional Certificate, Udemy (2025)
-- Internet of Things & AI — AEC, Ahuntsic College (2023-2025)
+- Internet of Things & AI — AEC, Ahuntsic College (2023–2025)

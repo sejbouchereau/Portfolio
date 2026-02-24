@@ -10,9 +10,7 @@
 
 ### Profile
 
-BI Analyst with a foundation in **IoT** and **AI**, specializing in designing clear, user-focused dashboards that drive informed decision-making. I structure and model data to surface meaningful insights quickly and effectively.  
-
-Versatile, highly adaptable, and efficient in execution, I deliver reliable BI solutions with precision and clarity.
+BI Analyst with a foundation in **IoT** and **AI**, specializing in designing clear, user-focused dashboards that drive informed decision-making. I structure and model data to surface meaningful insights quickly and effectively.
 
 ---
 
@@ -38,8 +36,8 @@ Versatile, highly adaptable, and efficient in execution, I deliver reliable BI s
 
 Software Developer — Private Client (2025–2026)
 - Built and maintained a Python-based data collection system for real estate platforms.
-- Automated repetitive processes and structured datasets for reporting.
-- Saved hundreds of hours of manual work.
+- Processed and cleaned the collected data for reporting and database integration.
+- Saved hundreds of hours of manual data collection by automating repetitive tasks.
 
 ---
 

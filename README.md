@@ -1,6 +1,6 @@
 ## Samuel Bouchereau
 
-#### Business Intelligence | Data Analytics | AI & Automation  
+#### Business Intelligence & Data Analyst | Insight-Driven Dashboards & Automation
 
 📍 Montreal, QC  
 📧 [sejbouchereau@gmail.com](mailto:sejbouchereau@gmail.com)  
@@ -10,7 +10,9 @@
 
 ### Profile
 
-BI Analyst with a foundation in **IoT** and **AI**, specializing in designing clear, user-focused dashboards that drive informed decision-making. I structure and model data to surface meaningful insights quickly and effectively.
+Business Intelligence Analyst focused on designing clear, user-oriented dashboards that translate complex data into practical decision support. I specialize in structured data modeling, KPI-driven reporting, and building solutions that are both technically sound and intuitive to use.  
+
+Skills: Power BI | Tableau | SQL | Python | Power Query | DAX | Data Modeling | ETL | Dashboard Design | API Integration
 
 ---
 
@@ -19,25 +21,28 @@ BI Analyst with a foundation in **IoT** and **AI**, specializing in designing cl
 - Interactive Tableau dashboard exploring links between stress, sleep, academic pressure, and depression.
 - Clean, validated SQL dataset supporting reliable KPI and behavioral analysis.
 - User-focused design with dynamic filtering and Light/Dark mode for intuitive exploration.
+- Tools: Tableau | SQL | Figma | Git
 
 #### 2. [Montreal Weather: Real-Time & Forecast Analysis](./3-montreal-weather) | [`Dashboard`](./3-montreal-weather/medias/view.png)
 - Real-time Power BI dashboard visualizing current and 5-day Montreal weather via OpenWeather APIs.
 - Live API data transformed in Power Query for structured, refreshable reporting.
 - Clean, mobile-inspired interface focused on clarity and key atmospheric metrics.
+- Tools: Power BI | Power Query | API | Figma | Git
 
 #### 3. [NBA Players: League Trends & Playstyle Analysis](./2-nba-players) | [`Dashboard`](https://public.tableau.com/app/profile/samuel.bouchereau/viz/NBAPlayersTrendsPerformanceandPlaystyleAnalysis/League)
 - NBA analysis (1996–2022) tracking international growth, talent pipelines, and playstyle trends.
 - Cleaned and organized dataset combining player info, draft details, and performance statistics.
 - Interactive Tableau dashboard with league and player views and dynamic filters.
+- Tools: Tableau | SQL | Python | Figma | Git
 
 ---
 
 ### Experience
 
 Software Developer — Private Client (2025–2026)
-- Built and maintained a Python-based data collection system for real estate platforms.
-- Processed and cleaned the collected data for reporting and database integration.
-- Saved hundreds of hours of manual data collection by automating repetitive tasks.
+- Automated real estate data collection, eliminating hundreds of hours of manual work.
+- Cleaned and structured datasets for reporting and database integration.
+- Maintained and adapted the system to platform changes to ensure consistent data accuracy.
 
 ---
 
